@@ -1,0 +1,493 @@
+mode,date,tap,loc,count
+train,20170101,off,Adamstown Station,48
+train,20170101,off,Albion Park Station,130
+train,20170101,off,Allawah Station,1375
+train,20170101,off,Arncliffe Station,1350
+train,20170101,off,Artarmon Station,2923
+train,20170101,off,Ashfield Station,7913
+train,20170101,off,Asquith Station,305
+train,20170101,off,Auburn Station,9568
+train,20170101,off,Austinmer Station,84
+train,20170101,off,Banksia Station,819
+train,20170101,off,Bankstown Station,4733
+train,20170101,off,Bardwell Park Station,448
+train,20170101,off,Bathurst Station,59
+train,20170101,off,Beecroft Station,791
+train,20170101,off,Bellambi Station,59
+train,20170101,off,Belmore Station,1545
+train,20170101,off,Berala Station,1079
+train,20170101,off,Beresfield Station,79
+train,20170101,off,Berowra Station,420
+train,20170101,off,Berry Station,91
+train,20170101,off,Beverly Hills Station,1037
+train,20170101,off,Bexley North Station,513
+train,20170101,off,Birrong Station,364
+train,20170101,off,Blackheath Station,230
+train,20170101,off,Blacktown Station,9048
+train,20170101,off,Blaxland Station,214
+train,20170101,off,Bomaderry Station,264
+train,20170101,off,Bombo Station,39
+train,20170101,off,Bondi Junction Station,21446
+train,20170101,off,Bowral Station,123
+train,20170101,off,Broadmeadow Station,626
+train,20170101,off,Bullaburra Station,42
+train,20170101,off,Bulli Station,125
+train,20170101,off,Burwood Station,9619
+train,20170101,off,Cabramatta Station,5362
+train,20170101,off,Campbelltown Station,2482
+train,20170101,off,Campsie Station,5653
+train,20170101,off,Canley Vale Station,1363
+train,20170101,off,Canterbury Station,1422
+train,20170101,off,Cardiff Station,448
+train,20170101,off,Caringbah Station,1163
+train,20170101,off,Carlingford Station,132
+train,20170101,off,Carlton Station,1306
+train,20170101,off,Carramar Station,276
+train,20170101,off,Casula Station,156
+train,20170101,off,Central Station,55691
+train,20170101,off,Chatswood Station,13929
+train,20170101,off,Cheltenham Station,341
+train,20170101,off,Chester Hill Station,488
+train,20170101,off,Circular Quay Station,37781
+train,20170101,off,Clyde Station,394
+train,20170101,off,Como Station,301
+train,20170101,off,Concord West Station,666
+train,20170101,off,Coniston Station,102
+train,20170101,off,Corrimal Station,78
+train,20170101,off,Cowan Station,42
+train,20170101,off,Cronulla Station,2644
+train,20170101,off,Croydon Station,885
+train,20170101,off,Dapto Station,331
+train,20170101,off,Denistone Station,173
+train,20170101,off,Domestic Station,6940
+train,20170101,off,Doonside Station,760
+train,20170101,off,Dulwich Hill Station,1583
+train,20170101,off,Dundas Station,79
+train,20170101,off,East Hills Station,272
+train,20170101,off,East Richmond Station,61
+train,20170101,off,Eastwood Station,4319
+train,20170101,off,Edgecliff Station,3836
+train,20170101,off,Edmondson Park Station,229
+train,20170101,off,Emu Plains Station,289
+train,20170101,off,Engadine Station,467
+train,20170101,off,Epping Station,5277
+train,20170101,off,Erskineville Station,1618
+train,20170101,off,Fairfield Station,3301
+train,20170101,off,Fairy Meadow Station,137
+train,20170101,off,Fassifern Station,200
+train,20170101,off,Faulconbridge Station,53
+train,20170101,off,Flemington Station,2760
+train,20170101,off,Glenbrook Station,165
+train,20170101,off,Glenfield Station,2147
+train,20170101,off,Gordon Station,2774
+train,20170101,off,Gosford Station,2103
+train,20170101,off,Goulburn Station,42
+train,20170101,off,Granville Station,4439
+train,20170101,off,Green Square Station,4053
+train,20170101,off,Guildford Station,1411
+train,20170101,off,Gymea Station,908
+train,20170101,off,Hamilton Station,1175
+train,20170101,off,Harris Park Station,2248
+train,20170101,off,Hawkesbury River Station,178
+train,20170101,off,Hazelbrook Station,125
+train,20170101,off,Heathcote Station,204
+train,20170101,off,Helensburgh Station,573
+train,20170101,off,Holsworthy Station,1267
+train,20170101,off,Homebush Station,1957
+train,20170101,off,Hornsby Station,5231
+train,20170101,off,Hurlstone Park Station,645
+train,20170101,off,Hurstville Station,11222
+train,20170101,off,Ingleburn Station,1199
+train,20170101,off,International Station,5285
+train,20170101,off,Jannali Station,898
+train,20170101,off,Katoomba Station,2161
+train,20170101,off,Kiama Station,778
+train,20170101,off,Killara Station,1090
+train,20170101,off,Kings Cross Station,11036
+train,20170101,off,Kingsgrove Station,1223
+train,20170101,off,Kingswood Station,508
+train,20170101,off,Kirrawee Station,569
+train,20170101,off,Kogarah Station,6037
+train,20170101,off,Lakemba Station,2847
+train,20170101,off,Lapstone Station,62
+train,20170101,off,Lawson Station,78
+train,20170101,off,Leightonfield Station,47
+train,20170101,off,Leppington Station,373
+train,20170101,off,Leumeah Station,948
+train,20170101,off,Leura Station,261
+train,20170101,off,Lewisham Station,1129
+train,20170101,off,Lidcombe Station,7954
+train,20170101,off,Lindfield Station,1404
+train,20170101,off,Lisarow Station,68
+train,20170101,off,Lithgow Station,196
+train,20170101,off,Liverpool Station,3269
+train,20170101,off,Loftus Station,117
+train,20170101,off,Macarthur Station,835
+train,20170101,off,Macdonaldtown Station,827
+train,20170101,off,Macquarie Fields Station,453
+train,20170101,off,Macquarie Park Station,914
+train,20170101,off,Macquarie University Station,4688
+train,20170101,off,Maitland Station,99
+train,20170101,off,Marayong Station,244
+train,20170101,off,Marrickville Station,2176
+train,20170101,off,Martin Place Station,7088
+train,20170101,off,Mascot Station,7951
+train,20170101,off,Meadowbank Station,1748
+train,20170101,off,Medlow Bath Station,62
+train,20170101,off,Merrylands Station,3204
+train,20170101,off,Milsons Point Station,5329
+train,20170101,off,Minnamurra Station,61
+train,20170101,off,Minto Station,1305
+train,20170101,off,Miranda Station,1479
+train,20170101,off,Mittagong Station,97
+train,20170101,off,Morisset Station,457
+train,20170101,off,Mortdale Station,1894
+train,20170101,off,Moss Vale Station,124
+train,20170101,off,Mount Colah Station,144
+train,20170101,off,Mount Druitt Station,2527
+train,20170101,off,Mount Kuring-gai Station,65
+train,20170101,off,Mount Victoria Station,93
+train,20170101,off,Mulgrave Station,84
+train,20170101,off,Museum Station,7554
+train,20170101,off,Narara Station,66
+train,20170101,off,Narwee Station,852
+train,20170101,off,Newcastle Station,88
+train,20170101,off,Newtown Station,6470
+train,20170101,off,Normanhurst Station,382
+train,20170101,off,North Ryde Station,793
+train,20170101,off,North Strathfield Station,746
+train,20170101,off,North Sydney Station,5293
+train,20170101,off,North Wollongong Station,952
+train,20170101,off,Oak Flats Station,224
+train,20170101,off,Oatley Station,605
+train,20170101,off,Olympic Park Station,2297
+train,20170101,off,Otford Station,54
+train,20170101,off,Ourimbah Station,84
+train,20170101,off,Padstow Station,1685
+train,20170101,off,Panania Station,444
+train,20170101,off,Parramatta Station,13974
+train,20170101,off,Pendle Hill Station,1242
+train,20170101,off,Pennant Hills Station,1552
+train,20170101,off,Penrith Station,2356
+train,20170101,off,Penshurst Station,1650
+train,20170101,off,Petersham Station,1324
+train,20170101,off,Picton Station,52
+train,20170101,off,Point Clare Station,74
+train,20170101,off,Punchbowl Station,1408
+train,20170101,off,Pymble Station,874
+train,20170101,off,Quakers Hill Station,745
+train,20170101,off,Redfern Station,7793
+train,20170101,off,Regents Park Station,480
+train,20170101,off,Revesby Station,1699
+train,20170101,off,Rhodes Station,3559
+train,20170101,off,Richmond Station,357
+train,20170101,off,Riverstone Station,190
+train,20170101,off,Riverwood Station,2250
+train,20170101,off,Rockdale Station,7185
+train,20170101,off,Rooty Hill Station,941
+train,20170101,off,Rosehill Station,210
+train,20170101,off,Roseville Station,1388
+train,20170101,off,Rydalmere Station,38
+train,20170101,off,Schofields Station,402
+train,20170101,off,Sefton Station,218
+train,20170101,off,Seven Hills Station,2850
+train,20170101,off,Shellharbour Junction Station,136
+train,20170101,off,Springwood Station,409
+train,20170101,off,St James Station,10055
+train,20170101,off,St Leonards Station,5307
+train,20170101,off,St Marys Station,1146
+train,20170101,off,St Peters Station,1875
+train,20170101,off,Stanmore Station,1796
+train,20170101,off,Stanwell Park Station,53
+train,20170101,off,Strathfield Station,15396
+train,20170101,off,Summer Hill Station,1822
+train,20170101,off,Sutherland Station,3301
+train,20170101,off,Sydenham Station,3059
+train,20170101,off,Tahmoor Station,74
+train,20170101,off,Tascott Station,50
+train,20170101,off,Telarah Station,46
+train,20170101,off,Telopea Station,136
+train,20170101,off,Tempe Station,544
+train,20170101,off,Thirroul Station,403
+train,20170101,off,Thornleigh Station,802
+train,20170101,off,Toongabbie Station,944
+train,20170101,off,Town Hall Station,47875
+train,20170101,off,Towradgi Station,75
+train,20170101,off,Tuggerah Station,590
+train,20170101,off,Turramurra Station,1464
+train,20170101,off,Turrella Station,686
+train,20170101,off,Unanderra Station,693
+train,20170101,off,UNKNOWN,13937
+train,20170101,off,Victoria Street Station,66
+train,20170101,off,Villawood Station,245
+train,20170101,off,Vineyard Station,63
+train,20170101,off,Wahroonga Station,744
+train,20170101,off,Waitara Station,1172
+train,20170101,off,Warabrook Station,38
+train,20170101,off,Waratah Station,43
+train,20170101,off,Warnervale Station,66
+train,20170101,off,Warrawee Station,280
+train,20170101,off,Warrimoo Station,70
+train,20170101,off,Warwick Farm Station,1170
+train,20170101,off,Waterfall Station,255
+train,20170101,off,Waverton Station,978
+train,20170101,off,Wentworth Falls Station,218
+train,20170101,off,Wentworthville Station,1636
+train,20170101,off,Werrington Station,285
+train,20170101,off,West Ryde Station,1819
+train,20170101,off,Westmead Station,3453
+train,20170101,off,Wiley Park Station,1195
+train,20170101,off,Windsor Station,279
+train,20170101,off,Wolli Creek Station,5063
+train,20170101,off,Wollongong Station,1442
+train,20170101,off,Wollstonecraft Station,1188
+train,20170101,off,Woodford Station,59
+train,20170101,off,Woolooware Station,567
+train,20170101,off,Woonona Station,114
+train,20170101,off,Woy Woy Station,1763
+train,20170101,off,Wyee Station,142
+train,20170101,off,Wynyard Station,14322
+train,20170101,off,Wyong Station,645
+train,20170101,off,Yagoona Station,761
+train,20170101,off,Yennora Station,189
+train,20170101,on,Albion Park Station,105
+train,20170101,on,Allawah Station,949
+train,20170101,on,Arncliffe Station,926
+train,20170101,on,Artarmon Station,2064
+train,20170101,on,Ashfield Station,5242
+train,20170101,on,Asquith Station,244
+train,20170101,on,Auburn Station,6177
+train,20170101,on,Austinmer Station,47
+train,20170101,on,Banksia Station,546
+train,20170101,on,Bankstown Station,3308
+train,20170101,on,Bardwell Park Station,314
+train,20170101,on,Bathurst Station,76
+train,20170101,on,Beecroft Station,476
+train,20170101,on,Bellambi Station,49
+train,20170101,on,Belmore Station,1070
+train,20170101,on,Berala Station,833
+train,20170101,on,Beresfield Station,66
+train,20170101,on,Berowra Station,333
+train,20170101,on,Berry Station,88
+train,20170101,on,Beverly Hills Station,683
+train,20170101,on,Bexley North Station,363
+train,20170101,on,Birrong Station,265
+train,20170101,on,Blackheath Station,200
+train,20170101,on,Blacktown Station,6473
+train,20170101,on,Blaxland Station,158
+train,20170101,on,Bomaderry Station,276
+train,20170101,on,Bondi Junction Station,16120
+train,20170101,on,Bowral Station,81
+train,20170101,on,Broadmeadow Station,499
+train,20170101,on,Bulli Station,68
+train,20170101,on,Burwood Station,6872
+train,20170101,on,Cabramatta Station,4242
+train,20170101,on,Campbelltown Station,1809
+train,20170101,on,Campsie Station,3714
+train,20170101,on,Canley Vale Station,1047
+train,20170101,on,Canterbury Station,1021
+train,20170101,on,Cardiff Station,421
+train,20170101,on,Caringbah Station,799
+train,20170101,on,Carlingford Station,81
+train,20170101,on,Carlton Station,911
+train,20170101,on,Carramar Station,208
+train,20170101,on,Casula Station,103
+train,20170101,on,Central Station,65651
+train,20170101,on,Chatswood Station,10576
+train,20170101,on,Cheltenham Station,278
+train,20170101,on,Chester Hill Station,346
+train,20170101,on,Circular Quay Station,58733
+train,20170101,on,Clyde Station,271
+train,20170101,on,Como Station,219
+train,20170101,on,Concord West Station,510
+train,20170101,on,Coniston Station,72
+train,20170101,on,Corrimal Station,78
+train,20170101,on,Cronulla Station,2750
+train,20170101,on,Croydon Station,663
+train,20170101,on,Dapto Station,227
+train,20170101,on,Denistone Station,98
+train,20170101,on,Domestic Station,6434
+train,20170101,on,Doonside Station,582
+train,20170101,on,Dulwich Hill Station,1482
+train,20170101,on,Dundas Station,50
+train,20170101,on,East Hills Station,196
+train,20170101,on,Eastwood Station,3523
+train,20170101,on,Edgecliff Station,6599
+train,20170101,on,Edmondson Park Station,158
+train,20170101,on,Emu Plains Station,249
+train,20170101,on,Engadine Station,348
+train,20170101,on,Epping Station,3532
+train,20170101,on,Erskineville Station,1107
+train,20170101,on,Fairfield Station,2331
+train,20170101,on,Fairy Meadow Station,91
+train,20170101,on,Fassifern Station,163
+train,20170101,on,Faulconbridge Station,40
+train,20170101,on,Flemington Station,2137
+train,20170101,on,Gerringong Station,45
+train,20170101,on,Glenbrook Station,150
+train,20170101,on,Glenfield Station,1326
+train,20170101,on,Gordon Station,1717
+train,20170101,on,Gosford Station,1987
+train,20170101,on,Granville Station,2888
+train,20170101,on,Green Square Station,2363
+train,20170101,on,Guildford Station,979
+train,20170101,on,Gymea Station,654
+train,20170101,on,Hamilton Station,1211
+train,20170101,on,Harris Park Station,1311
+train,20170101,on,Hawkesbury River Station,177
+train,20170101,on,Hazelbrook Station,86
+train,20170101,on,Heathcote Station,169
+train,20170101,on,Helensburgh Station,551
+train,20170101,on,Holsworthy Station,787
+train,20170101,on,Homebush Station,1377
+train,20170101,on,Hornsby Station,3707
+train,20170101,on,Hurlstone Park Station,490
+train,20170101,on,Hurstville Station,8283
+train,20170101,on,Ingleburn Station,840
+train,20170101,on,International Station,4221
+train,20170101,on,Jannali Station,654
+train,20170101,on,Katoomba Station,1906
+train,20170101,on,Kiama Station,783
+train,20170101,on,Killara Station,710
+train,20170101,on,Kings Cross Station,13481
+train,20170101,on,Kingsgrove Station,763
+train,20170101,on,Kingswood Station,405
+train,20170101,on,Kirrawee Station,422
+train,20170101,on,Kogarah Station,4020
+train,20170101,on,Lakemba Station,1830
+train,20170101,on,Lapstone Station,40
+train,20170101,on,Lawson Station,51
+train,20170101,on,Leightonfield Station,41
+train,20170101,on,Leppington Station,254
+train,20170101,on,Leumeah Station,660
+train,20170101,on,Leura Station,367
+train,20170101,on,Lewisham Station,956
+train,20170101,on,Lidcombe Station,5552
+train,20170101,on,Lindfield Station,1003
+train,20170101,on,Lisarow Station,69
+train,20170101,on,Lithgow Station,186
+train,20170101,on,Liverpool Station,2268
+train,20170101,on,Loftus Station,73
+train,20170101,on,Macarthur Station,723
+train,20170101,on,Macdonaldtown Station,561
+train,20170101,on,Macquarie Fields Station,304
+train,20170101,on,Macquarie Park Station,652
+train,20170101,on,Macquarie University Station,3228
+train,20170101,on,Maitland Station,83
+train,20170101,on,Marayong Station,188
+train,20170101,on,Marrickville Station,1652
+train,20170101,on,Martin Place Station,17408
+train,20170101,on,Mascot Station,5275
+train,20170101,on,Meadowbank Station,1113
+train,20170101,on,Medlow Bath Station,39
+train,20170101,on,Merrylands Station,2063
+train,20170101,on,Milsons Point Station,5705
+train,20170101,on,Minnamurra Station,50
+train,20170101,on,Minto Station,1024
+train,20170101,on,Miranda Station,1273
+train,20170101,on,Mittagong Station,61
+train,20170101,on,Morisset Station,386
+train,20170101,on,Mortdale Station,1249
+train,20170101,on,Moss Vale Station,80
+train,20170101,on,Mount Colah Station,102
+train,20170101,on,Mount Druitt Station,1678
+train,20170101,on,Mount Kuring-gai Station,44
+train,20170101,on,Mount Victoria Station,72
+train,20170101,on,Mulgrave Station,75
+train,20170101,on,Museum Station,7882
+train,20170101,on,Narara Station,56
+train,20170101,on,Narwee Station,610
+train,20170101,on,Newcastle Station,47
+train,20170101,on,Newtown Station,5089
+train,20170101,on,Normanhurst Station,309
+train,20170101,on,North Ryde Station,506
+train,20170101,on,North Strathfield Station,552
+train,20170101,on,North Sydney Station,8142
+train,20170101,on,North Wollongong Station,992
+train,20170101,on,Oak Flats Station,221
+train,20170101,on,Oatley Station,522
+train,20170101,on,Olympic Park Station,1566
+train,20170101,on,Otford Station,45
+train,20170101,on,Ourimbah Station,53
+train,20170101,on,Padstow Station,1167
+train,20170101,on,Panania Station,336
+train,20170101,on,Parramatta Station,9584
+train,20170101,on,Pendle Hill Station,868
+train,20170101,on,Pennant Hills Station,955
+train,20170101,on,Penrith Station,1835
+train,20170101,on,Penshurst Station,1177
+train,20170101,on,Petersham Station,1093
+train,20170101,on,Picton Station,52
+train,20170101,on,Point Clare Station,52
+train,20170101,on,Punchbowl Station,959
+train,20170101,on,Pymble Station,631
+train,20170101,on,Quakers Hill Station,566
+train,20170101,on,Redfern Station,5626
+train,20170101,on,Regents Park Station,438
+train,20170101,on,Revesby Station,1141
+train,20170101,on,Rhodes Station,2730
+train,20170101,on,Richmond Station,296
+train,20170101,on,Riverstone Station,177
+train,20170101,on,Riverwood Station,1594
+train,20170101,on,Rockdale Station,5055
+train,20170101,on,Rooty Hill Station,734
+train,20170101,on,Rosehill Station,128
+train,20170101,on,Roseville Station,857
+train,20170101,on,Schofields Station,306
+train,20170101,on,Sefton Station,153
+train,20170101,on,Seven Hills Station,1836
+train,20170101,on,Shellharbour Junction Station,102
+train,20170101,on,Springwood Station,333
+train,20170101,on,St James Station,13870
+train,20170101,on,St Leonards Station,4815
+train,20170101,on,St Marys Station,761
+train,20170101,on,St Peters Station,1487
+train,20170101,on,Stanmore Station,1268
+train,20170101,on,Stanwell Park Station,79
+train,20170101,on,Strathfield Station,11380
+train,20170101,on,Summer Hill Station,1420
+train,20170101,on,Sutherland Station,2062
+train,20170101,on,Sydenham Station,2128
+train,20170101,on,Tahmoor Station,46
+train,20170101,on,Telopea Station,76
+train,20170101,on,Tempe Station,320
+train,20170101,on,Thirroul Station,510
+train,20170101,on,Thornleigh Station,597
+train,20170101,on,Thornton Station,35
+train,20170101,on,Toongabbie Station,616
+train,20170101,on,Town Hall Station,67562
+train,20170101,on,Towradgi Station,48
+train,20170101,on,Tuggerah Station,543
+train,20170101,on,Turramurra Station,1030
+train,20170101,on,Turrella Station,490
+train,20170101,on,Unanderra Station,664
+train,20170101,on,UNKNOWN,19842
+train,20170101,on,Victoria Street Station,60
+train,20170101,on,Villawood Station,215
+train,20170101,on,Vineyard Station,44
+train,20170101,on,Wahroonga Station,491
+train,20170101,on,Waitara Station,752
+train,20170101,on,Warnervale Station,46
+train,20170101,on,Warrawee Station,130
+train,20170101,on,Warrimoo Station,57
+train,20170101,on,Warwick Farm Station,735
+train,20170101,on,Waterfall Station,137
+train,20170101,on,Waverton Station,5429
+train,20170101,on,Wentworth Falls Station,191
+train,20170101,on,Wentworthville Station,1040
+train,20170101,on,Werrington Station,215
+train,20170101,on,West Ryde Station,1389
+train,20170101,on,Westmead Station,2065
+train,20170101,on,Wiley Park Station,844
+train,20170101,on,Windsor Station,211
+train,20170101,on,Wolli Creek Station,3474
+train,20170101,on,Wollongong Station,1305
+train,20170101,on,Wollstonecraft Station,1627
+train,20170101,on,Woolooware Station,356
+train,20170101,on,Woonona Station,70
+train,20170101,on,Woy Woy Station,1286
+train,20170101,on,Wyee Station,132
+train,20170101,on,Wynyard Station,37623
+train,20170101,on,Wyong Station,520
+train,20170101,on,Yagoona Station,555
+train,20170101,on,Yennora Station,153

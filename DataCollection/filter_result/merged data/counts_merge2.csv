@@ -1,0 +1,4608 @@
+suburb_id,suburb,bus stop,coffee shop,dental,hair care,motor repair,restaurant,orchard,clothing store
+0,Aarons Pass,0,0,0,0,0,0,0,0
+1,Abbotsbury,25,3,0,2,1,4,0,0
+2,Abbotsford,1,3,0,1,0,5,0,0
+3,Abercrombie,1,0,0,0,0,0,0,0
+4,Abercrombie River,0,0,0,0,0,0,1,0
+5,Aberdare,12,0,0,1,0,2,0,0
+6,Aberdeen,0,0,0,0,0,1,0,0
+7,Aberfoyle,0,0,0,0,0,0,0,0
+8,Aberglasslyn,11,1,0,2,0,1,0,0
+9,Abermain,12,0,0,1,0,2,0,0
+10,Abernethy,3,0,0,0,0,0,0,0
+11,Abington,0,0,0,0,0,0,0,0
+12,Acacia Creek,0,0,0,0,1,0,0,0
+13,Acacia Gardens,16,0,0,1,0,0,1,1
+14,Adaminaby,1,2,0,0,0,2,0,0
+15,Adamstown,28,10,6,14,7,20,0,6
+16,Adamstown Heights,22,0,0,1,0,0,1,0
+17,Adelong,1,1,0,1,2,2,0,1
+18,Adjungbilly,0,0,0,0,0,0,0,0
+19,Afterlee,0,0,0,0,0,0,0,0
+20,Agnes Banks,6,0,0,0,0,0,1,0
+21,Airds,27,0,0,0,1,1,1,0
+22,Akolele,0,0,0,0,0,0,0,0
+23,Albert,0,0,0,0,0,0,0,0
+24,Albion Park,35,9,2,14,5,21,10,5
+25,Albion Park Rail,43,4,0,5,31,11,22,7
+26,Albury,19,44,32,44,19,59,1,60
+27,Aldavilla,3,0,0,0,0,0,0,0
+28,Alectown,1,0,0,0,0,0,0,0
+29,Alexandria,33,40,9,11,21,50,3,30
+30,Alfords Point,16,0,0,2,0,1,7,0
+31,Alfredtown,0,0,0,0,0,0,0,0
+32,Alice,0,0,0,0,0,0,0,0
+33,Alison,1,0,0,0,0,2,0,0
+34,Allambie Heights,31,4,3,2,3,9,0,2
+35,Allandale,0,0,0,0,0,0,0,0
+36,Allawah,2,1,1,5,0,8,0,0
+37,Alleena,0,0,0,0,0,0,0,0
+38,Allgomera,0,0,0,0,0,0,0,0
+39,Allworth,1,0,0,0,0,0,0,0
+40,Allynbrook,0,0,0,0,0,0,1,0
+41,Alma Park,0,0,0,0,0,0,0,0
+42,Alpine,1,0,0,0,0,0,0,0
+43,Alstonvale,0,0,0,0,0,0,0,0
+44,Alstonville,4,6,5,9,2,11,6,3
+45,Alumy Creek,0,0,0,0,0,0,0,0
+46,Amaroo,0,0,0,0,0,0,0,0
+47,Ambarvale,26,2,0,1,1,6,0,5
+48,Anabranch North,0,0,0,0,0,0,0,0
+49,Anabranch South,0,0,0,0,0,0,0,0
+50,Anambah,0,0,0,0,0,0,1,0
+51,Ando,0,0,0,0,0,0,0,0
+52,Anembo,0,0,0,0,0,0,0,0
+53,Angledale,0,0,0,0,0,0,0,0
+54,Angledool,0,0,0,0,0,0,0,0
+55,Anglers Reach,1,0,0,0,0,0,0,0
+56,Angourie,1,0,0,0,0,1,0,0
+57,Anna Bay,33,4,0,3,4,5,28,3
+58,Annandale,11,15,3,7,3,30,1,7
+59,Annangrove,28,2,0,2,2,3,0,1
+60,Appin,12,2,0,2,4,8,0,1
+61,Apple Tree Flat,0,0,0,0,0,0,4,0
+62,Appleby,0,0,0,0,0,0,0,0
+63,Appletree Flat,0,0,0,0,0,0,0,0
+64,Apsley,0,0,0,0,0,0,0,0
+65,Arable,0,0,0,0,0,0,0,0
+66,Arakoon,0,1,0,0,0,1,0,0
+67,Araluen,0,0,0,0,0,0,1,0
+68,Aratula,0,0,0,0,0,0,0,0
+69,Arcadia,22,1,0,1,2,0,1,0
+70,Arcadia Vale,10,0,0,0,0,0,0,0
+71,Ardglen,0,0,0,0,0,0,0,0
+72,Arding,0,0,0,0,0,0,1,0
+73,Ardlethan,1,2,0,0,0,1,0,0
+74,Argalong,0,0,0,0,0,0,0,0
+75,Argenton,9,1,0,1,1,4,0,2
+76,Argents Hill,0,0,0,0,0,0,0,0
+77,Argoon,0,0,0,0,0,0,0,0
+78,Argyle,0,0,0,0,0,0,0,0
+79,Ariah Park,2,1,0,0,1,1,23,0
+80,Arkell,0,0,0,0,0,0,0,0
+81,Arkstone,0,0,0,0,0,0,0,0
+82,Armatree,0,0,0,0,0,0,0,0
+83,Armidale,33,36,15,32,43,60,0,35
+84,Armidale Dc,0,0,0,0,0,0,0,0
+85,Arncliffe,13,5,4,11,24,23,0,1
+86,Arndell Park,15,7,0,3,30,14,0,4
+87,Arrawarra,1,1,0,0,0,1,0,0
+88,Arrawarra Headland,3,0,0,0,0,0,0,0
+89,Artarmon,15,18,4,3,57,36,1,1
+90,Arthurville,0,0,0,0,0,0,0,0
+91,Arumpo,0,0,0,0,0,0,0,0
+92,Ashbury,15,2,0,2,1,3,0,0
+93,Ashby,0,0,0,0,0,0,0,0
+94,Ashby Heights,0,0,0,0,0,0,0,0
+95,Ashby Island,0,0,0,0,0,0,0,0
+96,Ashcroft,18,0,0,0,0,1,0,0
+97,Ashfield,43,23,22,21,14,52,0,4
+98,Ashford,0,0,0,0,0,0,0,0
+99,Ashley,0,0,0,0,0,0,0,0
+100,Ashmont,6,1,0,1,11,2,0,1
+101,Ashtonfield,24,1,0,2,1,2,0,2
+102,Asquith,24,2,2,3,8,9,0,4
+103,Atholwood,0,0,0,0,0,0,0,0
+104,Attunga,0,0,0,0,0,0,0,0
+105,Auburn,51,25,16,19,22,57,1,17
+106,Auburn Vale,0,0,0,0,0,0,0,0
+107,Austinmer,15,3,0,2,1,3,0,1
+108,Austral,5,1,2,2,3,10,0,1
+109,Austral Eden,0,0,0,0,0,0,0,0
+110,Australian Defence Forces,0,0,0,0,0,0,0,0
+111,Avalon Beach,47,15,3,12,2,39,5,23
+112,Avisford,0,0,0,0,0,0,0,0
+113,Avoca,0,0,0,0,0,0,0,0
+114,Avoca Beach,40,9,1,4,0,16,0,2
+115,Avon,0,0,0,0,0,0,0,0
+116,Avondale,0,0,0,0,0,0,0,1
+117,Avonside,0,0,0,0,0,0,0,1
+118,Awaba,2,0,0,0,1,0,0,0
+119,Aylmerton,0,0,0,0,0,0,0,0
+120,Baan Baa,0,0,0,0,0,0,0,0
+121,Babinda,0,0,0,0,0,0,0,0
+122,Babyl Creek,0,0,0,0,0,0,0,0
+123,Back Creek,0,0,0,0,0,0,0,0
+124,Back Forest,0,0,0,0,0,0,1,0
+125,Backmede,0,0,0,0,0,0,0,0
+126,Backwater,0,0,0,0,0,0,0,0
+127,Badgerys Creek,5,0,0,0,0,0,1,0
+128,Badja,0,0,0,0,0,0,0,0
+129,Baerami,0,0,0,0,0,0,1,0
+130,Baerami Creek,0,0,0,0,0,0,1,0
+131,Bagnoo,0,0,0,0,0,0,0,0
+132,Bago,0,0,0,0,0,0,0,0
+133,Bagotville,0,0,0,0,0,0,0,0
+134,Bakers Creek,0,0,0,0,0,0,0,0
+135,Bakers Swamp,0,0,0,0,0,0,0,0
+136,Balaclava,0,0,0,1,0,0,0,0
+137,Balala,0,0,0,0,0,0,0,0
+138,Balcolyn,2,0,0,0,0,0,0,0
+139,Bald Blair,0,0,0,0,0,0,0,0
+140,Bald Hills,0,0,0,0,0,0,0,0
+141,Bald Nob,0,0,0,0,0,0,0,0
+142,Bald Ridge,0,0,0,0,0,0,0,0
+143,Baldersleigh,0,0,0,0,0,0,0,0
+144,Baldry,0,0,0,0,0,0,0,0
+145,Balfours Peak,0,0,0,0,0,0,0,0
+146,Balgowlah,34,13,11,16,6,36,0,15
+147,Balgowlah Heights,24,3,1,2,0,5,0,1
+148,Balgownie,32,3,1,8,2,4,0,3
+149,Balickera,0,0,0,0,0,0,0,0
+150,Balladoran,0,0,0,0,0,0,0,0
+151,Ballalaba,0,0,0,0,0,0,0,0
+152,Balldale,0,0,0,0,0,0,0,0
+153,Ballengarra,0,0,0,0,0,0,0,0
+154,Ballimore,0,0,0,0,0,0,0,0
+155,Ballina,19,32,20,28,46,54,0,37
+156,Ballina Dc,0,0,0,0,0,0,0,0
+157,Ballyroe,0,0,0,0,0,0,0,0
+158,Balmain,23,25,23,32,2,52,0,22
+159,Balmain East,4,2,0,0,0,2,9,1
+160,Balmoral,0,0,0,0,0,0,0,0
+161,Balranald,0,0,0,0,0,0,0,0
+162,Bamarang,0,0,0,0,0,0,0,0
+163,Banda Banda,0,0,0,0,0,0,0,0
+164,Bandon Grove,0,0,0,0,0,0,0,0
+165,Bangadang,0,0,0,0,0,0,0,0
+166,Bangalee,0,1,0,0,0,1,0,0
+167,Bangalow,3,7,2,7,4,13,0,17
+168,Bangheet,0,0,0,0,0,0,0,0
+169,Bango,0,0,0,0,0,0,0,0
+170,Bangor,6,1,0,3,0,4,0,0
+171,Banksia,4,4,0,2,7,4,0,3
+172,Banksmeadow,7,5,0,1,11,10,0,3
+173,Bankstown,54,53,37,52,51,60,0,60
+174,Bankstown Aerodrome,4,1,0,0,1,2,6,0
+175,Bankstown North,0,0,0,0,0,0,0,0
+176,Bankstown Square,0,0,0,0,0,0,0,0
+177,Bannaby,0,0,0,0,0,0,0,0
+178,Bannister,0,0,0,0,0,0,0,0
+179,Banoon,0,0,0,0,0,0,0,0
+180,Banora Point,37,3,2,9,2,8,0,5
+181,Banyabba,0,0,0,0,0,0,0,0
+182,Bar Beach,7,2,0,2,0,3,0,2
+183,Bar Point,0,0,0,0,0,0,5,0
+184,Bara,0,0,0,0,0,0,0,0
+185,Baradine,1,1,0,0,0,1,0,0
+186,Barangaroo,0,17,1,4,0,38,2,7
+187,Barcoongere,0,0,0,0,0,0,0,0
+188,Barden Ridge,26,0,0,0,1,0,6,0
+189,Bardia,3,0,1,1,0,0,0,0
+190,Bardwell Park,18,2,1,4,0,3,5,0
+191,Bardwell Valley,8,0,0,0,0,1,2,0
+192,Barellan,1,1,0,0,0,1,0,0
+193,Bargo,21,0,1,5,6,9,2,0
+194,Barham,0,2,1,1,0,5,1,1
+195,Barigan,0,0,0,0,0,0,0,0
+196,Barkers Vale,0,0,0,0,0,0,2,0
+197,Barmedman,1,0,0,0,1,0,0,0
+198,Barneys Reef,0,0,0,0,0,0,0,0
+199,Barnsley,0,0,0,1,0,1,0,0
+200,Barraba,1,3,0,1,2,2,0,2
+201,Barrack Heights,27,0,1,0,13,3,0,1
+202,Barrack Point,7,0,0,0,0,0,0,1
+203,Barraganyatti,0,0,0,0,0,0,0,0
+204,Barragga Bay,0,0,0,0,0,0,0,0
+205,Barratta,0,0,0,0,0,0,0,0
+206,Barren Grounds,0,0,0,0,0,0,2,0
+207,Barrengarry,16,2,0,0,0,1,0,0
+208,Barretts Creek,0,0,0,0,0,0,0,0
+209,Barringella,0,0,0,0,0,0,0,0
+210,Barrington,0,0,0,0,0,0,0,0
+211,Barrington Tops,0,0,0,0,0,0,0,0
+212,Barry,1,0,0,0,0,0,0,0
+213,Barwang,0,0,0,0,0,0,0,0
+214,Barwon,0,0,0,0,0,0,0,0
+215,Baryulgil,0,0,0,0,0,0,0,0
+216,Basin View,2,1,0,1,0,1,0,0
+217,Bass Hill,36,6,4,8,2,26,0,8
+218,Bassendean,0,0,0,0,0,0,0,0
+219,Batar Creek,0,0,0,0,0,0,0,0
+220,Bateau Bay,44,7,3,14,0,21,0,13
+221,Batehaven,7,2,1,2,0,8,0,0
+222,Batemans Bay,2,21,6,13,45,41,5,26
+223,Bathampton,0,0,0,0,0,0,0,0
+224,Bathurst,29,33,13,32,34,58,2,53
+225,Bathurst West,0,0,0,0,0,0,0,0
+226,Batlow,1,3,0,0,1,1,3,3
+227,Baulkham Hills,52,22,48,20,4,46,0,13
+228,Baw Baw,0,0,0,0,0,0,0,0
+229,Bawley Point,1,1,0,0,0,1,0,0
+230,Baxters Ridge,0,0,0,0,0,0,0,0
+231,Bay Village,0,0,0,0,0,0,0,0
+232,Bayview,18,1,0,0,0,1,0,0
+233,Beacon Hill,21,1,0,1,3,1,2,3
+234,Beaconsfield,2,0,0,0,1,0,0,2
+235,Bean Creek,0,0,0,0,0,0,0,0
+236,Bearbong,0,0,0,0,0,0,0,0
+237,Beard,0,0,0,0,0,0,0,0
+238,Beaumont,0,0,0,0,0,0,0,0
+239,Beaumont Hills,32,0,2,4,0,3,6,0
+240,Beckom,1,0,0,0,0,0,0,0
+241,Bective,0,0,0,0,0,0,0,0
+242,Bectric,0,0,0,0,0,0,0,0
+243,Bedgerabong,0,0,0,0,0,0,0,0
+244,Beechwood,0,0,0,1,0,1,0,0
+245,Beecroft,28,10,8,9,0,16,0,7
+246,Beecroft Peninsula,6,0,0,0,0,0,0,0
+247,Beelbangera,1,0,0,0,0,0,1,0
+248,Beemunnel,0,0,0,0,0,0,0,0
+249,Bega,38,9,5,7,23,14,0,10
+250,Beggan Beggan,0,0,0,0,0,0,1,0
+251,Belanglo,0,0,0,0,0,0,0,0
+252,Belbora,1,0,0,0,0,0,0,0
+253,Belfield,25,2,1,8,7,7,0,2
+254,Belford,2,0,0,0,0,0,0,0
+255,Belfrayden,0,0,0,0,0,0,0,0
+256,Belgravia,0,0,0,0,0,0,0,0
+257,Belimbla Park,8,0,0,0,0,1,1,0
+258,Bell,2,0,0,0,0,0,0,0
+259,Bella Vista,38,18,15,12,1,40,2,3
+260,Bellambi,18,2,0,1,6,4,0,1
+261,Bellangry,0,0,0,0,0,0,0,0
+262,Bellata,1,0,0,0,0,1,1,0
+263,Bellawongarah,0,0,0,0,0,1,0,0
+264,Bellbird,7,0,0,0,1,3,0,0
+265,Bellbird Heights,6,0,0,0,1,0,0,0
+266,Bellbrook,0,0,0,0,0,1,0,0
+267,Bellevue Hill,43,5,3,3,1,4,10,1
+268,Bellimbopinni,0,0,0,0,0,0,0,0
+269,Bellingen,7,12,2,5,5,16,3,11
+270,Bellmount Forest,0,0,0,0,0,0,0,0
+271,Belltrees,0,0,0,0,0,0,0,0
+272,Belmont,0,8,7,17,2,20,0,8
+273,Belmont North,46,1,0,2,1,2,0,1
+274,Belmont South,6,1,0,0,0,0,0,1
+275,Belmore,46,9,5,12,17,32,1,3
+276,Belmore River,0,0,0,0,0,0,0,0
+277,Beloka,0,0,0,0,0,0,0,0
+278,Belowra,0,0,0,0,0,0,0,0
+279,Belrose,35,9,4,5,3,22,0,4
+280,Belrose West,0,0,0,0,0,0,0,0
+281,Bemboka,1,2,0,0,0,0,1,1
+282,Ben Bullen,1,0,0,0,1,0,3,0
+283,Ben Lomond,0,0,0,0,0,0,0,0
+284,Benandarah,1,0,0,0,0,0,0,0
+285,Bendalong,1,0,0,0,0,0,0,0
+286,Bendemeer,1,1,0,0,0,1,0,0
+287,Bendick Murrell,3,0,0,0,0,0,0,0
+288,Bendolba,0,0,0,0,0,0,0,0
+289,Bendoura,0,0,0,0,0,0,0,0
+290,Benerembah,0,0,0,0,0,0,1,0
+291,Bengalla,0,0,0,0,0,0,0,0
+292,Bennetts Green,3,2,0,2,11,1,1,0
+293,Benolong,0,0,0,0,0,0,0,0
+294,Bensville,15,1,0,1,0,0,0,0
+295,Bentley,0,0,0,0,0,0,0,0
+296,Berala,10,4,2,9,0,11,0,0
+297,Berambing,3,1,0,0,0,0,1,0
+298,Beresfield,26,3,1,3,24,11,0,5
+299,Bergalia,2,0,0,0,0,0,0,0
+300,Berkeley,2,1,0,1,0,6,0,0
+301,Berkeley Vale,38,5,2,7,36,12,0,4
+302,Berkshire Park,9,0,0,0,1,0,0,0
+303,Berlang,0,0,0,0,0,0,0,0
+304,Bermagui,18,11,0,3,2,14,0,6
+305,Berowra,23,1,1,0,3,5,1,0
+306,Berowra Creek,0,0,0,0,0,1,0,0
+307,Berowra Heights,23,3,2,6,1,6,4,1
+308,Berowra Waters,1,1,0,0,0,4,10,0
+309,Berrambool,0,0,0,0,0,0,0,0
+310,Berrara,3,0,0,0,0,0,0,0
+311,Berremangra,0,0,0,0,0,0,0,0
+312,Berrico,0,0,0,0,0,0,0,0
+313,Berridale,1,1,0,1,0,2,0,1
+314,Berrigal,0,0,0,0,0,0,0,0
+315,Berrigan,0,2,0,0,4,4,0,3
+316,Berrilee,2,0,0,0,0,0,0,0
+317,Berrima,4,9,0,0,1,12,0,3
+318,Berringer Lake,0,0,0,0,0,0,0,0
+319,Berry,7,15,3,5,3,30,1,13
+320,Berry Jerry,0,0,0,0,0,0,0,0
+321,Berry Mountain,0,0,0,0,0,0,2,0
+322,Berry Park,0,0,0,0,0,0,0,0
+323,Berthong,0,0,0,0,0,0,0,0
+324,Beryl,0,0,0,0,0,0,0,0
+325,Bethungra,0,1,0,0,0,1,0,0
+326,Bevendale,0,0,0,0,0,0,0,0
+327,Beverley Park,11,0,0,0,1,2,0,0
+328,Beverly Hills,38,5,5,2,0,42,0,1
+329,Bewong,2,1,0,0,0,0,0,0
+330,Bexhill,0,0,0,0,0,0,0,0
+331,Bexley,48,8,8,12,18,23,0,0
+332,Bexley North,32,5,1,4,1,8,8,1
+333,Bexley South,0,0,0,0,0,0,0,0
+334,Biala,0,0,0,0,0,0,0,0
+335,Bibbenluke,1,0,0,0,0,0,0,0
+336,Bickley Vale,2,0,0,0,0,0,0,0
+337,Biddon,0,0,0,0,0,0,0,0
+338,Bidgeemia,0,0,0,0,0,0,0,0
+339,Bidwill,26,1,0,1,0,2,0,0
+340,Bielsdown Hills,0,0,0,0,0,0,0,0
+341,Big Hill,0,0,0,0,0,0,0,0
+342,Big Jacks Creek,0,0,0,0,0,0,0,0
+343,Big Ridge,0,0,0,0,0,0,0,0
+344,Big Springs,0,0,0,0,0,0,0,0
+345,Big Yengo,0,0,0,0,0,0,1,0
+346,Bigga,1,0,0,0,0,0,0,0
+347,Bilambil,0,0,0,0,1,1,0,1
+348,Bilambil Heights,11,1,0,0,0,1,0,0
+349,Bilbul,1,0,0,0,0,0,0,0
+350,Bilgola Beach,1,1,0,0,0,0,5,0
+351,Bilgola Plateau,17,1,1,1,1,2,1,0
+352,Billeroy,0,0,0,0,0,0,0,0
+353,Billilingra,0,0,0,0,0,0,0,0
+354,Billimari,0,0,0,0,0,0,0,0
+355,Billinudgel,4,1,1,1,9,2,0,0
+356,Billys Creek,0,0,0,0,0,0,0,0
+357,Billywillinga,0,0,0,0,0,0,0,0
+358,Bilpin,16,5,0,0,0,6,8,0
+359,Bimbi,0,0,0,0,0,0,0,0
+360,Bimbimbie,0,0,0,0,0,0,0,0
+361,Binalong,2,1,0,0,0,1,0,0
+362,Binda,0,0,0,0,0,0,0,0
+363,Bindera,0,0,0,0,0,0,0,0
+364,Bingara,2,1,0,0,0,3,0,2
+365,Bingeebeebra Creek,0,0,0,0,0,0,0,0
+366,Bingie,0,0,0,0,0,0,0,0
+367,Bingleburra,0,0,0,0,0,0,0,0
+368,Biniguy,1,0,0,0,0,0,1,0
+369,Binjura,0,0,0,0,0,0,0,0
+370,Binna Burra,0,0,0,0,0,0,0,0
+371,Binnaway,1,1,0,0,0,0,0,0
+372,Binya,1,0,0,0,0,0,0,0
+373,Birchgrove,6,2,0,1,0,2,1,1
+374,Birdwood,0,0,0,0,0,0,0,0
+375,Birganbigil,0,0,0,0,0,0,0,0
+376,Birmingham Gardens,14,0,1,0,1,0,0,0
+377,Birriwa,0,0,0,0,0,0,0,0
+378,Birrong,5,1,1,3,0,4,1,1
+379,Bishops Bridge,0,0,0,0,0,0,0,0
+380,Bithramere,0,0,0,0,0,0,0,0
+381,Black Creek,0,0,0,0,0,0,0,0
+382,Black Head,0,1,0,0,0,0,1,0
+383,Black Hill,3,0,0,0,0,1,3,0
+384,Black Hollow,0,0,0,0,0,0,0,0
+385,Black Mountain,0,0,0,0,0,0,0,0
+386,Black Range,0,0,0,0,0,0,0,0
+387,Black Springs,0,0,0,0,1,0,2,0
+388,Blackalls Park,9,0,0,2,1,1,0,0
+389,Blackbutt,4,0,0,0,1,0,0,8
+390,Blackett,21,0,0,0,1,1,0,0
+391,Blackheath,59,9,1,4,1,17,0,4
+392,Blackmans Flat,1,0,0,0,0,0,0,0
+393,Blackmans Point,0,1,0,0,0,0,2,0
+394,Blacksmiths,13,3,0,1,1,6,0,0
+395,Blacktown,45,35,49,46,53,58,1,58
+396,Blacktown Westpoint,0,0,0,0,0,0,0,0
+397,Blackville,0,0,0,0,0,0,0,0
+398,Blackwall,21,1,0,1,4,1,0,0
+399,Blair Athol,7,0,1,0,0,0,0,0
+400,Blairmount,1,0,0,0,0,0,0,0
+401,Blakebrook,2,0,0,0,0,0,0,0
+402,Blakehurst,39,1,2,0,2,5,0,1
+403,Blakney Creek,0,0,0,0,0,0,0,0
+404,Bland,0,0,0,0,0,0,0,0
+405,Blandford,0,0,0,0,0,0,0,0
+406,Blaxcell,0,0,0,0,0,0,0,0
+407,Blaxland,42,4,4,9,9,23,0,1
+408,Blaxland East,0,0,0,0,0,0,0,0
+409,Blaxlands Creek,0,0,0,0,0,0,0,0
+410,Blaxlands Ridge,0,0,0,0,0,0,1,0
+411,Blayney,3,2,1,5,2,9,0,2
+412,Blenheim Road,0,0,0,0,0,0,0,0
+413,Bligh Park,35,1,2,2,2,6,11,0
+414,Blighty,1,0,0,0,0,1,0,0
+415,Blowering,0,0,0,0,0,0,0,0
+416,Blue Bay,6,1,0,0,0,0,4,0
+417,Blue Haven,32,0,0,2,1,1,5,0
+418,Blue Knob,2,1,0,0,0,0,0,0
+419,Blue Nobby,0,0,0,0,0,0,0,0
+420,Blue Vale,0,0,0,0,0,0,0,0
+421,Blueys Beach,1,3,0,0,0,3,0,1
+422,Boambee,6,1,0,2,2,4,0,0
+423,Boambee East,22,1,0,1,0,3,0,0
+424,Boambolo,0,0,0,0,0,0,0,0
+425,Boat Harbour,0,0,0,1,0,0,0,0
+426,Bobadah,0,0,0,0,0,0,0,0
+427,Bobin,0,0,0,0,0,0,0,0
+428,Bobs Creek,0,0,0,0,0,0,0,0
+429,Bobs Farm,25,2,0,0,0,2,6,0
+430,Bobundara,0,0,0,0,0,0,0,0
+431,Boco,0,0,0,0,0,0,0,0
+432,Bocoble,0,0,0,0,0,0,0,0
+433,Bocobra,0,0,0,0,0,0,0,0
+434,Bodalla,3,3,0,2,3,6,0,1
+435,Bodangora,0,0,0,0,0,0,0,0
+436,Boeill Creek,0,0,0,0,0,0,0,0
+437,Bogan,0,0,0,0,0,0,0,0
+438,Bogan Gate,1,1,0,0,0,0,0,0
+439,Bogangar,13,4,0,3,0,4,0,0
+440,Bogee,0,0,0,0,0,0,0,0
+441,Boggabilla,0,1,0,0,0,0,0,0
+442,Boggabri,1,2,0,0,0,2,0,1
+443,Bogong Peaks Wilderness,0,0,0,0,0,0,0,0
+444,Bohena Creek,0,0,0,0,1,0,0,0
+445,Bohnock,0,0,0,0,0,0,0,0
+446,Bolaro,0,0,0,0,0,0,0,0
+447,Bolivia,1,0,0,0,0,0,0,0
+448,Bolong,0,0,0,0,0,0,0,0
+449,Bolton Point,15,0,0,0,0,0,7,0
+450,Bolwarra,5,1,0,0,0,0,0,0
+451,Bolwarra Heights,7,0,0,1,0,0,0,0
+452,Bom Bom,0,0,0,0,0,0,0,0
+453,Bomaderry,31,5,2,5,24,13,0,3
+454,Bombah Point,0,0,0,0,0,0,0,0
+455,Bombala,2,1,0,1,4,3,0,0
+456,Bombay,0,0,0,0,0,0,0,0
+457,Bombira,2,0,0,0,0,1,0,0
+458,Bombo,1,0,0,0,0,0,0,0
+459,Bombowlee,0,0,0,0,0,0,0,0
+460,Bombowlee Creek,0,0,0,0,0,0,0,0
+461,Bomen,1,1,0,0,3,1,0,0
+462,Bomera,0,0,0,0,0,0,0,0
+463,Bonalbo,0,0,0,0,0,1,0,0
+464,Bondi,15,9,3,10,6,32,0,5
+465,Bondi Beach,16,34,4,19,8,50,0,43
+466,Bondi Forest,0,0,0,0,0,0,0,0
+467,Bondi Junction,31,49,58,53,12,60,2,60
+468,Bonnells Bay,13,2,1,1,2,6,0,0
+469,Bonnet Bay,34,1,0,1,0,2,9,0
+470,Bonny Hills,13,3,1,2,2,3,0,1
+471,Bonnyrigg,8,7,5,7,7,24,0,5
+472,Bonnyrigg Heights,44,2,0,2,1,2,1,0
+473,Bonshaw,0,0,0,0,0,0,0,0
+474,Bonville,8,2,0,0,1,2,0,0
+475,Booerie Creek,0,0,0,0,0,0,0,0
+476,Book Book,0,0,0,0,0,0,0,0
+477,Booker Bay,14,0,0,0,0,1,0,1
+478,Bookham,0,0,0,0,0,0,0,0
+479,Bookookoorara,0,0,0,0,0,0,0,0
+480,Bookram,0,0,0,0,0,0,0,0
+481,Boolambayte,0,0,0,0,0,0,0,0
+482,Boolaroo,11,1,2,4,6,6,1,3
+483,Boolcarroll,0,0,0,0,0,0,0,0
+484,Booligal,0,0,0,0,0,0,0,0
+485,Boolijah,0,0,0,0,0,0,0,0
+486,Boomanoomana,0,0,0,0,0,0,0,0
+487,Boomerang Beach,0,1,1,0,0,1,0,0
+488,Boomey,0,0,0,0,0,0,0,0
+489,Boomi,0,0,0,0,0,0,0,0
+490,Boomi Creek,0,0,0,0,0,0,0,0
+491,Boona Mount,0,0,0,0,0,0,0,0
+492,Boonal,0,0,0,0,0,0,0,0
+493,Boonoo Boonoo,0,0,0,0,0,0,1,0
+494,Boorabee Park,0,0,0,0,0,0,0,0
+495,Booragul,9,1,0,0,1,0,0,0
+496,Booral,0,1,0,0,0,1,0,0
+497,Boorga,0,0,0,0,0,0,0,0
+498,Boorganna,0,0,0,0,0,0,0,0
+499,Boorolong,0,0,0,0,0,0,0,0
+500,Boorook,0,0,0,0,0,0,0,0
+501,Boorooma,2,0,0,0,0,0,0,0
+502,Booroorban,0,0,0,0,0,0,0,0
+503,Boorowa,1,4,0,1,6,6,0,0
+504,Bootawa,0,0,0,0,0,0,0,0
+505,Booti Booti,0,0,0,0,0,0,0,0
+506,Booyong,0,0,0,0,0,0,2,0
+507,Bora Ridge,0,0,0,0,0,0,0,0
+508,Borah Creek,0,0,0,0,0,0,0,0
+509,Borambil,0,0,0,0,0,0,0,0
+510,Borambola,0,0,0,0,0,0,1,0
+511,Border Ranges,0,0,0,0,0,0,0,0
+512,Boree,0,0,0,0,0,0,0,0
+513,Boree Creek,0,0,0,0,0,0,7,0
+514,Borenore,1,0,0,0,0,0,4,0
+515,Boro,0,0,0,0,0,0,0,0
+516,Boronia Park,0,0,0,0,0,0,0,0
+517,Bossley Park,39,2,6,8,2,6,0,4
+518,Bostobrick,0,0,0,0,0,1,0,0
+519,Botany,26,13,4,9,31,29,0,1
+520,Botobolar,0,0,0,0,0,0,1,0
+521,Bottle Creek,0,0,0,0,0,0,0,0
+522,Bouddi,1,0,0,0,0,0,1,0
+523,Bourbah,0,0,0,0,0,0,0,0
+524,Bourke,0,0,0,0,0,0,0,0
+525,Bourkelands,8,0,0,1,0,0,0,0
+526,Bournda,6,0,0,0,1,0,0,0
+527,Bournewood,0,0,0,0,0,0,0,0
+528,Bow Bowing,7,0,0,0,0,0,0,0
+529,Bowan Park,0,0,0,0,0,0,0,0
+530,Bowen Mountain,20,0,0,0,0,0,0,1
+531,Bowenfels,24,1,0,0,1,1,0,0
+532,Bowling Alley Point,0,0,0,0,0,0,0,0
+533,Bowman,0,0,0,0,0,0,0,0
+534,Bowman Farm,0,0,0,0,0,0,0,0
+535,Bowmans Creek,0,0,0,0,0,0,0,0
+536,Bowna,0,0,0,0,0,0,0,0
+537,Bowning,2,1,0,0,0,2,0,0
+538,Bowral,51,32,16,28,18,57,0,57
+539,Bowraville,3,2,0,0,0,1,0,0
+540,Box Head,0,0,0,0,0,0,1,0
+541,Box Hill,11,0,0,0,0,0,2,0
+542,Box Ridge,0,0,0,0,0,0,0,0
+543,Boxers Creek,0,0,0,0,0,0,1,0
+544,Boydtown,0,0,0,0,0,0,0,0
+545,Bradbury,34,0,1,5,2,3,0,0
+546,Braefield,0,0,0,0,0,0,0,0
+547,Braemar,4,0,0,0,3,0,0,0
+548,Braemar Bay,0,0,0,0,0,0,0,0
+549,Braidwood,2,10,1,3,5,11,0,2
+550,Brandy Hill,0,0,0,0,0,0,0,1
+551,Branxton,10,1,0,3,6,7,0,0
+552,Braunstone,0,0,0,0,0,0,0,0
+553,Brawboy,0,0,0,0,0,0,0,0
+554,Bray Park,0,0,0,0,0,0,0,0
+555,Brays Creek,0,0,0,0,0,0,0,0
+556,Brayton,0,0,0,0,0,0,0,0
+557,Breadalbane,0,0,0,0,0,0,0,0
+558,Breakfast Creek,0,0,0,0,0,0,0,0
+559,Breakfast Point,1,2,1,1,0,5,0,0
+560,Bream Beach,0,0,0,0,0,0,0,0
+561,Bredbo,1,2,0,0,0,2,0,0
+562,Breelong,0,0,0,0,0,0,0,0
+563,Breeza,0,0,0,0,0,0,0,0
+564,Bretti,0,0,0,0,0,0,0,0
+565,Brewarrina,0,0,0,0,0,0,0,0
+566,Brewongle,0,0,0,0,0,0,0,0
+567,Briarbrook,0,0,0,0,0,0,0,0
+568,Bribbaree,0,0,0,0,0,0,0,0
+569,Bridgman,0,0,0,0,0,0,0,0
+570,Brierfield,0,0,0,0,0,0,0,0
+571,Brighton Le Sands,0,0,0,0,0,0,0,0
+572,Brightwaters,2,0,1,0,0,0,0,0
+573,Bril Bril,0,0,0,0,0,0,0,0
+574,Brimbin,0,0,0,0,0,0,0,0
+575,Brinerville,0,0,0,0,0,0,0,0
+576,Bringelly,14,1,1,0,1,0,0,0
+577,Brisbane Grove,0,0,0,0,0,0,1,0
+578,Broadmeadow,22,4,4,3,11,15,0,1
+579,Broadwater,0,0,0,0,0,1,0,0
+580,Broadway,0,0,0,0,0,0,0,0
+581,Brobenah,0,0,0,0,0,0,0,0
+582,Brocklehurst,0,0,0,0,4,0,0,0
+583,Brocklesby,0,0,0,0,0,0,0,0
+584,Brockley,0,0,0,0,0,0,0,0
+585,Brodies Plains,0,0,0,0,0,0,0,0
+586,Brogans Creek,0,0,0,0,0,0,0,0
+587,Brogers Creek,0,0,0,0,0,0,0,0
+588,Brogo,1,0,0,0,0,0,5,0
+589,Broke,0,3,0,0,0,5,3,0
+590,Broken Head,0,0,0,0,0,0,0,1
+591,Broken Hill,0,0,0,0,0,0,0,0
+592,Broken Hill North,0,0,0,0,0,0,0,0
+593,Broken Hill West,0,0,0,0,0,0,0,0
+594,Brombin,0,0,0,0,0,0,0,0
+595,Bronte,18,12,5,6,1,15,1,0
+596,Brookdale,0,0,0,0,0,0,0,0
+597,Brookfield,0,0,0,0,0,0,0,0
+598,Brooklana,0,0,0,0,0,0,0,0
+599,Brooklet,0,0,0,0,0,0,0,0
+600,Brooklyn,0,2,0,0,1,6,0,0
+601,Brookong,0,0,0,0,0,0,0,0
+602,Brookvale,21,35,11,26,60,52,0,60
+603,Brooman,0,0,0,0,0,0,0,0
+604,Brooms Head,0,0,0,0,0,0,0,0
+605,Broughams Gate,0,0,0,0,0,0,0,0
+606,Broughton,0,0,0,0,0,0,0,0
+607,Broughton Vale,0,0,0,0,0,0,0,0
+608,Broughton Village,0,0,0,0,0,0,0,0
+609,Broulee,2,2,0,1,0,2,0,0
+610,Brownlow Hill,12,1,0,0,0,0,2,0
+611,Browns Creek,0,0,0,0,0,0,0,0
+612,Browns Mountain,0,0,0,0,0,0,0,0
+613,Brownsville,0,1,0,2,0,2,0,0
+614,Brucedale,1,0,0,0,0,0,0,0
+615,Bruie Plains,0,0,0,0,0,0,0,0
+616,Bruinbun,0,0,0,0,0,0,0,0
+617,Brumby Plains,0,0,0,0,0,0,0,0
+618,Brundee,1,0,0,0,0,0,0,0
+619,Brungle,0,0,0,0,0,0,0,0
+620,Brungle Creek,0,0,0,0,0,0,0,0
+621,Brunkerville,0,0,0,0,0,0,0,0
+622,Brunswick Heads,6,11,2,8,3,22,34,12
+623,Brushgrove,0,0,0,0,0,0,0,0
+624,Brushy Creek,0,0,0,0,0,0,0,0
+625,Buangla,0,0,0,0,0,0,0,0
+626,Bucca,0,0,0,0,0,0,0,0
+627,Bucca Wauka,0,0,0,0,0,0,0,0
+628,Buccarumbi,0,0,0,0,0,0,0,0
+629,Buchanan,0,0,0,0,2,0,0,0
+630,Buckajo,0,0,0,0,0,0,0,1
+631,Buckaroo,0,0,0,0,0,0,0,0
+632,Buckenbowra,0,0,0,0,0,0,0,0
+633,Buckenderra,0,0,0,0,0,0,0,0
+634,Buckendoon,0,0,0,0,0,0,0,0
+635,Bucketty,0,0,0,0,0,0,0,0
+636,Buckra Bendinni,0,0,0,0,0,0,1,0
+637,Budawang,0,0,0,0,0,0,0,0
+638,Buddabadah,0,0,0,0,0,1,0,0
+639,Budden,0,0,0,0,0,0,0,0
+640,Budderoo,0,0,0,0,0,0,0,0
+641,Buddong,0,0,0,0,0,0,0,0
+642,Budgee Budgee,0,0,0,0,0,1,6,0
+643,Budgewoi,31,6,2,6,2,15,0,4
+644,Budgewoi Peninsula,0,0,0,0,0,0,0,0
+645,Budgong,0,0,0,0,0,0,1,0
+646,Buff Point,25,0,0,1,0,3,9,0
+647,Bugaldie,0,0,0,0,0,0,0,0
+648,Bukalong,0,0,0,0,0,0,0,0
+649,Bukkulla,0,0,0,0,0,0,0,0
+650,Bulahdelah,3,5,1,1,2,10,0,0
+651,Bulee,0,0,0,0,0,0,0,0
+652,Bulga,0,1,0,0,0,0,0,0
+653,Bulga Forest,0,0,0,0,0,0,0,0
+654,Bulgary,0,0,0,0,0,0,0,0
+655,Bulla,0,0,0,0,0,0,0,0
+656,Bulla Creek,0,0,0,0,0,0,0,0
+657,Bullaburra,6,0,0,0,0,0,0,0
+658,Bullagreen,0,0,0,0,0,0,0,0
+659,Bullarah,1,1,0,0,0,0,0,0
+660,Bullatale,0,0,0,0,0,0,0,0
+661,Bullawa Creek,0,0,0,0,0,0,0,0
+662,Bulldog,0,0,0,0,0,0,0,0
+663,Bulli,20,6,0,5,1,12,2,1
+664,Bulliac,0,0,0,0,0,0,0,0
+665,Bullio,0,0,0,0,0,0,1,0
+666,Bulyeroi,0,0,0,0,0,0,0,0
+667,Bumbaldry,1,0,0,0,0,0,0,0
+668,Bumbalong,0,0,0,0,0,0,0,0
+669,Bumberry,0,0,0,0,0,0,0,0
+670,Bundabah,0,0,0,0,0,0,0,0
+671,Bundagen,0,0,0,0,1,0,0,0
+672,Bundanoon,23,4,0,2,1,6,0,2
+673,Bundarra,0,1,0,0,1,0,0,0
+674,Bundeena,13,3,0,0,0,6,0,1
+675,Bundella,0,0,0,0,0,0,0,0
+676,Bundemar,0,0,0,0,0,0,0,0
+677,Bundewallah,0,0,0,0,0,0,0,0
+678,Bundjalung,0,0,0,0,0,0,0,0
+679,Bundook,0,0,0,0,0,0,0,0
+680,Bundure,0,0,0,0,0,0,0,0
+681,Bungaba,0,0,0,0,0,0,0,0
+682,Bungabbee,0,0,0,0,0,0,0,0
+683,Bungalora,0,0,0,0,0,0,0,0
+684,Bungarby,0,0,0,0,0,0,0,0
+685,Bungarribee,15,0,0,0,0,0,1,0
+686,Bungawalbin,0,0,0,0,0,0,0,0
+687,Bungendore,8,7,1,4,4,14,0,0
+688,Bungonia,0,0,0,0,0,1,1,0
+689,Bungowannah,0,0,0,0,0,0,0,0
+690,Bungwahl,2,0,0,0,0,0,0,0
+691,Bunnaloo,0,0,0,0,0,0,0,0
+692,Bunnan,0,0,0,0,0,0,0,0
+693,Bunyah,0,0,0,0,0,0,0,0
+694,Bunyan,0,0,0,0,0,0,0,0
+695,Burcher,0,0,0,0,0,0,0,0
+696,Bureen,0,0,0,0,0,0,0,0
+697,Burnt Bridge,0,0,0,0,0,0,0,0
+698,Burnt Yards,0,0,0,0,0,0,0,0
+699,Buronga,6,0,0,1,0,4,0,0
+700,Burra,0,0,0,0,0,0,0,0
+701,Burra Creek,0,0,0,0,0,0,0,0
+702,Burraboi,0,0,0,0,0,0,0,0
+703,Burradoo,19,0,0,0,0,1,0,0
+704,Burraga,0,0,0,0,0,0,0,0
+705,Burragate,0,0,0,0,0,0,0,0
+706,Burrandana,0,0,0,0,0,0,0,0
+707,Burraneer,39,2,0,2,0,1,0,0
+708,Burrangong,0,0,0,0,0,0,0,0
+709,Burrapine,0,0,0,0,0,0,0,0
+710,Burrawang,3,1,0,0,0,1,0,0
+711,Burrell Creek,1,0,0,0,0,1,3,0
+712,Burren Junction,1,0,0,0,0,0,0,0
+713,Burrier,0,0,0,0,0,0,0,0
+714,Burrill Lake,6,2,0,2,0,3,3,1
+715,Burringbar,2,1,0,0,3,2,0,0
+716,Burrinjuck,0,0,0,0,0,0,0,0
+717,Burroway,0,0,0,0,0,0,0,0
+718,Burrumbuttock,0,0,0,0,0,0,0,0
+719,Burrundulla,2,1,0,0,0,1,0,0
+720,Burwood,31,41,52,42,9,58,0,60
+721,Burwood Heights,3,0,0,1,1,0,2,0
+722,Burwood North,0,0,0,0,0,0,0,0
+723,Busby,16,0,2,0,0,0,0,0
+724,Busbys Flat,0,0,0,0,0,0,0,0
+725,Bushells Ridge,2,0,0,0,0,0,1,0
+726,Buttaba,5,0,0,0,2,0,0,0
+727,Buttai,1,0,0,0,0,1,0,0
+728,Butterwick,0,0,0,0,0,0,0,0
+729,Buxton,2,0,0,2,0,0,0,0
+730,Byabarra,0,1,0,0,0,1,0,0
+731,Byadbo Wilderness,0,0,0,0,0,0,0,0
+732,Byangum,0,0,0,0,0,0,1,0
+733,Bylong,0,1,0,0,0,0,0,0
+734,Byng,0,0,0,0,0,0,0,0
+735,Byrock,0,0,0,0,0,0,0,0
+736,Byron Bay,17,52,15,33,15,60,0,60
+737,Byrrill Creek,0,0,0,0,0,0,0,0
+738,Bywong,0,1,0,0,0,0,0,0
+739,Cabarita,11,1,0,0,0,3,0,0
+740,Cabarita Beach,1,4,1,4,0,8,8,2
+741,Cabbage Tree Island,0,0,0,0,0,0,0,0
+742,Cabramatta,42,29,30,26,22,58,0,27
+743,Cabramatta West,27,1,1,2,1,7,5,1
+744,Cabramurra,1,0,0,0,0,0,0,0
+745,Caddens,12,0,0,0,0,0,1,1
+746,Cadgee,0,0,0,0,0,0,0,0
+747,Cadia,0,0,0,0,0,0,0,0
+748,Caerleon,0,0,0,0,0,0,0,0
+749,Caffreys Flat,0,0,0,0,0,0,0,0
+750,Cairncross,0,0,0,0,0,0,0,0
+751,Calala,25,1,0,2,0,3,0,0
+752,Calamia,0,0,0,0,0,0,0,0
+753,Calderwood,1,1,0,1,0,1,0,1
+754,Caldwell,0,0,0,0,0,0,0,0
+755,Calga,0,0,0,0,0,0,0,0
+756,Califat,0,0,0,0,0,0,0,0
+757,Calimo,0,0,0,0,0,0,0,0
+758,Callaghan,1,4,0,0,0,3,0,0
+759,Callaghans Creek,0,0,0,0,0,0,0,0
+760,Callala Bay,8,2,0,3,0,5,0,2
+761,Callala Beach,9,0,0,0,0,1,8,0
+762,Calliope,0,0,0,0,0,0,0,0
+763,Caloola,0,0,0,0,0,0,0,0
+764,Cambalong,0,0,0,0,0,0,0,0
+765,Camberwell,0,0,0,0,0,0,0,0
+766,Cambewarra,8,0,0,0,0,0,0,1
+767,Cambewarra Village,4,0,0,0,0,0,0,0
+768,Camboon,0,0,0,0,0,0,0,0
+769,Cambra,0,0,0,0,0,0,0,0
+770,Cambridge Gardens,12,1,0,1,0,3,0,0
+771,Cambridge Park,35,0,1,4,2,4,0,0
+772,Cambridge Plateau,0,0,0,0,0,0,1,0
+773,Camden,22,17,16,27,3,56,2,14
+774,Camden Head,1,0,0,0,0,0,3,0
+775,Camden Park,3,0,0,0,0,0,0,2
+776,Camden South,24,0,0,2,0,0,2,2
+777,Camellia,1,2,0,0,1,1,1,0
+778,Cameron Park,28,1,0,3,1,3,4,1
+779,Camerons Creek,0,0,0,0,0,0,0,0
+780,Camira,0,0,0,0,0,0,0,0
+781,Cammeray,15,5,5,7,1,18,1,3
+782,Campbelltown,54,50,32,46,51,59,0,60
+783,Campbelltown North,0,0,0,0,0,0,0,0
+784,Camperdown,23,10,0,6,10,27,5,7
+785,Campsie,42,21,27,32,25,57,2,15
+786,Campvale,6,0,0,0,0,1,0,0
+787,Cams Wharf,1,0,0,0,0,1,0,0
+788,Canada Bay,7,0,0,0,0,0,0,0
+789,Canadian Lead,0,0,0,0,0,0,0,0
+790,Canbelego,0,0,0,0,0,0,0,0
+791,Candelo,1,1,0,0,0,1,0,0
+792,Cangai,1,0,0,0,0,0,0,0
+793,Caniaba,0,0,0,0,0,0,0,0
+794,Canley Heights,31,10,6,5,1,35,14,0
+795,Canley Vale,31,4,2,3,4,25,0,2
+796,Canobolas,0,0,0,0,0,3,0,0
+797,Canoelands,0,0,0,0,0,0,1,0
+798,Canonba,0,0,0,0,0,0,0,0
+799,Canowindra,1,4,0,2,5,7,4,0
+800,Canterbury,15,6,7,4,3,22,0,3
+801,Canton Beach,4,1,0,1,0,0,8,0
+802,Canyonleigh,0,0,0,0,0,0,0,0
+803,Caparra,0,0,0,0,0,0,0,0
+804,Capeen Creek,0,0,0,0,0,0,0,0
+805,Capertee,1,1,0,0,0,0,0,0
+806,Capoompeta,0,0,0,0,0,0,0,0
+807,Captains Flat,0,0,0,0,0,1,0,0
+808,Carabost,0,0,0,0,0,0,0,0
+809,Caragabal,0,0,0,0,0,0,0,0
+810,Carcalgong,0,0,0,0,0,0,0,0
+811,Carcoar,2,0,0,0,0,2,0,0
+812,Cardiff,1,5,5,9,27,16,0,0
+813,Cardiff Heights,13,0,0,1,1,1,0,0
+814,Cardiff South,17,0,0,2,0,1,0,0
+815,Carey Bay,7,1,3,3,0,1,0,0
+816,Cargo,0,1,0,0,0,0,0,0
+817,Carinda,0,0,0,0,0,0,0,0
+818,Caringbah,46,32,18,33,46,55,0,13
+819,Caringbah South,46,2,2,5,1,5,2,0
+820,Carlaminda,0,0,0,0,0,0,0,0
+821,Carlingford,50,13,18,21,8,46,0,10
+822,Carlingford Court,0,0,0,0,0,0,0,0
+823,Carlingford North,0,0,0,0,0,0,0,0
+824,Carlton,2,0,0,10,12,0,0,1
+825,Carnes Hill,2,4,0,4,1,15,0,0
+826,Carnham,0,0,0,0,0,0,0,0
+827,Carool,0,0,0,0,0,1,1,0
+828,Caroona,1,0,0,0,0,0,0,0
+829,Carrabolla,0,0,0,0,0,0,0,0
+830,Carrai,0,0,0,0,0,0,0,0
+831,Carramar,10,0,0,1,0,2,0,1
+832,Carrathool,0,0,0,0,0,0,0,0
+833,Carrick,0,0,0,0,0,0,0,0
+834,Carrington,15,3,0,2,4,12,0,4
+835,Carrington Falls,0,0,0,0,0,0,0,0
+836,Carroll,1,0,0,0,0,0,0,1
+837,Carrolls Creek,0,0,0,0,0,0,0,0
+838,Carrowbrook,0,0,0,0,0,0,0,0
+839,Carrs Creek,2,0,0,0,0,0,0,0
+840,Carrs Island,0,0,0,0,0,0,0,0
+841,Carrs Peninsular,0,0,0,0,0,0,0,0
+842,Carss Park,8,1,0,0,2,4,16,1
+843,Cartwright,10,0,0,0,0,0,0,0
+844,Cartwrights Hill,2,0,0,0,0,1,0,0
+845,Carwell,0,0,0,0,0,0,0,0
+846,Carwoola,0,0,0,1,0,0,0,0
+847,Cascade,0,0,0,0,0,0,0,0
+848,Casino,8,8,4,9,25,0,0,8
+849,Cassilis,0,1,0,0,0,0,0,0
+850,Castle Cove,21,1,1,0,1,2,9,0
+851,Castle Doyle,0,1,0,0,0,0,0,0
+852,Castle Hill,51,50,48,40,1,57,0,60
+853,Castle Rock,0,0,0,0,0,0,0,0
+854,Castlecrag,12,2,1,2,0,9,1,6
+855,Castlereagh,0,0,0,0,1,0,1,0
+856,Casuarina,7,4,1,0,0,11,0,0
+857,Casula,58,10,9,8,3,34,2,7
+858,Casula Mall,0,0,0,0,0,0,0,0
+859,Catalina,1,0,0,0,0,0,0,0
+860,Cataract,0,0,0,0,0,0,0,0
+861,Cathcart,0,0,0,0,0,0,0,0
+862,Catherine Field,13,1,0,1,1,1,5,0
+863,Catherine Hill Bay,16,1,0,0,0,1,0,0
+864,Cathundral,0,0,0,0,0,0,0,0
+865,Cattai,9,0,0,1,0,2,0,0
+866,Cattle Creek,0,0,0,0,0,0,0,0
+867,Cavan,0,0,0,0,0,0,0,0
+868,Caves Beach,19,2,0,1,4,5,14,1
+869,Cawdor,17,0,0,0,0,1,0,0
+870,Cawongla,0,1,0,0,0,0,0,0
+871,Cecil Hills,31,1,1,4,1,2,0,0
+872,Cecil Park,10,0,0,0,0,0,0,0
+873,Cedar Brush Creek,0,0,0,0,0,0,2,0
+874,Cedar Creek,0,0,0,0,0,0,0,0
+875,Cedar Party,0,0,0,0,0,0,2,0
+876,Cedar Point,0,0,0,0,0,0,0,0
+877,Cells River,0,0,0,0,0,0,0,0
+878,Centennial Park,10,4,0,0,0,1,0,1
+879,Central Colo,0,0,0,0,0,0,0,0
+880,Central Macdonald,0,0,0,0,0,0,0,0
+881,Central Mangrove,10,0,0,0,2,0,0,0
+882,Central Tilba,1,5,0,0,0,3,0,0
+883,Cessnock,36,18,11,19,30,47,1,13
+884,Cessnock West,0,0,0,0,0,0,0,0
+885,Chaelundi,0,0,0,0,0,0,0,0
+886,Chain Valley Bay,16,0,0,1,1,0,0,0
+887,Chakola,0,0,0,0,0,1,0,0
+888,Chambigne,0,0,0,0,0,0,0,0
+889,Charbon,1,0,0,0,0,0,0,0
+890,Charles Sturt University,0,1,1,0,0,1,0,0
+891,Charlestown,44,22,21,28,5,46,0,59
+892,Charleys Forest,0,0,0,0,0,0,0,0
+893,Charlotte Bay,1,0,0,1,0,0,0,0
+894,Charlton,0,0,0,0,0,0,0,0
+895,Charmhaven,27,2,1,3,18,11,0,2
+896,Chatham,0,0,0,0,0,0,0,0
+897,Chatham Valley,0,0,0,0,0,0,0,0
+898,Chatsbury,0,0,0,0,0,0,0,0
+899,Chatswood,44,57,60,59,22,59,2,60
+900,Chatswood West,18,0,1,1,1,1,0,0
+901,Chatsworth,1,0,0,0,0,0,0,0
+902,Cheero Point,1,0,0,0,0,0,0,0
+903,Cheltenham,1,1,0,0,0,0,0,0
+904,Cherry Tree Hill,0,0,0,0,0,0,0,0
+905,Cherrybrook,48,7,6,3,1,13,1,6
+906,Chester Hill,48,7,7,9,4,27,0,11
+907,Chichester,0,0,0,0,0,0,0,0
+908,Chifley,18,0,0,0,1,2,0,0
+909,Chilcotts Creek,0,0,0,0,0,0,0,0
+910,Chilcotts Grass,1,0,0,0,0,0,0,0
+911,Chillingham,1,0,0,0,0,0,0,0
+912,Chinderah,10,9,0,0,4,10,0,0
+913,Chinnock,0,0,0,0,0,0,0,0
+914,Chippendale,5,28,1,8,3,54,1,11
+915,Chipping Norton,36,9,6,3,34,18,1,3
+916,Chisholm,0,1,0,0,0,0,0,0
+917,Chiswick,0,2,0,1,0,5,0,1
+918,Chittaway Bay,22,1,0,2,1,2,0,0
+919,Chittaway Point,10,0,0,0,0,1,1,0
+920,Chowan Creek,0,0,0,0,0,0,0,0
+921,Chullora,9,6,0,3,2,5,1,0
+922,Church Point,31,1,0,0,0,3,2,0
+923,Clandulla,1,0,0,0,0,0,0,0
+924,Clare,0,0,0,0,0,0,0,0
+925,Claremont Meadows,32,0,1,3,1,1,1,1
+926,Clarence,0,0,0,0,0,0,0,0
+927,Clarence Town,0,2,0,0,0,2,0,1
+928,Clarendon,1,2,0,0,0,3,0,0
+929,Clarenza,4,1,0,0,0,2,0,0
+930,Clareville,18,0,0,0,0,1,0,0
+931,Claymore,14,0,0,0,0,0,0,0
+932,Clear Creek,0,0,0,0,0,0,0,0
+933,Clear Range,0,0,0,0,0,0,0,0
+934,Clearfield,0,0,0,0,0,0,0,0
+935,Clemton Park,0,2,0,0,0,2,5,0
+936,Clergate,0,0,0,0,0,0,0,0
+937,Cleveland,0,0,0,0,0,0,0,0
+938,Clifden,0,0,0,0,0,0,0,0
+939,Cliftleigh,10,0,0,0,0,1,0,0
+940,Clifton,2,0,0,0,0,0,0,0
+941,Clifton Grove,0,0,0,0,0,1,0,1
+942,Clontarf,0,1,0,0,0,2,0,0
+943,Clothiers Creek,2,0,0,0,1,0,0,0
+944,Clouds Creek,0,0,0,0,0,0,0,0
+945,Clovass,2,0,0,0,0,0,0,0
+946,Clovelly,22,5,3,3,0,10,0,2
+947,Clovelly West,0,0,0,0,0,0,0,0
+948,Clunes,0,0,0,0,0,0,1,0
+949,Clybucca,0,0,0,0,0,0,0,0
+950,Clyde,3,0,0,0,10,3,0,3
+951,Clydesdale,0,0,0,0,0,0,0,0
+952,Coal Point,13,0,0,0,0,0,3,1
+953,Coalcliff,6,0,0,0,0,0,0,0
+954,Coaldale,0,0,0,0,0,0,0,0
+955,Coasters Retreat,2,0,0,0,0,0,2,0
+956,Cobaki,0,0,0,0,0,0,0,0
+957,Cobaki Lakes,0,0,0,0,0,0,0,0
+958,Cobar,0,0,0,0,0,0,0,0
+959,Cobar Park,0,0,0,0,0,0,0,0
+960,Cobargo,5,3,0,0,1,4,0,3
+961,Cobark,0,0,0,0,0,0,0,0
+962,Cobbadah,1,0,0,0,0,0,0,0
+963,Cobbitty,15,1,0,0,0,1,1,0
+964,Cobramunga,0,0,0,0,0,0,0,0
+965,Cockwhy,0,0,0,0,0,0,0,0
+966,Codrington,0,0,0,0,0,0,0,0
+967,Coffee Camp,2,0,0,0,0,0,0,0
+968,Coffs Harbour,57,53,47,48,47,59,2,59
+969,Coffs Harbour Dc,0,0,0,0,0,0,0,0
+970,Coffs Harbour Jetty,0,0,0,0,0,0,0,0
+971,Coffs Harbour Plaza,0,0,0,0,0,0,0,0
+972,Coggan,0,0,0,0,0,0,0,0
+973,Cogra Bay,0,0,0,0,0,0,1,0
+974,Coila,2,0,0,0,0,0,0,0
+975,Coldstream,0,0,0,0,0,0,0,0
+976,Coleambally,0,0,0,0,0,0,0,0
+977,Colebee,14,2,1,4,0,4,0,1
+978,Coledale,14,2,0,1,0,3,2,0
+979,Colinroobie,0,0,0,0,0,0,0,0
+980,Colinton,0,0,0,0,0,0,0,0
+981,Collarenebri,0,0,0,0,0,0,0,0
+982,Collaroy,10,9,1,7,1,29,0,3
+983,Collaroy Beach,0,0,0,0,0,0,0,0
+984,Collaroy Plateau,25,2,3,4,0,10,0,1
+985,Collector,2,2,0,0,0,4,0,0
+986,Collendina,0,0,0,0,0,0,0,0
+987,Collerina,0,0,0,0,0,0,0,0
+988,Collie,0,0,0,0,0,0,0,0
+989,Collingullie,0,0,0,0,0,0,0,0
+990,Collingwood,0,0,0,0,0,0,0,0
+991,Collins Creek,0,0,0,0,0,0,0,0
+992,Collombatti,5,0,0,0,0,0,0,0
+993,Collum Collum,0,0,0,0,0,0,0,0
+994,Colly Blue,0,0,0,0,0,0,0,0
+995,Colo,0,1,0,0,0,1,0,0
+996,Colo Heights,0,0,0,0,0,0,2,0
+997,Colo Vale,5,1,0,0,0,0,0,0
+998,Colongra,0,0,0,0,0,0,0,0
+999,Colyton,39,0,1,3,2,7,0,0
+1000,Comara,0,0,0,0,0,0,0,0
+1001,Combaning,0,0,0,0,0,0,0,0
+1002,Combara,0,0,0,0,0,0,0,0
+1003,Comberton,0,0,0,0,1,0,0,0
+1004,Combo,0,0,0,0,0,0,0,0
+1005,Comboyne,0,1,0,0,0,1,1,0
+1006,Come By Chance,0,0,0,0,0,0,0,0
+1007,Comerong Island,0,0,0,0,0,0,0,0
+1008,Commissioners Creek,0,0,0,0,0,0,0,0
+1009,Como,8,3,0,1,0,3,0,0
+1010,Comobella,0,0,0,0,0,0,0,0
+1011,Conargo,1,0,0,0,0,0,0,0
+1012,Concord,40,15,11,14,6,32,0,7
+1013,Concord West,18,7,2,4,2,7,0,3
+1014,Concord West Dc,0,0,0,0,0,0,0,0
+1015,Condell Park,3,3,2,5,32,14,15,5
+1016,Condobolin,0,0,0,0,0,0,0,0
+1017,Condong,3,0,0,0,0,1,0,0
+1018,Coneac,0,0,0,0,0,0,0,0
+1019,Congarinni,0,0,0,0,0,0,0,0
+1020,Congarinni North,1,0,0,0,0,0,0,0
+1021,Congewai,0,0,0,0,0,0,0,0
+1022,Congo,0,0,0,0,0,0,0,0
+1023,Conimbia,0,0,0,0,0,0,0,0
+1024,Coniston,3,2,3,3,2,2,0,1
+1025,Conjola,2,0,0,0,0,0,0,0
+1026,Conjola Park,1,0,0,0,0,0,0,0
+1027,Connells Point,16,0,0,0,1,0,0,0
+1028,Constitution Hill,14,1,1,2,0,2,3,1
+1029,Coogee,36,17,5,19,3,52,1,6
+1030,Cookamidgera,0,0,0,0,0,0,0,0
+1031,Cookardinia,0,0,0,0,0,0,0,0
+1032,Cooks Gap,0,0,0,0,0,0,0,0
+1033,Cooks Hill,16,10,1,3,2,0,0,8
+1034,Cooks Myalls,0,0,0,0,0,0,0,0
+1035,Coolabah,0,0,0,0,0,0,0,0
+1036,Coolac,1,1,0,0,0,1,0,0
+1037,Coolagolite,7,0,0,0,1,0,1,0
+1038,Coolah,1,2,1,1,5,4,0,1
+1039,Coolamon,0,3,1,0,1,5,0,1
+1040,Coolangatta,0,0,0,0,0,0,0,0
+1041,Coolangubra,0,0,0,0,0,0,0,0
+1042,Coolatai,0,0,0,0,0,0,0,0
+1043,Cooleys Creek,0,0,0,0,0,0,0,0
+1044,Coolgardie,0,0,0,0,0,0,0,0
+1045,Coolongolook,2,3,0,0,0,3,0,0
+1046,Coolringdon,0,0,0,0,0,0,0,0
+1047,Coolumbooka,0,0,0,0,0,0,0,0
+1048,Coolumburra,0,0,0,0,0,0,0,0
+1049,Cooma,28,15,3,8,26,26,0,13
+1050,Cooma North,0,0,0,0,0,0,0,0
+1051,Coomba Bay,1,0,0,0,0,0,0,0
+1052,Coomba Park,1,0,0,0,0,0,5,0
+1053,Coombadjha,0,0,0,0,0,0,0,0
+1054,Coombell,0,0,0,0,0,0,0,0
+1055,Coomealla,0,0,0,0,0,0,0,0
+1056,Coomoo Coomoo,0,0,0,0,0,0,0,0
+1057,Coonabarabran,1,5,2,1,7,9,0,4
+1058,Coonamble,2,3,1,4,7,8,0,1
+1059,Cooneys Creek,0,0,0,0,0,0,0,0
+1060,Coongbar,0,0,0,0,0,0,0,0
+1061,Cooperabung,0,0,0,0,0,0,0,0
+1062,Coopernook,1,0,0,0,0,1,0,0
+1063,Coopers Gully,0,0,0,0,0,0,0,0
+1064,Coopers Shoot,0,0,0,0,0,0,1,0
+1065,Cooplacurripa,0,0,0,0,0,0,0,0
+1066,Coorabell,0,0,0,1,0,0,2,0
+1067,Cooranbong,20,3,2,1,5,3,0,0
+1068,Cootamundra,1,10,3,5,17,15,1,9
+1069,Cootralantra,0,0,0,0,0,0,0,0
+1070,Cooyal,0,1,0,0,0,1,0,0
+1071,Copacabana,11,2,0,2,0,3,0,1
+1072,Cope,0,0,0,0,0,0,0,0
+1073,Copeland,0,0,0,0,0,0,0,0
+1074,Copeton,0,0,0,0,0,0,0,0
+1075,Copmanhurst,3,0,0,0,0,0,0,0
+1076,Coppabella,0,0,0,0,0,0,0,0
+1077,Copperhannia,0,0,0,0,0,0,0,0
+1078,Coraki,2,0,0,1,0,4,0,0
+1079,Coralville,0,0,0,0,0,0,0,0
+1080,Coramba,0,1,0,0,0,1,0,0
+1081,Corang,0,0,0,0,0,0,0,0
+1082,Corangula,0,0,0,0,0,0,0,0
+1083,Corbie Hill,0,0,0,0,0,0,1,0
+1084,Cordeaux,0,0,0,0,0,0,0,0
+1085,Cordeaux Heights,24,1,1,1,0,2,1,0
+1086,Coree,0,0,0,0,0,0,0,0
+1087,Coreen,0,0,0,0,0,0,0,0
+1088,Corindi Beach,18,2,0,0,0,3,0,0
+1089,Corinella,0,0,0,0,0,0,0,0
+1090,Corlette,35,0,0,1,0,5,0,0
+1091,Corndale,0,0,0,0,0,0,0,0
+1092,Corney Town,0,0,0,0,1,0,0,0
+1093,Cornwallis,0,0,0,0,0,0,0,0
+1094,Corobimilla,0,0,0,0,0,0,0,0
+1095,Corowa,1,9,3,8,16,16,0,6
+1096,Corrabare,0,0,0,0,0,0,0,0
+1097,Corrimal,36,9,11,19,11,23,0,19
+1098,Corrimal East,0,0,0,0,0,0,0,0
+1099,Corrong,0,0,0,0,0,0,0,0
+1100,Corrowong,0,0,0,0,0,0,0,0
+1101,Corunna,0,0,0,0,0,1,0,0
+1102,Cottage Point,0,1,0,0,0,2,3,0
+1103,Cougal,0,0,0,0,0,0,0,0
+1104,Countegany,0,0,0,0,0,0,0,0
+1105,Courabyra,0,0,0,0,0,0,0,0
+1106,Couradda,0,0,0,0,0,0,0,0
+1107,Couragago,0,0,0,0,0,0,0,0
+1108,Couridjah,6,0,0,0,0,0,0,0
+1109,Coutts Crossing,0,0,0,0,0,1,0,0
+1110,Cow Flat,0,0,0,0,0,0,0,0
+1111,Cowabbie,0,0,0,0,0,0,0,0
+1112,Cowan,7,2,0,0,0,1,0,0
+1113,Cowper,0,0,0,0,0,0,0,0
+1114,Cowra,10,10,2,4,27,24,0,11
+1115,Coxs Creek,0,0,0,0,0,0,0,0
+1116,Coxs Crown,0,0,0,0,0,0,0,0
+1117,Crabbes Creek,0,0,0,0,0,0,4,0
+1118,Crackenback,1,2,0,1,0,5,0,0
+1119,Craigie,0,0,0,0,0,0,0,0
+1120,Cranebrook,47,3,1,5,3,6,2,1
+1121,Crangan Bay,9,0,0,0,0,0,0,0
+1122,Craven,1,0,0,0,0,0,0,0
+1123,Craven Plateau,0,0,0,0,0,0,0,0
+1124,Crawford River,0,0,0,0,0,0,0,0
+1125,Crawney,0,0,0,0,0,0,0,0
+1126,Creewah,0,0,0,0,0,0,0,0
+1127,Cremorne,24,7,6,11,3,27,0,4
+1128,Cremorne Junction,0,0,0,0,0,0,0,0
+1129,Cremorne Point,17,1,0,0,0,0,4,0
+1130,Crescent Head,1,6,0,1,0,10,0,2
+1131,Crestwood,1,0,0,0,1,1,0,1
+1132,Cringila,7,1,0,2,3,5,0,2
+1133,Croki,0,0,0,0,0,0,0,0
+1134,Cromer,23,5,0,6,17,4,0,2
+1135,Cronulla,47,34,12,34,1,60,1,32
+1136,Crooble,0,0,0,0,0,0,0,0
+1137,Croobyar,0,0,0,0,0,0,0,0
+1138,Crooked Corner,0,0,0,0,0,0,0,0
+1139,Crookwell,4,3,1,3,8,3,0,2
+1140,Croom,0,0,0,0,0,0,0,0
+1141,Croppa Creek,0,0,0,0,0,0,6,0
+1142,Cross Roads,0,0,0,0,0,0,0,0
+1143,Crosslands,0,0,0,0,0,0,0,0
+1144,Croudace Bay,11,0,0,1,0,0,2,0
+1145,Crowdy Bay National Park,0,0,0,0,0,0,0,0
+1146,Crowdy Head,0,1,0,0,0,1,0,0
+1147,Crows Nest,23,22,28,30,9,56,0,16
+1148,Crows Nest Dc,0,0,0,0,0,0,0,0
+1149,Crowther,0,0,0,0,0,0,0,0
+1150,Crowther Island,0,0,0,0,0,0,0,0
+1151,Croydon,1,5,5,0,7,13,0,5
+1152,Croydon Park,20,3,2,6,5,17,0,1
+1153,Crudine,0,0,0,0,0,0,0,0
+1154,Cryon,0,0,0,0,0,0,0,0
+1155,Crystal Creek,0,1,0,0,0,1,0,0
+1156,Cubba,0,0,0,0,0,0,0,0
+1157,Cudal,1,2,0,0,0,0,0,0
+1158,Cudgegong,0,0,0,0,0,0,0,0
+1159,Cudgel,0,0,0,0,0,0,0,0
+1160,Cudgen,4,0,0,0,0,2,0,0
+1161,Cudgera Creek,0,0,0,0,0,0,1,0
+1162,Cudmirrah,2,0,0,0,0,0,0,0
+1163,Culburra Beach,15,10,1,4,3,9,26,2
+1164,Culcairn,2,2,0,1,3,2,0,0
+1165,Cullen Bullen,2,0,0,0,0,0,0,0
+1166,Cullenbone,0,0,0,0,0,0,0,0
+1167,Cullendore,0,0,0,0,0,0,0,0
+1168,Cullerin,0,0,0,0,0,1,0,0
+1169,Cullivel,0,0,0,0,0,0,0,0
+1170,Culmaran Creek,0,0,0,0,0,0,0,0
+1171,Cumbalum,1,0,0,1,0,0,0,1
+1172,Cumbandry,0,0,0,0,0,0,0,0
+1173,Cumberland Reach,0,0,0,0,0,0,0,0
+1174,Cumbo,0,0,0,0,0,0,0,0
+1175,Cumborah,0,0,0,0,0,0,0,0
+1176,Cumnock,0,0,0,0,0,0,0,0
+1177,Cundle Flat,0,0,0,0,0,0,0,0
+1178,Cundletown,2,0,0,0,1,0,0,0
+1179,Cundumbul,0,0,0,0,0,0,0,0
+1180,Cunjurong Point,1,1,0,0,0,0,0,0
+1181,Cunningar,0,0,0,0,0,0,0,0
+1182,Cunninyeuk,0,0,0,0,0,0,0,0
+1183,Curban,0,0,0,0,0,0,0,0
+1184,Curl Curl,14,2,0,1,0,2,0,0
+1185,Curlew Waters,0,0,0,0,0,0,0,0
+1186,Curlewis,0,0,0,0,0,0,0,0
+1187,Curlwaa,0,1,0,0,2,0,0,0
+1188,Curra Creek,0,0,0,0,0,0,1,0
+1189,Currabubula,2,1,0,0,0,0,0,0
+1190,Curragh,0,0,0,0,0,0,0,0
+1191,Curramore,1,0,0,0,0,0,0,0
+1192,Currans Hill,19,0,0,1,0,3,11,0
+1193,Currarong,8,0,0,0,0,2,0,0
+1194,Currawang,0,0,0,0,0,0,0,0
+1195,Currawarna,0,0,0,0,0,0,0,0
+1196,Curraweela,0,0,0,0,0,0,0,0
+1197,Currawong Beach,1,0,0,0,0,0,2,0
+1198,Curricabark,0,0,0,0,0,0,0,0
+1199,Currowan,0,0,0,0,0,0,0,0
+1200,Cuttabri,0,0,0,0,0,0,0,0
+1201,Cuttagee,0,0,0,0,0,0,0,0
+1202,Dabee,0,0,0,0,0,0,0,0
+1203,Daceyville,5,0,1,0,0,0,0,0
+1204,Dairy Arm,0,0,0,0,0,0,0,0
+1205,Dairy Flat,0,0,0,0,0,0,0,0
+1206,Dairymans Plains,1,0,0,0,0,0,0,0
+1207,Daleys Point,7,2,0,0,0,1,3,0
+1208,Dalgety,1,2,0,0,0,3,0,0
+1209,Dalmeny,0,1,0,1,1,2,0,0
+1210,Dalmorton,0,0,0,0,0,0,0,0
+1211,Dalswinton,0,0,0,0,0,0,0,0
+1212,Dalton,0,0,0,0,0,0,0,0
+1213,Dalwood,0,0,0,0,0,0,0,0
+1214,Dandaloo,0,0,0,0,0,0,0,0
+1215,Dandry,0,1,0,0,0,0,1,0
+1216,Dangar,0,0,0,0,0,0,0,0
+1217,Dangar Island,1,1,0,0,0,0,5,0
+1218,Dangarsleigh,0,0,0,0,0,0,0,0
+1219,Dangelong,0,0,0,0,0,0,0,0
+1220,Dapto,38,8,8,14,23,42,0,20
+1221,Darawank,4,3,0,0,0,1,0,0
+1222,Darbalara,0,0,0,0,0,0,0,0
+1223,Darbys Falls,1,0,0,0,0,0,2,0
+1224,Dareton,2,0,0,0,0,2,0,0
+1225,Dargan,0,1,0,0,0,0,0,0
+1226,Dark Corner,0,0,0,0,0,0,0,0
+1227,Darkes Forest,0,0,0,0,1,0,1,1
+1228,Darkwood,0,0,0,0,0,0,0,0
+1229,Darling Point,13,2,0,1,0,2,5,1
+1230,Darlinghurst,31,33,5,42,5,58,2,28
+1231,Darlington,4,13,0,1,1,10,0,1
+1232,Darlington Point,0,0,0,0,0,0,0,0
+1233,Darlow,0,0,0,0,0,0,0,0
+1234,Daroobalgie,0,0,0,0,0,1,0,0
+1235,Dartbrook,0,0,0,0,0,0,0,0
+1236,Daruka,0,0,0,0,0,0,0,0
+1237,Davidson,12,1,0,1,0,2,0,0
+1238,Davis Creek,0,0,0,0,0,0,0,0
+1239,Davistown,18,1,0,1,0,5,1,0
+1240,Dawes Point,2,2,0,1,0,13,0,1
+1241,Daysdale,0,0,0,0,0,0,0,0
+1242,Dean Park,24,1,0,1,0,4,0,0
+1243,Deauville,0,0,0,0,0,0,0,0
+1244,Debenham,0,0,0,0,0,0,0,0
+1245,Dee Why,46,24,35,29,9,58,0,12
+1246,Deep Creek,0,0,0,1,0,0,0,0
+1247,Deepwater,0,0,0,0,0,1,0,0
+1248,Deer Vale,0,0,0,0,0,0,0,0
+1249,Delegate,0,1,0,0,1,0,0,0
+1250,Delungra,1,0,0,0,1,0,0,0
+1251,Denham Court,11,1,1,1,0,5,5,1
+1252,Denhams Beach,0,0,0,0,0,0,3,0
+1253,Deniliquin,18,8,2,10,16,18,0,6
+1254,Denistone,16,0,0,0,0,1,0,0
+1255,Denistone East,7,0,1,0,0,1,0,0
+1256,Denistone West,3,0,0,0,0,0,0,0
+1257,Denman,4,2,0,1,0,5,0,1
+1258,Depot Beach,0,0,0,0,0,0,0,0
+1259,Derriwong,0,0,0,0,0,0,0,0
+1260,Deua,0,0,0,0,0,0,0,0
+1261,Deua River Valley,0,0,0,0,0,0,2,0
+1262,Devils Hole,0,0,0,0,0,0,0,0
+1263,Dewitt,0,0,0,0,0,0,0,0
+1264,Dharruk,17,0,0,1,1,0,0,1
+1265,Dhuragoon,0,0,0,0,0,0,0,0
+1266,Diamond Beach,1,0,0,1,2,2,1,0
+1267,Diamond Head,0,0,0,0,0,0,0,0
+1268,Diehard,0,0,0,0,0,0,0,0
+1269,Diggers Camp,0,0,0,0,0,0,0,0
+1270,Dignams Creek,0,0,0,0,0,0,2,0
+1271,Dilkoon,0,0,0,0,0,0,0,0
+1272,Dilpurra,0,0,0,0,0,0,0,0
+1273,Dingo Forest,0,0,0,0,0,0,0,0
+1274,Dinoga,0,0,0,0,0,0,0,0
+1275,Dirnaseer,0,0,0,0,0,0,0,0
+1276,Dirty Creek,3,0,0,0,0,0,5,0
+1277,Dobies Bight,0,0,0,0,0,0,0,0
+1278,Doctor George Mountain,0,0,0,0,0,0,0,0
+1279,Doctors Gap,0,0,0,0,0,0,0,0
+1280,Dog Rocks,0,0,0,0,0,0,0,0
+1281,Dolans Bay,5,0,0,0,0,0,0,0
+1282,Dolls Point,7,2,1,1,0,1,4,0
+1283,Dollys Flat,0,0,0,0,0,0,0,0
+1284,Dolphin Point,0,0,0,0,0,0,0,0
+1285,Dombarton,0,0,0,0,0,0,0,0
+1286,Donald Creek,0,0,0,0,0,0,0,0
+1287,Dondingalong,0,0,0,0,0,0,0,0
+1288,Donnellyville,0,0,0,0,0,0,0,0
+1289,Doon Doon,0,0,0,0,0,0,0,1
+1290,Doonbah,0,0,0,0,0,1,0,0
+1291,Doonside,43,5,2,5,4,20,1,1
+1292,Dooralong,15,0,0,0,0,0,0,0
+1293,Dora Creek,8,0,0,2,0,2,0,0
+1294,Dorrigo,0,8,2,3,3,5,1,1
+1295,Dorrigo Mountain,0,0,0,0,0,0,0,0
+1296,Dorroughby,1,0,0,0,0,0,0,0
+1297,Double Bay,12,28,27,50,0,38,10,59
+1298,Doubtful Creek,0,0,0,0,0,0,0,0
+1299,Douglas Park,3,1,0,2,1,1,2,0
+1300,Dover Heights,23,1,1,0,0,1,5,0
+1301,Downside,0,0,0,0,0,0,0,0
+1302,Doyalson,6,0,0,0,8,0,0,1
+1303,Doyalson North,9,0,0,0,4,0,0,0
+1304,Doyles Creek,0,0,0,0,0,0,0,0
+1305,Doyles River,0,0,0,0,0,0,0,0
+1306,Drake,0,0,0,0,0,0,0,0
+1307,Drake Village,1,0,0,0,0,1,0,0
+1308,Drildool,0,0,0,0,0,0,0,0
+1309,Dripstone,0,0,0,0,0,0,0,0
+1310,Drummoyne,6,21,9,19,5,45,0,44
+1311,Dry Creek,0,0,0,0,0,0,0,0
+1312,Dry Plain,0,0,0,0,0,0,0,0
+1313,Dubbo,58,52,16,54,56,60,4,60
+1314,Dubbo Dc,0,0,0,0,0,0,0,0
+1315,Dubbo East,0,0,0,0,0,0,0,0
+1316,Dubbo Grove,0,0,0,0,0,0,0,0
+1317,Dubbo West,0,0,0,0,0,0,0,0
+1318,Duck Creek,0,0,0,0,0,0,0,0
+1319,Duckenfield,0,1,0,0,0,0,0,0
+1320,Duckmaloi,0,0,0,0,0,0,0,0
+1321,Dudley,0,1,0,1,0,0,0,0
+1322,Duffys Forest,16,0,0,0,0,0,1,0
+1323,Dulguigan,0,0,0,0,0,0,0,0
+1324,Dulwich Hill,19,15,12,10,7,37,1,5
+1325,Dum Dum,0,0,0,0,0,0,0,0
+1326,Dumaresq,0,0,0,0,0,0,0,0
+1327,Dumaresq Island,0,0,0,0,0,0,0,0
+1328,Dumaresq Valley,0,0,0,0,0,0,1,0
+1329,Dumbudgery,0,0,0,0,0,0,0,0
+1330,Dunbible,0,0,0,0,0,0,0,0
+1331,Dunbogan,4,1,0,0,0,1,0,0
+1332,Duncans Creek,0,0,0,0,0,0,0,0
+1333,Dundas,19,1,0,1,0,5,0,0
+1334,Dundas Valley,22,1,2,1,0,2,3,1
+1335,Dundee,0,0,0,0,0,0,0,0
+1336,Dundurrabin,0,0,0,0,0,0,0,0
+1337,Dunedoo,2,3,0,0,0,6,0,0
+1338,Dungarubba,0,0,0,0,0,0,0,0
+1339,Dungay,0,0,0,0,0,0,0,0
+1340,Dungeree,0,0,0,0,0,0,0,0
+1341,Dungog,2,6,1,2,6,9,0,1
+1342,Dungowan,0,0,0,0,0,0,0,0
+1343,Dunkeld,1,0,0,0,0,0,0,0
+1344,Dunmore,0,0,0,0,0,0,0,0
+1345,Dunolly,0,0,0,0,0,0,0,0
+1346,Dunoon,0,0,0,0,0,0,0,0
+1347,Duns Creek,4,0,0,0,0,0,0,0
+1348,Dunville Loop,0,0,0,0,0,0,0,0
+1349,Dural,21,16,14,14,17,39,6,8
+1350,Dural Dc,0,0,0,0,0,0,0,0
+1351,Duramana,0,0,0,0,0,0,0,0
+1352,Duranbah,0,1,0,0,0,1,1,0
+1353,Duri,3,0,0,0,0,0,0,0
+1354,Duroby,0,0,0,0,0,0,0,0
+1355,Durran Durra,0,0,0,0,0,0,3,0
+1356,Durras North,0,1,0,0,0,0,0,0
+1357,Durren Durren,5,0,0,0,0,0,0,0
+1358,Duval,0,0,0,0,0,0,0,0
+1359,Dyers Crossing,1,0,0,0,0,0,2,0
+1360,Dyraaba,0,0,0,0,0,0,0,0
+1361,Dyrring,0,0,0,0,0,0,0,0
+1362,Eagle Vale,23,3,1,2,1,8,9,0
+1363,Eagleton,0,0,0,0,0,0,0,0
+1364,Earlwood,41,10,10,13,2,26,0,12
+1365,East Albury,35,5,0,2,8,4,0,2
+1366,East Ballina,14,4,1,2,1,8,0,3
+1367,East Bowral,0,0,0,0,0,0,0,0
+1368,East Branxton,11,0,0,0,0,2,0,0
+1369,East Coraki,0,0,0,0,0,0,0,0
+1370,East Corrimal,17,3,0,5,0,6,11,0
+1371,East Gosford,27,6,4,10,1,18,0,11
+1372,East Gresford,3,2,0,0,2,1,11,0
+1373,East Hills,28,0,1,2,1,2,3,0
+1374,East Jindabyne,0,0,0,0,0,1,0,0
+1375,East Kangaloon,1,0,0,0,0,0,0,0
+1376,East Kempsey,11,1,0,0,0,1,0,0
+1377,East Killara,18,1,1,1,0,2,6,2
+1378,East Kurrajong,2,0,0,0,0,1,5,0
+1379,East Lindfield,34,1,0,0,0,1,8,1
+1380,East Lismore,14,2,1,1,6,3,13,0
+1381,East Lynne,1,0,0,0,0,0,0,0
+1382,East Maitland,49,23,8,23,26,57,0,58
+1383,East Ryde,4,1,0,1,0,2,0,0
+1384,East Seaham,0,0,0,0,0,0,0,0
+1385,East Tamworth,22,1,0,0,0,2,0,0
+1386,East Wagga Wagga,4,3,1,0,19,6,0,2
+1387,East Wardell,0,0,0,0,0,0,0,0
+1388,Eastern Creek,33,10,0,3,7,20,2,2
+1389,Eastgardens,3,11,2,12,1,24,1,35
+1390,Eastlakes,18,3,3,3,1,9,0,3
+1391,Eastwood,40,18,34,27,2,58,0,8
+1392,Eatonsville,1,0,0,0,0,0,0,0
+1393,Ebenezer,6,1,0,0,0,1,0,0
+1394,Ebor,0,1,0,0,0,0,0,0
+1395,Eccleston,0,0,0,0,0,0,0,0
+1396,Edderton,0,0,0,0,0,0,0,0
+1397,Eden,16,5,2,6,7,17,0,5
+1398,Eden Creek,0,0,0,0,0,0,0,0
+1399,Edensor Park,31,1,3,2,1,12,0,2
+1400,Edenville,0,0,0,0,0,0,0,0
+1401,Edgecliff,5,4,11,11,3,7,0,5
+1402,Edgeroi,0,0,0,0,1,1,0,0
+1403,Edgeworth,49,2,2,3,10,9,0,1
+1404,Edith,0,0,0,0,0,1,0,0
+1405,Edmondson Park,21,3,0,2,0,9,0,1
+1406,Edrom,0,0,0,0,0,0,0,0
+1407,Eenaweena,0,0,0,0,0,0,0,0
+1408,Eglinton,5,1,0,1,0,1,0,0
+1409,Eighteen Mile,0,0,0,0,0,0,0,0
+1410,Elands,1,1,0,0,0,0,0,0
+1411,Elanora Heights,2,3,1,3,0,4,0,0
+1412,Elcombe,0,0,0,0,0,0,0,0
+1413,Elderslie,25,0,0,2,3,1,1,0
+1414,Eleebana,43,1,0,0,0,0,0,1
+1415,Elermore Vale,33,2,1,1,1,4,1,0
+1416,Elizabeth Bay,6,3,1,2,1,4,7,1
+1417,Elizabeth Beach,1,0,0,0,0,1,0,0
+1418,Elizabeth Hills,7,0,0,0,0,0,0,0
+1419,Ellalong,6,1,0,0,0,1,0,0
+1420,Elland,0,0,0,0,0,0,0,0
+1421,Ellangowan,0,0,0,0,0,0,0,0
+1422,Ellenborough,0,0,0,0,0,0,0,0
+1423,Ellerslie,0,0,0,0,0,0,0,0
+1424,Ellerston,0,0,0,0,0,0,0,0
+1425,Ellis Lane,4,0,0,0,0,0,0,0
+1426,Elong Elong,0,0,0,0,0,0,0,0
+1427,Elrington,1,0,0,0,0,0,0,0
+1428,Elsmore,2,0,0,0,0,0,0,0
+1429,Eltham,0,0,0,0,0,0,0,0
+1430,Elvina Bay,0,0,0,0,0,0,1,0
+1431,Emerald Beach,10,2,0,1,0,5,14,0
+1432,Emerald Hill,0,0,0,0,0,0,0,0
+1433,Emerton,9,2,0,1,0,12,0,3
+1434,Emmaville,1,0,0,0,0,3,0,1
+1435,Empire Bay,28,2,1,1,0,3,21,1
+1436,Empire Vale,0,0,0,0,0,0,0,0
+1437,Emu Heights,22,2,0,1,2,2,0,1
+1438,Emu Plains,44,7,3,5,14,18,0,5
+1439,Emu Swamp,0,0,0,0,0,0,1,0
+1440,Endrick,0,0,0,0,0,0,0,0
+1441,Enfield,0,3,3,5,1,9,0,1
+1442,Enfield South,0,0,0,0,0,0,0,0
+1443,Engadine,56,16,9,19,14,46,0,9
+1444,Englorie Park,1,0,0,0,0,0,2,0
+1445,Enmore,2,6,4,10,2,35,1,4
+1446,Enngonia,0,0,0,0,0,0,0,0
+1447,Environa,0,0,0,0,0,0,0,0
+1448,Epping,13,8,19,11,2,36,0,3
+1449,Eraring,2,0,0,0,0,0,0,0
+1450,Eremerang,0,0,0,0,0,0,0,0
+1451,Erigolia,0,0,0,0,0,0,0,0
+1452,Erin Vale,0,0,0,0,0,0,0,0
+1453,Erina,39,27,15,28,39,52,3,60
+1454,Erina Fair,0,0,0,0,0,0,0,0
+1455,Erina Heights,12,2,0,3,0,3,5,2
+1456,Ermington,44,4,2,5,3,19,0,0
+1457,Erowal Bay,2,0,0,0,0,0,0,0
+1458,Errowanbang,0,0,0,0,0,0,0,0
+1459,Erskine Park,40,3,1,3,2,9,0,4
+1460,Erskineville,11,13,2,3,2,17,1,3
+1461,Erudgere,0,0,0,0,0,0,0,0
+1462,Eschol Park,7,0,0,0,0,0,4,0
+1463,Esk,0,0,0,0,0,0,0,0
+1464,Essington,0,0,0,0,0,0,0,0
+1465,Estella,15,0,1,0,0,1,0,0
+1466,Ettalong Beach,39,18,3,15,0,27,20,7
+1467,Ettamogah,0,0,0,0,0,0,0,0
+1468,Ettrema,0,0,0,0,0,0,0,0
+1469,Ettrick,0,0,0,0,0,0,0,0
+1470,Euabalong,3,0,0,0,0,0,0,0
+1471,Euabalong West,1,0,0,0,0,0,2,0
+1472,Euberta,0,0,0,0,0,0,0,0
+1473,Euchareena,1,0,0,0,0,0,1,0
+1474,Eucumbene,0,0,0,0,0,0,0,0
+1475,Eugowra,1,3,0,0,0,1,0,0
+1476,Eulah Creek,0,0,0,0,0,0,0,0
+1477,Eumungerie,1,0,0,0,0,0,0,0
+1478,Eunanoreenya,0,0,0,0,0,1,0,0
+1479,Eungai Creek,0,0,0,0,0,1,0,0
+1480,Eungai Rail,1,0,0,0,0,0,0,0
+1481,Eungella,0,0,0,0,0,0,1,0
+1482,Eureka,1,0,0,0,0,0,0,0
+1483,Eurimbla,0,0,0,0,0,0,0,0
+1484,Eurobodalla,0,0,0,0,0,0,0,0
+1485,Euroka,0,0,0,0,0,0,0,0
+1486,Euroley,0,0,0,0,0,0,0,0
+1487,Eurongilly,0,0,0,0,0,0,0,0
+1488,Eurunderee,0,0,0,0,0,2,2,0
+1489,Euston,0,0,0,0,0,0,0,0
+1490,Evans Head,1,4,1,2,3,14,2,1
+1491,Evans Plains,0,0,0,0,0,0,0,0
+1492,Eveleigh,4,4,0,1,0,1,1,0
+1493,Eviron,0,0,0,0,0,0,0,0
+1494,Ewingar,0,0,0,0,0,0,0,0
+1495,Ewingsdale,4,1,0,0,0,2,3,0
+1496,Exeter,1,1,0,0,0,1,0,1
+1497,Failford,0,0,0,0,0,0,0,0
+1498,Fairfield,41,21,26,32,7,47,0,35
+1499,Fairfield East,27,1,0,3,9,6,0,2
+1500,Fairfield Heights,18,4,2,10,2,20,0,1
+1501,Fairfield West,36,2,2,14,1,7,0,0
+1502,Fairholme,0,0,0,0,0,0,0,0
+1503,Fairlight,29,3,0,2,1,2,0,3
+1504,Fairy Hill,0,0,0,0,0,0,3,0
+1505,Fairy Meadow,45,10,9,13,33,32,47,20
+1506,Falbrook,0,0,0,0,0,0,0,0
+1507,Falconer,0,0,0,0,0,0,0,0
+1508,Falls Creek,0,0,1,0,0,0,0,0
+1509,Far Meadow,0,0,0,0,0,0,5,0
+1510,Fargunyah,0,0,0,0,0,0,0,0
+1511,Farley,0,0,0,0,1,0,0,0
+1512,Farmborough Heights,29,0,0,0,1,0,0,2
+1513,Farnham,0,0,0,0,0,0,0,0
+1514,Farrants Hill,0,0,0,0,0,0,0,0
+1515,Farringdon,0,0,0,0,0,0,0,0
+1516,Fassifern,4,0,0,0,0,0,0,0
+1517,Faulconbridge,32,2,0,2,2,6,0,0
+1518,Faulkland,0,0,0,0,0,0,0,0
+1519,Fawcetts Plain,0,0,0,0,0,0,0,0
+1520,Federal,0,2,0,0,0,2,0,0
+1521,Fennell Bay,11,0,0,0,0,2,0,1
+1522,Fern Bay,18,0,0,1,0,2,0,0
+1523,Fern Gully,0,0,0,0,0,0,0,0
+1524,Fernances,0,0,0,0,0,0,0,0
+1525,Fernances Crossing,0,0,0,0,0,0,0,0
+1526,Fernbank Creek,1,1,0,0,0,1,0,0
+1527,Fernbrook,0,0,0,0,0,0,0,0
+1528,Fernhill,2,0,0,0,1,0,0,0
+1529,Fernleigh,0,0,0,0,0,0,1,0
+1530,Fernmount,0,0,0,0,0,0,0,0
+1531,Fernside,0,0,0,0,0,0,0,0
+1532,Fernvale,0,0,0,0,0,0,0,0
+1533,Ferodale,3,0,0,0,0,0,0,0
+1534,Fiddletown,0,0,0,0,0,0,1,0
+1535,Fifield,0,0,0,0,0,0,0,0
+1536,Figtree,38,10,4,17,7,26,0,12
+1537,Findon Creek,0,0,0,0,0,0,2,0
+1538,Fine Flower,0,0,0,0,0,0,0,0
+1539,Fingal Bay,16,3,0,1,1,5,9,0
+1540,Fingal Head,1,1,0,0,0,1,0,0
+1541,Finley,1,1,2,2,5,5,0,1
+1542,Firefly,0,0,0,0,0,0,0,0
+1543,Fishermans Bay,0,0,0,0,0,0,0,0
+1544,Fishermans Paradise,1,0,0,0,0,0,0,0
+1545,Fishermans Reach,0,0,0,0,0,0,0,0
+1546,Fishers Hill,0,0,0,0,0,0,0,0
+1547,Fishing Point,4,0,0,0,0,0,0,1
+1548,Fitzgeralds Mount,0,0,0,0,0,0,1,0
+1549,Fitzgeralds Valley,0,0,0,0,0,0,0,0
+1550,Fitzroy Falls,15,2,0,0,0,1,9,0
+1551,Five Dock,47,22,24,18,2,37,14,8
+1552,Five Ways,0,0,0,0,0,0,0,0
+1553,Flat Tops,0,0,0,0,0,0,0,0
+1554,Fletcher,1,1,2,5,0,5,0,1
+1555,Flinders,25,0,1,0,0,0,0,2
+1556,Floraville,8,0,0,2,0,0,0,0
+1557,Flynns Beach,0,0,0,0,0,0,0,0
+1558,Forbes,51,9,3,4,18,21,0,13
+1559,Forbes Creek,0,0,0,0,0,0,0,0
+1560,Forbes River,0,0,0,0,0,0,0,0
+1561,Forbesdale,0,0,0,0,0,0,0,0
+1562,Fords Bridge,0,0,0,0,0,0,0,0
+1563,Fordwich,0,0,0,0,0,0,0,0
+1564,Forest Glen,0,0,0,0,0,1,0,0
+1565,Forest Grove,0,0,0,0,0,0,0,0
+1566,Forest Hill,0,0,0,0,0,0,0,0
+1567,Forest Land,0,0,0,0,0,0,0,0
+1568,Forest Lodge,10,6,0,3,0,13,1,2
+1569,Forest Reefs,0,0,0,0,0,0,4,0
+1570,Forestville,18,5,4,4,9,8,0,1
+1571,Forresters Beach,10,2,0,3,0,4,1,3
+1572,Forster,14,27,6,19,26,47,0,38
+1573,Forster Shopping Village,0,0,0,0,0,0,0,0
+1574,Fortis Creek,0,0,0,0,0,0,0,0
+1575,Fosters Valley,0,0,0,0,0,0,0,0
+1576,Fosterton,0,0,0,0,0,0,0,0
+1577,Fountaindale,11,0,0,0,4,1,0,1
+1578,Four Corners,0,0,0,0,0,0,0,0
+1579,Four Mile Creek,0,0,0,0,0,0,0,0
+1580,Fowlers Gap,0,0,0,0,0,0,0,0
+1581,Foxground,0,0,0,0,0,1,0,0
+1582,Frazer Park,0,0,0,0,0,0,0,0
+1583,Frazers Creek,0,0,0,0,0,0,0,0
+1584,Frederickton,3,0,0,0,0,1,0,0
+1585,Freeburn Island,0,0,0,0,0,0,0,0
+1586,Freemans,0,0,0,0,0,0,0,0
+1587,Freemans Reach,17,2,0,1,0,2,4,0
+1588,Freemans Waterhole,3,1,0,0,0,1,0,0
+1589,Freemantle,0,0,0,0,0,0,0,0
+1590,French Park,0,0,0,0,0,0,0,0
+1591,Frenchs Forest,39,14,6,12,0,27,1,7
+1592,Frenchs Forest East,0,0,0,0,0,0,0,0
+1593,Freshwater,24,8,1,9,2,23,0,3
+1594,Frog Rock,0,0,0,0,0,0,0,0
+1595,Frogmore,0,0,0,0,0,0,0,0
+1596,Frogs Hollow,1,0,0,0,1,0,0,0
+1597,Frying Pan,0,0,0,0,0,0,0,0
+1598,Fullerton,0,0,0,0,0,0,0,0
+1599,Fullerton Cove,18,0,0,0,0,0,6,0
+1600,Furracabad,0,0,0,0,0,0,0,0
+1601,Gadara,0,0,0,0,0,0,0,0
+1602,Gala Vale,0,0,0,0,0,0,0,0
+1603,Galambine,0,0,0,0,0,0,0,0
+1604,Galong,1,0,0,0,0,0,0,0
+1605,Galore,0,0,0,0,0,0,0,0
+1606,Galston,23,4,2,3,0,9,2,0
+1607,Ganbenang,0,0,0,0,0,0,0,0
+1608,Gangat,0,0,0,0,0,0,0,0
+1609,Ganmain,0,1,0,2,0,0,0,0
+1610,Garah,0,0,0,0,0,0,0,0
+1611,Garden Suburb,13,0,0,0,0,0,7,1
+1612,Garema,0,0,0,0,0,0,0,0
+1613,Garland,0,0,0,0,0,0,0,0
+1614,Garland Valley,0,0,0,0,0,0,0,0
+1615,Garoo,0,0,0,0,0,0,0,0
+1616,Garra,0,0,0,0,0,0,0,0
+1617,Garthowen,0,0,0,0,0,0,0,0
+1618,Gateshead,0,5,0,0,19,10,0,0
+1619,Gearys Flat,0,0,0,0,0,0,0,0
+1620,Geehi,0,1,0,0,0,2,0,0
+1621,Gelston Park,0,0,0,0,0,0,2,0
+1622,Gemalla,0,0,0,0,0,0,0,0
+1623,Geneva,0,0,0,0,0,0,0,0
+1624,Georges Creek,0,0,0,0,0,0,0,0
+1625,Georges Hall,1,4,3,6,0,18,0,1
+1626,Georges Plains,1,0,0,0,0,0,1,1
+1627,Georgetown,7,0,1,5,3,0,0,1
+1628,Georgica,0,0,0,0,0,0,0,0
+1629,Gerogery,2,0,0,0,0,0,0,0
+1630,Gerringong,18,8,3,5,4,22,3,6
+1631,Gerroa,9,1,0,0,0,2,0,0
+1632,Geurie,2,0,0,0,0,0,0,0
+1633,Ghinni Ghi,0,0,0,0,0,0,0,0
+1634,Ghinni Ghinni,0,0,0,0,0,0,2,0
+1635,Ghoolendaadi,0,0,0,0,0,0,0,0
+1636,Giants Creek,0,0,0,0,0,0,0,0
+1637,Gibberagee,0,0,0,0,0,0,0,0
+1638,Gibraltar Range,1,0,0,0,0,0,0,0
+1639,Gidginbung,0,0,0,0,0,0,0,0
+1640,Gidley,0,0,0,0,0,0,0,0
+1641,Gilead,1,0,0,0,0,0,0,0
+1642,Gilgai,1,0,0,0,0,1,0,0
+1643,Gilgandra,1,4,2,2,4,6,0,1
+1644,Gilgooma,0,0,0,0,0,0,0,0
+1645,Gilgunnia,0,0,0,0,0,0,0,0
+1646,Gillenbah,0,0,0,0,0,0,0,0
+1647,Gilletts Ridge,0,0,0,0,0,0,0,0
+1648,Gillieston Heights,17,0,0,1,0,1,0,3
+1649,Gilmandyke,0,0,0,0,0,0,0,0
+1650,Gilmore,0,0,0,0,0,0,0,0
+1651,Gin Gin,0,0,0,0,0,0,0,0
+1652,Gineroi,0,0,0,0,0,0,0,0
+1653,Ginghi,0,0,0,0,0,0,0,0
+1654,Gingkin,0,0,0,0,0,0,1,0
+1655,Girards Hill,1,0,0,3,0,2,0,0
+1656,Girilambone,1,0,0,0,0,0,0,0
+1657,Giro,0,0,0,0,0,0,0,0
+1658,Girral,0,0,0,0,0,0,0,0
+1659,Girralong,0,0,0,0,0,0,0,0
+1660,Girraween,27,3,0,0,25,9,0,0
+1661,Girvan,0,0,0,0,0,0,0,0
+1662,Gladesville,32,17,11,23,37,44,0,7
+1663,Gladstone,0,3,0,0,0,0,0,1
+1664,Glanmire,0,0,0,0,0,0,0,0
+1665,Glebe,18,35,8,13,4,56,0,16
+1666,Gledswood Hills,24,2,2,4,1,10,8,2
+1667,Glen Alice,0,0,0,0,0,0,0,0
+1668,Glen Allen,0,0,0,0,0,0,0,0
+1669,Glen Alpine,24,0,0,1,0,3,8,0
+1670,Glen Davis,0,0,0,0,0,0,9,0
+1671,Glen Elgin,0,0,0,0,0,0,0,0
+1672,Glen Fergus,0,0,0,0,0,0,0,0
+1673,Glen Innes,3,13,2,7,15,20,28,5
+1674,Glen Martin,0,0,0,0,0,0,0,0
+1675,Glen Nevis,0,0,0,0,0,0,0,0
+1676,Glen Oak,0,0,0,0,1,0,2,0
+1677,Glen Ward,0,0,0,0,0,0,0,0
+1678,Glen William,0,0,0,0,0,0,0,0
+1679,Glenbawn,0,0,0,0,0,0,0,0
+1680,Glenbrook,35,5,4,4,0,9,2,4
+1681,Glencoe,1,1,0,0,0,1,0,0
+1682,Glendale,25,6,5,5,1,25,0,11
+1683,Glendenning,26,3,0,2,18,7,1,3
+1684,Glendon,0,0,0,0,0,0,0,0
+1685,Glendon Brook,0,0,0,0,0,0,0,0
+1686,Glenelg,0,0,0,0,0,0,0,0
+1687,Glenellen,0,0,0,0,0,0,0,0
+1688,Glenfield,36,4,5,4,0,6,0,0
+1689,Glenfield Park,14,4,0,0,0,5,0,1
+1690,Glengarrie,0,0,0,0,0,0,0,0
+1691,Glenhaven,45,2,3,2,0,2,0,2
+1692,Gleniffer,0,0,0,0,0,0,0,0
+1693,Glenmore,0,0,0,0,0,0,0,0
+1694,Glenmore Park,55,7,6,4,0,16,0,5
+1695,Glennies Creek,0,0,0,0,0,0,0,0
+1696,Glenning Valley,20,0,1,0,0,0,0,0
+1697,Glenorie,19,2,1,4,5,3,0,0
+1698,Glenquarie,0,0,0,0,0,0,0,0
+1699,Glenquarry,1,0,0,0,0,0,0,0
+1700,Glenreagh,1,0,0,0,0,1,0,0
+1701,Glenridding,0,0,0,1,0,0,0,0
+1702,Glenrock,0,0,0,0,0,0,0,0
+1703,Glenroy,0,0,0,0,0,0,0,0
+1704,Glenthorne,0,0,0,0,1,2,0,0
+1705,Glenugie,0,0,0,0,0,0,0,0
+1706,Glenwood,51,3,2,3,0,10,0,2
+1707,Glenworth Valley,0,0,0,0,0,0,5,0
+1708,Glossodia,26,0,0,1,1,2,1,0
+1709,Gloucester,1,2,2,4,6,12,0,8
+1710,Gloucester Tops,0,0,0,0,0,0,0,0
+1711,Goat Island,0,0,0,0,0,0,0,0
+1712,Gobarralong,0,0,0,0,0,0,0,0
+1713,Gobbagombalin,2,0,0,0,0,0,0,0
+1714,Gocup,0,0,0,0,0,0,0,0
+1715,Godfreys Creek,0,0,0,0,0,0,0,0
+1716,Gogeldrie,0,0,0,0,0,0,0,0
+1717,Gol Gol,1,1,0,0,1,0,0,0
+1718,Gollan,0,0,0,0,0,0,0,0
+1719,Golspie,0,0,0,0,0,0,0,0
+1720,Gongolgon,1,0,0,0,0,0,0,0
+1721,Gonn,0,0,0,0,0,0,0,0
+1722,Goobarragandra,0,0,0,0,0,1,0,0
+1723,Good Forest,0,0,0,0,0,0,0,0
+1724,Good Hope,0,0,0,0,0,0,0,0
+1725,Goodmans Ford,0,0,0,0,0,0,0,0
+1726,Goodnight,0,0,0,0,0,0,0,0
+1727,Goodooga,0,0,0,0,0,0,0,0
+1728,Goodwood Island,0,0,0,0,0,0,0,0
+1729,Googong,6,1,0,1,1,1,0,1
+1730,Goolgowi,0,0,0,0,1,0,1,0
+1731,Goolhi,0,0,0,0,0,0,0,0
+1732,Goolma,0,0,0,0,0,0,0,0
+1733,Goolmangar,1,0,0,0,0,0,0,0
+1734,Gooloogong,0,0,0,0,0,0,0,0
+1735,Goombargana,0,0,0,0,0,0,0,0
+1736,Goonellabah,17,5,4,4,7,10,1,1
+1737,Goonengerry,1,0,0,0,1,0,0,1
+1738,Goonoo Forest,0,0,0,0,0,0,0,0
+1739,Goonoo Goonoo,0,0,0,0,0,0,0,0
+1740,Goonumbla,0,0,0,0,0,0,0,0
+1741,Goorangoola,0,0,0,0,0,0,0,0
+1742,Goorianawa,0,0,0,0,0,0,0,0
+1743,Gordon,14,10,21,12,1,30,0,6
+1744,Gorge Creek,0,0,0,0,0,0,0,0
+1745,Gormans Hill,4,0,0,0,1,0,1,0
+1746,Gorokan,35,1,2,4,4,7,0,4
+1747,Gosford,34,21,18,19,17,38,1,17
+1748,Gosforth,0,0,0,0,0,0,0,0
+1749,Gostwyck,0,0,0,0,0,0,0,1
+1750,Goulburn,11,20,13,26,56,58,8,29
+1751,Goulburn Dc,0,0,0,0,0,0,0,0
+1752,Goulburn North,0,0,0,0,0,0,0,0
+1753,Gouldsville,0,0,0,0,0,0,0,0
+1754,Gowan,0,0,0,0,0,0,0,0
+1755,Gowang,0,0,0,0,0,0,0,0
+1756,Gowrie,0,0,0,0,0,0,0,0
+1757,Grabben Gullen,1,0,0,0,0,0,1,0
+1758,Gradys Creek,0,0,0,0,0,0,0,0
+1759,Grafton,0,19,12,26,19,36,0,31
+1760,Gragin,0,0,0,0,0,0,0,0
+1761,Grahamstown,1,0,0,0,0,0,0,0
+1762,Graman,0,0,0,0,0,0,0,0
+1763,Grants Beach,0,0,0,0,0,0,0,0
+1764,Granville,41,12,8,12,28,32,0,9
+1765,Grasmere,8,0,0,0,0,0,0,0
+1766,Grassy Head,0,0,0,0,0,1,0,0
+1767,Grattai,0,0,0,0,0,0,0,0
+1768,Gravesend,0,0,0,0,0,0,0,0
+1769,Grawin Opal Fields,0,0,0,0,0,0,0,0
+1770,Grays Point,27,1,0,0,0,1,8,1
+1771,Great Mackerel Beach,1,0,0,0,0,0,2,0
+1772,Great Marlow,0,0,0,0,0,0,0,0
+1773,Green Cape,0,0,0,0,0,0,0,0
+1774,Green Creek,0,0,0,0,0,0,0,0
+1775,Green Forest,0,0,0,0,0,0,0,0
+1776,Green Gully,0,0,0,0,0,0,0,0
+1777,Green Hills,0,0,0,0,0,0,0,0
+1778,Green Pigeon,0,0,0,0,0,0,1,0
+1779,Green Point,42,2,0,4,1,7,3,5
+1780,Green Valley,42,3,3,4,1,15,3,1
+1781,Greenacre,45,14,3,11,38,33,0,23
+1782,Greendale,0,0,0,0,0,0,0,0
+1783,Greenethorpe,0,1,0,0,0,0,0,1
+1784,Greenfield Park,25,1,1,2,0,7,0,0
+1785,Greengrove,1,0,0,0,0,0,0,0
+1786,Greenhill,1,0,0,0,0,0,0,0
+1787,Greenhills Beach,0,0,0,0,0,0,0,0
+1788,Greenlands,0,0,0,0,0,0,0,0
+1789,Greenleigh,0,0,0,0,0,0,0,0
+1790,Greenridge,0,0,0,0,0,0,0,0
+1791,Greenwell Point,14,1,0,1,1,3,0,0
+1792,Greenwich,13,6,0,2,0,3,0,0
+1793,Greenwich Park,0,0,0,0,0,0,0,0
+1794,Greg Greg,0,0,0,0,0,0,0,0
+1795,Gregadoo,0,0,0,0,0,0,0,0
+1796,Gregory Hills,19,6,2,8,12,20,20,5
+1797,Greigs Flat,4,0,0,0,0,0,0,0
+1798,Grenfell,1,2,0,2,3,5,0,3
+1799,Gresford,0,0,0,0,0,1,0,0
+1800,Greta,15,3,1,3,0,8,0,1
+1801,Greta Main,2,0,0,0,0,0,0,0
+1802,Grevillia,0,0,0,0,0,0,0,0
+1803,Greystanes,18,9,1,15,2,23,1,0
+1804,Griffith,15,17,6,26,44,43,9,39
+1805,Griffith Dc,0,0,0,0,0,0,0,0
+1806,Griffith East,0,0,0,0,0,0,0,0
+1807,Grogan,0,0,0,0,0,0,0,0
+1808,Grong Grong,2,1,0,0,0,0,9,0
+1809,Grose Vale,9,0,0,1,0,0,1,0
+1810,Grose Wold,1,0,0,0,1,0,0,0
+1811,Grosses Plain,0,0,0,0,0,0,0,0
+1812,Growee,0,0,0,0,0,0,0,0
+1813,Guerilla Bay,0,0,0,0,0,0,0,0
+1814,Guildford,51,6,3,23,18,32,0,7
+1815,Guildford West,33,0,1,3,3,6,1,3
+1816,Gulargambone,1,0,0,0,0,0,0,0
+1817,Gulf Creek,0,0,0,0,0,0,0,0
+1818,Gulgong,2,3,1,2,3,5,0,0
+1819,Gulmarrad,0,0,0,0,0,0,0,0
+1820,Gum Flat,0,0,0,0,0,0,0,0
+1821,Gum Scrub,0,0,0,0,0,0,0,0
+1822,Gumbalie,0,0,0,0,0,0,0,0
+1823,Gumble,0,0,0,0,0,0,0,0
+1824,Gumly Gumly,2,2,0,0,1,3,0,0
+1825,Gumma,0,0,0,0,0,0,0,0
+1826,Gunbar,0,0,0,0,0,0,0,0
+1827,Gundagai,2,4,1,1,2,11,0,5
+1828,Gundamulda,0,0,0,0,0,0,0,0
+1829,Gundaroo,0,4,0,0,0,5,0,0
+1830,Gundary,0,0,0,0,0,0,0,0
+1831,Gunderbooka,0,0,0,0,0,0,0,0
+1832,Gunderman,0,1,0,0,0,0,0,0
+1833,Gundy,0,0,0,0,0,0,0,0
+1834,Gungal,0,0,0,0,0,0,0,0
+1835,Gungalman,0,0,0,0,0,0,0,0
+1836,Gunnedah,22,9,3,9,24,25,3,9
+1837,Gunning,1,2,0,1,2,2,0,0
+1838,Gunning Gap,0,0,0,0,0,0,0,0
+1839,Gunningbland,0,0,0,0,0,0,0,0
+1840,Gunningrah,0,0,0,0,0,0,0,0
+1841,Guntawang,0,0,0,0,0,0,0,0
+1842,Gurley,0,0,0,0,0,0,0,0
+1843,Gurnang,0,0,0,0,0,0,0,0
+1844,Gurranang,0,0,0,0,0,0,0,0
+1845,Gurrundah,0,0,0,0,0,0,0,0
+1846,Guyong,0,0,0,0,0,0,0,0
+1847,Guyra,1,5,0,2,4,3,0,2
+1848,Gwabegar,0,0,0,0,0,1,0,0
+1849,Gwandalan,16,3,1,3,3,1,0,0
+1850,Gwynneville,15,3,0,1,0,9,0,1
+1851,Gymea,35,14,2,9,0,35,2,5
+1852,Gymea Bay,21,2,0,1,1,2,5,0
+1853,Haberfield,22,9,3,6,4,21,0,5
+1854,Hacks Ferry,0,0,0,0,0,0,0,0
+1855,Halekulani,16,1,0,0,0,0,0,0
+1856,Halfway Creek,8,1,0,0,0,0,8,0
+1857,Hallidays Point,0,2,0,0,0,4,0,0
+1858,Halloran,1,0,0,0,0,0,0,0
+1859,Halls Creek,0,0,0,0,0,0,0,0
+1860,Hallsville,0,0,0,0,0,0,0,0
+1861,Halton,0,0,0,0,0,0,0,0
+1862,Hambledon Hill,0,0,0,0,0,0,0,0
+1863,Hamilton,0,9,14,11,2,13,0,0
+1864,Hamilton Dc,0,0,0,0,0,0,0,0
+1865,Hamilton East,3,1,0,0,1,0,0,0
+1866,Hamilton North,6,1,0,0,1,0,12,2
+1867,Hamilton South,23,0,3,4,0,2,5,1
+1868,Hamilton Valley,0,0,0,0,1,0,0,0
+1869,Hamlyn Terrace,36,1,0,3,0,0,5,0
+1870,Hammondville,3,4,0,0,0,6,0,0
+1871,Hampden Hall,0,0,0,0,0,0,0,0
+1872,Hampton,0,0,0,0,0,1,0,0
+1873,Hanging Rock,0,0,0,0,0,0,0,0
+1874,Hanleys Creek,0,0,0,0,0,0,0,0
+1875,Hannam Vale,0,0,0,0,0,1,0,0
+1876,Hanwood,1,0,0,0,0,0,0,0
+1877,Harden,2,3,1,0,5,6,2,3
+1878,Hardys Bay,3,0,0,0,0,3,3,0
+1879,Harefield,0,0,0,0,0,1,0,0
+1880,Hargraves,0,0,0,0,0,0,0,0
+1881,Harolds Cross,0,0,0,0,0,0,0,0
+1882,Harparary,0,0,0,0,0,0,0,0
+1883,Harpers Hill,3,0,0,0,0,0,0,0
+1884,Harrington,0,3,0,2,3,10,0,1
+1885,Harrington Park,29,1,1,3,0,8,2,0
+1886,Harris Park,18,2,10,6,0,33,17,2
+1887,Hartley,0,3,0,0,0,2,0,0
+1888,Hartley Vale,0,0,0,0,0,1,0,0
+1889,Hartwood,0,0,0,0,0,0,0,0
+1890,Hartys Plains,0,0,0,0,0,0,0,0
+1891,Harwood,1,0,0,0,0,1,0,0
+1892,Hassall Grove,23,1,1,2,0,4,0,0
+1893,Hassans Walls,0,0,0,0,0,0,1,0
+1894,Hastings Point,6,2,0,1,0,3,9,0
+1895,Hat Head,0,0,0,0,0,0,2,0
+1896,Hatfield,0,0,0,0,0,0,0,0
+1897,Havilah,0,0,0,0,0,0,0,0
+1898,Hawkesbury Heights,7,0,0,0,0,0,1,0
+1899,Hawks Nest,1,3,0,1,0,4,0,1
+1900,Hay,0,0,0,0,0,0,0,0
+1901,Hay South,0,0,0,0,0,0,0,0
+1902,Hayes Gap,0,0,0,0,0,0,0,0
+1903,Haymarket,18,39,7,26,1,55,0,30
+1904,Haystack,0,0,0,0,0,0,0,0
+1905,Hayters Hill,0,0,0,0,0,0,1,0
+1906,Haywards Bay,1,0,0,0,0,2,5,0
+1907,Hazelbrook,34,3,1,2,0,5,0,1
+1908,Hazelgrove,0,0,0,0,0,0,0,0
+1909,Heathcote,43,5,1,1,1,0,1,1
+1910,Heatherbrae,14,5,0,0,13,12,0,0
+1911,Hebden,0,0,0,0,0,0,0,0
+1912,Hebersham,26,0,0,0,1,1,0,0
+1913,Heckenberg,24,0,0,2,0,3,0,0
+1914,Heddon Greta,12,0,0,3,0,5,0,0
+1915,Heifer Station,0,0,0,0,0,0,0,0
+1916,Helensburgh,59,5,3,8,10,14,0,2
+1917,Henley,3,0,0,0,0,0,0,0
+1918,Henty,0,1,0,1,2,0,1,0
+1919,Hereford Hall,0,0,0,0,0,0,0,0
+1920,Hermidale,1,0,0,0,0,0,0,0
+1921,Hermitage Flat,3,0,0,0,0,0,0,0
+1922,Hernani,0,0,0,0,0,0,0,0
+1923,Herons Creek,0,0,0,0,0,0,0,0
+1924,Hexham,0,1,0,0,3,2,0,0
+1925,Hickeys Creek,0,0,0,0,0,0,0,0
+1926,High Range,0,0,0,0,0,0,0,0
+1927,Higher Macdonald,0,0,0,0,0,0,0,0
+1928,Highfields,0,0,0,0,0,0,0,0
+1929,Hill End,0,1,0,0,0,2,25,0
+1930,Hill Top,9,0,0,1,1,2,0,1
+1931,Hilldale,1,0,0,0,0,0,0,0
+1932,Hillgrove,0,0,0,0,0,0,0,0
+1933,Hillsborough,2,0,0,0,0,1,0,0
+1934,Hillsdale,6,2,2,1,6,9,0,1
+1935,Hillston,0,0,0,0,0,0,0,0
+1936,Hillville,0,0,0,0,0,0,0,0
+1937,Hillvue,1,2,0,1,0,6,0,1
+1938,Hinchinbrook,38,1,3,4,0,6,0,0
+1939,Hinton,0,0,0,0,0,0,0,0
+1940,Hmas Albatross,0,0,0,0,0,0,0,0
+1941,Hmas Creswell,0,0,0,0,0,0,0,0
+1942,Hmas Platypus,0,0,0,0,0,0,0,0
+1943,Hmas Rushcutters,0,0,0,0,0,0,0,0
+1944,Hmas Waterhen,0,0,0,0,0,0,0,0
+1945,Hmas Watson,0,0,0,0,0,0,0,0
+1946,Hobartville,11,0,0,2,0,1,0,0
+1947,Hobbys Yards,0,0,0,0,0,0,0,0
+1948,Hogarth Range,0,1,0,0,0,0,2,0
+1949,Holbrook,2,5,0,0,0,8,0,1
+1950,Holgate,2,1,0,0,0,1,0,0
+1951,Hollisdale,0,0,0,0,0,0,0,0
+1952,Hollydeen,0,0,0,0,0,0,0,0
+1953,Holmesville,13,0,0,3,0,1,0,0
+1954,Holroyd,3,0,0,0,1,1,0,1
+1955,Holsworthy,18,1,0,0,1,0,0,1
+1956,Holts Flat,0,0,0,0,0,0,0,0
+1957,Home Rule,0,0,0,0,0,0,0,0
+1958,Homebush,23,8,9,4,10,25,1,50
+1959,Homebush South,0,0,0,0,0,0,0,0
+1960,Homebush West,8,9,3,3,6,23,7,1
+1961,Homeleigh,0,0,0,0,0,0,0,0
+1962,Honeybugle,0,0,0,0,0,0,0,0
+1963,Hopefield,0,0,0,0,0,0,0,0
+1964,Hopkins Creek,0,0,0,0,0,0,0,0
+1965,Horningsea Park,20,0,1,2,0,7,4,0
+1966,Hornsby,44,37,55,37,17,53,3,56
+1967,Hornsby Heights,37,0,0,1,4,2,0,2
+1968,Horse Station Creek,0,0,0,0,0,0,0,0
+1969,Horseshoe Bend,0,0,0,0,0,0,0,0
+1970,Horseshoe Creek,0,0,0,0,0,0,0,0
+1971,Horsfield Bay,2,0,0,0,0,0,0,0
+1972,Horsley,39,1,0,1,0,0,0,2
+1973,Horsley Park,42,4,0,1,1,7,0,2
+1974,Hoskinstown,0,0,0,0,0,0,0,0
+1975,Hovells Creek,0,0,0,0,0,0,0,0
+1976,Howards Grass,0,0,0,0,0,0,0,0
+1977,Howell,0,0,0,0,0,0,0,0
+1978,Howes Valley,0,0,0,0,0,0,3,0
+1979,Howick,0,0,0,0,0,0,0,0
+1980,Howlong,3,2,0,1,2,4,0,0
+1981,Hoxton Park,17,2,0,3,3,6,0,1
+1982,Hume,0,0,0,0,0,0,0,0
+1983,Humula,0,0,0,0,0,0,0,0
+1984,Hungerford,0,0,0,0,0,0,0,0
+1985,Hunters Hill,41,9,4,10,2,21,2,3
+1986,Hunterview,13,0,0,0,0,0,0,0
+1987,Huntingdon,0,0,0,0,0,0,0,0
+1988,Huntingwood,13,0,0,1,2,1,1,0
+1989,Huntley,0,0,0,0,0,0,0,0
+1990,Huntleys Cove,0,1,0,0,0,1,1,0
+1991,Huntleys Point,4,0,0,0,0,0,0,0
+1992,Huonbrook,0,0,0,0,0,0,1,0
+1993,Hurlstone Park,15,5,3,9,1,6,6,1
+1994,Hurstville,45,32,45,46,10,53,1,42
+1995,Hurstville Grove,17,0,0,0,0,0,4,1
+1996,Hurstville Westfield,0,0,0,0,0,0,0,0
+1997,Huskisson,2,13,0,2,10,25,0,6
+1998,Hyams Beach,2,1,0,0,0,1,0,0
+1999,Hyland Park,0,0,0,0,0,0,0,0
+2000,Hyndmans Creek,0,0,0,0,0,0,0,0
+2001,Ilarwill,2,0,0,0,0,0,0,0
+2002,Ilford,0,0,0,0,0,0,0,0
+2003,Illabo,0,0,0,0,0,0,0,0
+2004,Illaroo,0,0,0,0,0,0,0,0
+2005,Illawong,25,1,2,6,0,5,0,0
+2006,Iluka,1,3,0,2,0,7,0,1
+2007,Indi,0,0,0,0,0,0,0,0
+2008,Ingebirah,0,0,0,0,0,0,0,0
+2009,Ingleburn,46,17,6,12,57,39,0,18
+2010,Ingleside,8,1,0,0,0,1,0,0
+2011,Innes View,0,0,0,0,0,0,0,0
+2012,Inverell,6,14,9,10,45,23,0,15
+2013,Invergordon,0,0,0,0,0,0,0,0
+2014,Invergowrie,0,0,0,0,0,0,0,0
+2015,Iron Gates,0,0,0,0,0,0,0,0
+2016,Iron Pot Creek,0,0,0,0,0,0,1,0
+2017,Ironbark,0,0,0,0,0,0,0,0
+2018,Ironmungy,0,0,0,0,0,0,0,0
+2019,Irvington,0,0,0,0,0,0,0,0
+2020,Irymple,0,0,0,0,0,0,0,0
+2021,Isabella,0,0,0,0,0,0,0,0
+2022,Islington,0,4,2,6,10,4,0,8
+2023,Ivanhoe,0,0,0,0,0,0,0,0
+2024,Jackadgery,3,0,0,0,0,0,0,0
+2025,Jacks Creek,0,0,0,0,0,0,0,0
+2026,Jacksons Flat,0,0,0,0,0,0,0,0
+2027,Jacky Bulbin Flat,0,1,0,0,0,0,1,0
+2028,Jagumba,0,0,0,0,0,0,0,0
+2029,Jagungal Wilderness,0,0,0,0,0,0,0,0
+2030,Jamberoo,16,2,0,1,1,4,0,0
+2031,James Creek,0,0,0,0,0,0,0,0
+2032,Jamisontown,22,9,1,2,32,20,0,8
+2033,Jannali,8,4,6,12,2,17,1,4
+2034,Jaspers Brush,0,0,0,0,0,0,0,0
+2035,Jaunter,0,0,0,0,0,0,0,0
+2036,Jeir,3,0,0,0,0,0,0,0
+2037,Jellat Jellat,2,0,0,0,0,0,0,0
+2038,Jemalong,0,0,0,0,0,0,1,0
+2039,Jembaicumbene,0,0,0,0,0,0,0,0
+2040,Jenolan,0,1,0,0,0,1,0,0
+2041,Jeogla,0,0,0,0,0,0,0,0
+2042,Jerangle,0,0,0,0,0,0,0,0
+2043,Jeremadra,0,0,0,0,0,0,0,0
+2044,Jeremy,0,0,0,0,0,0,0,0
+2045,Jerilderie,2,1,0,0,1,3,0,0
+2046,Jerrabattgulla,0,0,0,0,0,0,0,0
+2047,Jerrabomberra,10,3,2,2,1,6,0,1
+2048,Jerrara,1,0,0,0,0,0,0,0
+2049,Jerrawa,1,0,0,0,0,0,0,0
+2050,Jerrawangala,0,0,0,0,0,0,0,0
+2051,Jerrong,0,0,0,0,0,0,0,0
+2052,Jerrys Plains,0,1,0,0,0,1,3,0
+2053,Jerseyville,0,0,0,0,0,0,0,0
+2054,Jervis Bay,0,0,0,0,0,0,0,0
+2055,Jesmond,15,6,3,4,1,18,0,6
+2056,Jewells,14,2,0,1,0,4,0,1
+2057,Jews Lagoon,0,0,0,0,0,0,0,0
+2058,Jiggi,0,0,0,0,0,0,0,0
+2059,Jilliby,50,1,0,0,0,1,2,0
+2060,Jimenbuen,0,0,0,0,0,0,0,0
+2061,Jincumbilly,0,0,0,0,0,0,0,0
+2062,Jindabyne,1,15,2,7,7,39,0,10
+2063,Jinden,0,0,0,0,0,0,0,0
+2064,Jindera,0,0,0,1,4,1,0,1
+2065,Jingellic,1,0,0,0,0,1,0,0
+2066,Jingera,0,0,0,0,0,0,0,0
+2067,Joadja,0,0,0,0,0,0,0,0
+2068,Joes Box,0,0,0,0,0,0,0,0
+2069,Johns River,1,1,0,0,1,1,0,0
+2070,Jolly Nose,0,1,0,0,0,0,0,0
+2071,Jones Bridge,0,0,0,0,0,0,0,0
+2072,Jones Creek,0,0,0,0,0,0,0,0
+2073,Jones Island,0,0,0,0,0,0,0,0
+2074,Jordan Springs,17,2,1,4,1,7,1,1
+2075,Judds Creek,0,0,0,0,0,0,0,0
+2076,Jugiong,0,2,0,0,0,3,0,0
+2077,Junction Hill,3,0,0,0,0,1,5,1
+2078,Junee,8,5,1,3,4,9,0,0
+2079,Junee Reefs,0,0,0,0,0,0,0,0
+2080,Kahibah,9,1,0,7,0,3,0,0
+2081,Kains Flat,0,0,0,0,0,0,0,0
+2082,Kalang,0,0,0,0,0,0,0,0
+2083,Kalaru,10,1,0,0,1,2,0,0
+2084,Kalkite,0,0,0,0,0,0,0,0
+2085,Kamarah,0,0,0,0,0,0,0,0
+2086,Kameruka,0,0,0,0,0,0,0,0
+2087,Kanahooka,28,1,0,2,0,1,0,2
+2088,Kanangra,0,0,0,0,0,0,0,0
+2089,Kandos,1,2,0,0,3,1,0,2
+2090,Kangaloon,1,0,0,0,0,0,0,0
+2091,Kangaroo Creek,0,0,0,0,0,0,0,0
+2092,Kangaroo Point,0,0,0,0,0,0,0,0
+2093,Kangaroo Valley,6,4,0,2,0,7,14,2
+2094,Kangaroobie,0,0,0,0,0,0,0,0
+2095,Kangiara,0,0,0,0,0,0,0,0
+2096,Kangy Angy,6,0,0,0,0,0,0,0
+2097,Kanimbla,0,0,0,0,0,0,0,0
+2098,Kanoona,0,0,0,0,0,0,0,0
+2099,Kanwal,32,2,2,3,3,6,0,1
+2100,Kapooka,0,1,0,0,0,0,0,0
+2101,Kaputar,0,0,0,0,0,0,0,0
+2102,Karaak Flat,0,0,0,0,0,0,0,0
+2103,Karabar,27,1,1,0,0,3,0,0
+2104,Karangi,0,0,0,0,0,0,0,0
+2105,Kareela,23,1,1,3,0,4,0,0
+2106,Kariong,32,1,1,6,5,5,1,1
+2107,Kars Springs,0,0,0,0,0,0,0,0
+2108,Karuah,2,3,0,0,1,7,0,0
+2109,Katoomba,59,31,5,9,23,60,2,17
+2110,Katoomba Dc,0,0,0,0,0,0,0,0
+2111,Kayuga,0,0,0,0,0,0,0,0
+2112,Kearns,15,0,1,4,1,3,0,0
+2113,Kearsley,9,1,0,1,1,2,0,0
+2114,Keepit,0,0,0,0,0,1,0,0
+2115,Keera,0,0,0,0,0,0,0,0
+2116,Keerrong,1,0,0,0,0,0,0,0
+2117,Keinbah,0,0,0,0,0,0,0,0
+2118,Keiraville,25,4,1,5,1,9,0,1
+2119,Keith Hall,0,0,0,0,0,0,0,0
+2120,Kelgoola,0,0,0,0,0,0,0,0
+2121,Kellys Plains,0,0,0,0,0,0,0,0
+2122,Kellyville,46,10,9,18,3,29,3,4
+2123,Kellyville Ridge,10,3,6,3,0,4,3,1
+2124,Kelso,5,4,0,1,8,11,1,3
+2125,Kelvin,0,0,0,0,0,0,0,0
+2126,Kembla Grange,8,0,0,0,4,1,4,0
+2127,Kembla Heights,4,0,0,0,0,1,1,0
+2128,Kemps Creek,12,2,0,0,7,5,3,0
+2129,Kempsey,6,15,3,7,22,22,0,10
+2130,Kendall,0,2,0,0,1,2,0,0
+2131,Kenebri,0,0,0,0,0,0,0,0
+2132,Kennaicle Creek,0,0,0,0,0,0,0,0
+2133,Kensington,22,19,7,2,3,34,0,2
+2134,Kenthurst,33,3,0,1,6,4,2,1
+2135,Kentlyn,10,0,0,0,0,0,1,0
+2136,Kentucky,0,0,0,0,0,0,0,0
+2137,Kentucky South,0,0,0,0,0,0,0,0
+2138,Kerewong,0,0,0,0,0,0,0,0
+2139,Keri Keri,0,0,0,0,0,0,0,0
+2140,Kerrabee,0,0,0,0,0,1,0,0
+2141,Kerrigundi,0,0,0,0,0,0,0,0
+2142,Kerrs Creek,0,0,0,0,0,0,0,0
+2143,Kew,0,0,0,0,0,0,0,0
+2144,Keybarbin,0,0,0,0,0,0,0,0
+2145,Khancoban,0,2,0,0,0,0,0,0
+2146,Khatambuhl,0,0,0,0,0,0,0,0
+2147,Kia Ora,0,0,0,0,0,0,0,0
+2148,Kiacatoo,0,0,0,0,0,0,0,0
+2149,Kiah,0,0,0,0,0,0,0,0
+2150,Kiama,31,24,11,12,8,45,3,22
+2151,Kiama Downs,28,2,0,4,0,3,11,2
+2152,Kiama Heights,11,0,0,0,0,0,3,0
+2153,Kianga,4,1,0,0,0,1,0,0
+2154,Kiar,3,0,0,0,0,0,0,0
+2155,Kickabil,0,0,0,0,0,0,0,0
+2156,Kielvale,0,0,0,0,0,0,0,0
+2157,Kikiamah,0,0,0,0,0,0,0,0
+2158,Kikoira,0,0,0,0,0,0,0,0
+2159,Kilaben Bay,9,0,0,0,0,0,0,0
+2160,Kilgin,0,0,0,0,0,0,0,0
+2161,Kilgra,1,0,0,0,0,0,0,0
+2162,Killabakh,0,0,0,0,0,0,0,0
+2163,Killara,29,2,0,3,4,3,0,0
+2164,Killarney Heights,12,4,1,1,0,6,6,2
+2165,Killarney Vale,30,3,2,8,0,6,4,1
+2166,Killawarra,0,0,0,0,0,0,0,0
+2167,Killcare,2,2,0,1,1,5,1,2
+2168,Killcare Heights,6,0,0,0,0,1,1,0
+2169,Killiekrankie,0,0,0,0,0,0,0,0
+2170,Killimicat,0,0,0,0,0,1,0,0
+2171,Killingworth,11,0,0,0,1,0,0,0
+2172,Killongbutta,0,0,0,0,0,0,0,0
+2173,Kimbriki,0,0,0,0,0,0,0,0
+2174,Kinchela,1,0,0,0,0,0,0,0
+2175,Kincumber,51,9,7,9,3,18,0,1
+2176,Kincumber South,4,1,0,0,1,0,2,0
+2177,Kindee,0,0,0,0,0,0,0,0
+2178,Kindervale,0,0,0,0,0,0,0,0
+2179,King Creek,1,0,0,0,1,0,0,0
+2180,Kingfisher Shores,3,0,0,0,0,0,0,0
+2181,Kinghorne,0,0,0,0,0,0,0,0
+2182,Kings Forest,0,0,0,0,0,0,0,0
+2183,Kings Hill,0,0,0,0,0,0,0,0
+2184,Kings Langley,45,3,3,5,2,12,0,2
+2185,Kings Park,4,7,0,0,30,0,1,0
+2186,Kings Plains,0,0,0,0,0,0,1,1
+2187,Kings Point,0,0,0,0,2,0,0,0
+2188,Kingscliff,33,17,2,12,1,41,1,14
+2189,Kingsdale,0,0,0,0,0,0,0,0
+2190,Kingsdene,0,0,0,0,0,0,0,0
+2191,Kingsford,23,10,7,10,7,56,0,3
+2192,Kingsgate,0,0,0,0,0,0,0,0
+2193,Kingsgrove,43,12,7,8,15,34,0,4
+2194,Kingsgrove Dc,0,0,0,0,0,0,0,0
+2195,Kingsland,0,0,0,0,0,0,0,0
+2196,Kingstown,0,0,0,0,0,0,0,0
+2197,Kingsvale,0,0,0,0,0,0,2,0
+2198,Kingsway West,0,0,0,0,0,0,0,0
+2199,Kingswood,44,8,2,2,18,26,2,1
+2200,Kinvara,0,0,0,0,0,0,0,0
+2201,Kioloa,3,1,0,0,0,2,0,0
+2202,Kiora,0,0,0,0,0,0,0,0
+2203,Kippara,0,0,0,0,0,0,0,0
+2204,Kippaxs,0,0,0,0,0,0,0,0
+2205,Kippenduff,0,0,0,0,0,0,0,0
+2206,Kirkconnell,0,0,0,0,0,0,1,0
+2207,Kirkham,4,0,0,0,0,0,0,0
+2208,Kirrawee,36,15,5,7,55,29,1,8
+2209,Kirrawee Dc,0,0,0,0,0,0,0,0
+2210,Kirribilli,3,8,1,2,0,25,0,1
+2211,Kitchener,0,0,0,0,0,0,0,0
+2212,Kiwarrak,0,1,0,0,0,1,0,0
+2213,Klori,4,0,0,0,0,0,0,0
+2214,Knights Hill,0,0,0,0,0,0,0,0
+2215,Knockrow,0,1,0,0,0,1,1,0
+2216,Knorrit Flat,0,0,0,0,0,0,0,0
+2217,Knorrit Forest,0,0,0,0,0,0,0,0
+2218,Kogarah,42,22,25,26,18,55,0,6
+2219,Kogarah Bay,19,1,0,1,0,3,1,0
+2220,Kooba,0,0,0,0,0,0,0,0
+2221,Kookabookra,0,0,0,0,0,0,0,0
+2222,Koolewong,17,1,0,0,0,1,0,0
+2223,Koolkhan,0,0,0,0,1,0,0,0
+2224,Koonawarra,24,0,0,2,0,0,0,0
+2225,Koonorigan,1,0,0,0,0,0,0,0
+2226,Koonyum Range,0,0,0,0,0,0,0,0
+2227,Kooragang,2,0,0,0,0,1,0,0
+2228,Koorainghat,0,0,0,0,0,0,0,0
+2229,Koorawatha,1,0,0,0,0,1,0,0
+2230,Kooringal,15,3,1,2,2,9,0,1
+2231,Kootingal,12,2,0,1,0,2,0,0
+2232,Koraleigh,0,1,0,0,0,0,3,0
+2233,Koreelah,0,0,0,0,0,0,0,0
+2234,Korora,9,0,0,2,0,1,0,0
+2235,Kosciuszko,0,0,0,0,0,0,0,0
+2236,Kosciuszko National Park,0,0,0,0,0,0,0,0
+2237,Kotara,36,13,3,16,18,40,3,60
+2238,Kotara East,0,0,0,0,0,0,0,0
+2239,Kotara Fair,0,0,0,0,0,0,0,0
+2240,Kotara South,11,0,0,0,0,0,1,0
+2241,Kowen,0,0,0,0,0,0,0,0
+2242,Krambach,1,1,0,0,0,1,0,0
+2243,Krawarree,0,0,0,0,0,0,0,0
+2244,Kremnos,0,0,0,0,0,0,0,0
+2245,Kulnura,2,1,0,0,1,1,3,0
+2246,Kulwin,0,0,0,0,0,0,0,0
+2247,Kunama,0,0,0,0,0,0,0,0
+2248,Kundabung,2,0,0,0,0,1,0,0
+2249,Kundibakh,0,0,0,0,0,0,0,0
+2250,Kundle Kundle,0,0,0,0,0,0,0,0
+2251,Kungala,0,0,0,0,0,0,0,0
+2252,Kunghur,1,0,0,0,0,0,1,0
+2253,Kunghur Creek,0,0,0,0,0,0,0,0
+2254,Kurmond,4,0,0,1,1,5,0,0
+2255,Kurnell,24,5,0,2,3,6,0,3
+2256,Kurraba Point,2,1,0,0,0,0,0,0
+2257,Kurrajong,13,4,0,3,0,5,0,3
+2258,Kurrajong Heights,7,0,0,0,0,1,1,0
+2259,Kurrajong Hills,3,0,0,0,0,0,4,0
+2260,Kurri Kurri,31,7,3,7,9,19,0,1
+2261,Kyalite,0,0,0,0,0,1,0,0
+2262,Kyarran,0,0,0,0,0,0,0,0
+2263,Kybeyan,0,0,0,0,0,0,0,0
+2264,Kyeamba,0,0,0,0,0,0,0,0
+2265,Kyeemagh,8,1,0,0,0,2,1,0
+2266,Kyle Bay,5,1,0,1,0,3,1,0
+2267,Kynnumboon,0,0,0,0,0,0,0,0
+2268,Kyogle,3,6,1,5,9,7,1,3
+2269,La Perouse,3,2,0,1,0,7,16,0
+2270,Lacmalac,0,0,0,0,0,0,0,0
+2271,Lade Vale,0,0,0,0,0,0,1,0
+2272,Ladysmith,0,0,0,0,0,0,0,0
+2273,Laffing Waters,0,0,0,1,0,0,0,0
+2274,Laggan,0,0,0,0,0,1,1,0
+2275,Lagoon Grass,0,0,0,0,0,0,0,0
+2276,Laguna,0,1,0,0,0,1,0,0
+2277,Lake Albert,13,2,0,2,0,3,0,0
+2278,Lake Bathurst,0,0,0,0,0,0,0,0
+2279,Lake Brewster,0,0,0,0,0,0,0,0
+2280,Lake Burrendong,0,0,0,0,0,0,0,0
+2281,Lake Cargelligo,1,1,0,0,4,3,27,0
+2282,Lake Cathie,17,1,3,2,1,4,0,4
+2283,Lake Conjola,1,2,0,0,0,1,0,0
+2284,Lake Cowal,0,0,0,0,0,0,1,0
+2285,Lake George,0,1,0,0,0,2,0,0
+2286,Lake Haven,18,5,3,5,7,16,0,7
+2287,Lake Heights,33,1,0,1,1,3,0,0
+2288,Lake Hiawatha,0,0,0,0,0,0,0,0
+2289,Lake Illawarra,24,0,0,3,0,3,6,2
+2290,Lake Innes,0,0,0,0,0,0,3,0
+2291,Lake Munmorah,43,4,2,3,0,11,26,0
+2292,Lake Tabourie,4,0,0,1,0,2,0,1
+2293,Lake Wyangan,0,0,0,0,0,0,5,0
+2294,Lakelands,0,0,0,0,0,0,0,0
+2295,Lakemba,41,6,7,11,9,52,1,12
+2296,Lakemba Dc,0,0,0,0,0,0,0,0
+2297,Lakesland,1,0,0,0,0,0,0,0
+2298,Lakewood,1,1,0,1,0,0,0,0
+2299,Lalor Park,34,1,0,2,0,10,15,1
+2300,Lambs Valley,0,0,0,0,0,0,0,0
+2301,Lambton,25,4,3,6,9,9,0,7
+2302,Landervale,0,0,0,0,0,0,0,0
+2303,Lane Cove,11,13,29,26,7,48,13,15
+2304,Lane Cove Dc,0,0,0,0,0,0,0,0
+2305,Lane Cove North,32,5,0,1,5,6,10,1
+2306,Lane Cove West,17,4,4,1,6,6,10,1
+2307,Langley Vale,0,0,0,0,0,0,0,0
+2308,Lanitza,0,0,0,0,2,0,0,0
+2309,Lankeys Creek,0,0,0,0,0,0,0,0
+2310,Lansdowne,1,0,0,0,0,1,0,0
+2311,Lansdowne Forest,0,0,0,0,0,0,0,0
+2312,Lansvale,33,1,1,0,5,9,0,2
+2313,Lapstone,10,0,0,0,0,0,0,0
+2314,Larbert,0,0,0,0,0,0,0,0
+2315,Largs,2,0,0,2,0,1,0,0
+2316,Larnook,0,0,0,0,0,0,0,0
+2317,Larras Lee,0,0,0,0,0,0,1,0
+2318,Laughtondale,0,0,0,0,0,0,4,0
+2319,Laurel Hill,1,0,0,0,0,0,0,0
+2320,Laurieton,14,5,2,5,3,15,0,8
+2321,Lavadia,0,0,0,0,0,0,0,0
+2322,Lavender Bay,3,1,0,0,0,2,12,0
+2323,Laverstock,0,0,0,0,0,0,0,0
+2324,Lavington,6,10,2,15,24,36,0,15
+2325,Lavington Dc,0,0,0,0,0,0,0,0
+2326,Lawrence,0,0,0,0,0,0,1,0
+2327,Lawson,17,3,1,2,9,11,0,0
+2328,Leadville,0,0,0,0,0,0,0,0
+2329,Leconfield,1,0,0,0,0,0,0,0
+2330,Lee Creek,0,0,0,0,0,0,0,0
+2331,Leeton,2,11,2,7,22,24,4,9
+2332,Leets Vale,0,0,0,0,0,0,0,0
+2333,Leeville,0,0,0,0,0,0,0,0
+2334,Legume,0,0,0,0,0,0,0,0
+2335,Leichhardt,34,26,28,24,22,54,0,29
+2336,Lemington,0,0,0,0,0,0,0,0
+2337,Lemon Tree,1,0,0,0,0,0,0,0
+2338,Lemon Tree Passage,13,1,0,0,5,3,17,1
+2339,Len Waters Estate,2,3,1,2,0,5,2,0
+2340,Lenaghan,0,0,0,0,0,0,0,0
+2341,Lennox Head,3,10,5,8,0,23,0,17
+2342,Leonay,12,1,0,1,1,1,0,0
+2343,Leppington,41,2,1,2,3,14,1,1
+2344,Lerida,0,0,0,0,0,0,0,0
+2345,Lethbridge Park,21,0,0,2,0,1,0,0
+2346,Leumeah,43,3,3,6,13,13,0,1
+2347,Leura,43,17,4,1,1,27,0,15
+2348,Levenstrath,0,0,0,0,0,0,0,0
+2349,Lewinsbrook,0,0,0,0,0,0,0,0
+2350,Lewis Ponds,0,0,0,0,0,0,0,0
+2351,Lewisham,10,3,0,2,7,4,0,1
+2352,Leycester,0,0,0,0,0,0,0,0
+2353,Liberty Grove,0,0,0,0,0,0,1,0
+2354,Lidcombe,47,25,9,12,19,52,2,8
+2355,Lidcombe North,0,0,0,0,0,0,0,0
+2356,Liddell,0,0,0,0,0,0,0,0
+2357,Lidsdale,2,0,0,0,0,0,0,0
+2358,Lidster,0,0,0,0,0,0,2,0
+2359,Lighthouse Beach,0,0,0,0,0,0,0,0
+2360,Lightning Ridge,0,0,0,0,0,0,0,0
+2361,Lilli Pilli,13,2,0,2,0,4,5,1
+2362,Lillian Rock,1,0,0,0,1,0,3,0
+2363,Lilydale,0,0,0,0,0,0,0,0
+2364,Lilyfield,18,7,1,5,1,7,2,1
+2365,Lilyvale,0,0,0,0,0,0,0,0
+2366,Limbri,0,0,0,0,0,0,0,0
+2367,Limeburners Creek,0,1,0,0,0,1,0,0
+2368,Limekilns,0,0,0,0,0,0,1,0
+2369,Limerick,0,0,0,0,0,0,0,0
+2370,Limestone,0,0,0,0,0,0,0,0
+2371,Limpinwood,0,0,0,0,0,0,0,0
+2372,Linburn,0,0,0,0,0,0,0,0
+2373,Linden,2,0,0,0,0,0,0,0
+2374,Lindendale,0,0,0,0,3,0,1,0
+2375,Lindesay,0,0,0,0,0,0,0,0
+2376,Lindesay Creek,0,0,0,0,0,0,0,0
+2377,Lindfield,34,12,17,5,3,25,0,1
+2378,Lindfield West,0,0,0,0,0,0,0,0
+2379,Lindifferon,0,0,0,0,0,0,0,0
+2380,Linley Point,4,0,0,0,0,0,0,0
+2381,Lionsville,0,0,0,0,0,0,0,0
+2382,Lisarow,28,2,1,1,7,6,1,3
+2383,Lismore,15,33,16,32,34,59,0,58
+2384,Lismore Dc,0,0,0,0,0,0,0,0
+2385,Lismore Heights,2,1,0,0,0,0,3,0
+2386,Liston,0,1,0,0,0,0,0,0
+2387,Lithgow,24,13,9,12,15,38,0,13
+2388,Little Back Creek,0,0,0,0,0,0,0,0
+2389,Little Bay,23,3,1,1,1,6,16,0
+2390,Little Billabong,0,0,0,0,0,0,0,0
+2391,Little Forest,0,0,0,0,0,0,0,0
+2392,Little Hartley,0,0,0,0,0,1,0,0
+2393,Little Jacks Creek,0,0,0,0,0,0,0,0
+2394,Little Jilliby,0,0,0,0,0,0,0,0
+2395,Little Pelican,2,0,0,0,0,0,0,0
+2396,Little Plain,1,0,0,0,0,0,0,0
+2397,Little River,0,0,0,0,0,0,0,0
+2398,Little Topar,0,0,0,0,0,0,0,0
+2399,Little Wobby,0,0,0,0,0,0,0,0
+2400,Littleton,0,0,0,0,0,0,0,0
+2401,Liverpool,4,57,45,45,12,60,0,0
+2402,Liverpool South,0,0,0,0,0,0,0,0
+2403,Liverpool Westfield,0,0,0,0,0,0,0,0
+2404,Llanarth,2,0,0,0,0,0,0,0
+2405,Llandilo,11,0,0,0,0,1,1,0
+2406,Llangothlin,1,0,0,0,0,0,0,0
+2407,Lloyd,0,0,0,0,0,0,0,1
+2408,Loadstone,0,0,0,0,0,0,0,0
+2409,Lochiel,0,0,0,0,0,0,0,0
+2410,Lochinvar,8,0,0,1,0,0,0,0
+2411,Lockhart,1,1,1,1,1,0,0,1
+2412,Locksley,0,0,0,0,0,0,0,0
+2413,Loftus,40,2,0,0,0,3,1,1
+2414,Loftville,2,0,0,0,0,0,0,0
+2415,Logans Crossing,0,0,0,0,0,0,0,0
+2416,Logie Brae,0,0,0,0,0,0,0,0
+2417,Londonderry,24,1,0,2,7,3,1,2
+2418,Long Beach,0,0,0,0,0,0,0,0
+2419,Long Flat,0,0,0,0,0,1,0,0
+2420,Long Jetty,40,5,2,10,16,21,0,13
+2421,Long Plain,0,0,0,0,0,0,0,0
+2422,Long Point,5,0,0,0,0,0,0,0
+2423,Longarm,0,0,0,0,0,0,0,0
+2424,Longreach,0,0,0,0,0,0,0,0
+2425,Longueville,13,1,0,0,0,0,0,0
+2426,Loombah,0,0,0,0,0,0,0,0
+2427,Loomberah,0,0,0,0,0,0,0,0
+2428,Lord Howe Island,0,0,0,1,0,6,12,1
+2429,Lords Hill,0,0,0,0,0,0,0,0
+2430,Lorn,4,3,0,3,1,5,0,0
+2431,Lorne,0,0,0,0,0,0,0,0
+2432,Lost River,0,0,0,0,0,0,0,0
+2433,Lostock,0,0,0,0,0,0,0,0
+2434,Louisa Creek,0,0,0,0,0,0,0,0
+2435,Louth,0,0,0,0,0,0,0,0
+2436,Louth Park,0,0,0,1,0,0,0,0
+2437,Lovedale,0,3,0,0,0,8,2,0
+2438,Lovett Bay,0,0,0,0,0,0,0,0
+2439,Lowanna,0,0,0,0,0,0,0,0
+2440,Lower Acacia Creek,0,0,0,0,0,0,0,0
+2441,Lower Bago,0,0,0,0,0,0,0,0
+2442,Lower Belford,0,0,0,0,0,0,0,0
+2443,Lower Boro,0,0,0,0,0,0,0,0
+2444,Lower Bottle Creek,0,0,0,0,0,0,0,0
+2445,Lower Creek,0,0,0,0,0,0,0,0
+2446,Lower Duck Creek,0,0,0,0,0,0,0,0
+2447,Lower Dyraaba,0,0,0,0,0,0,0,0
+2448,Lower Lewis Ponds,0,0,0,0,0,0,0,0
+2449,Lower Macdonald,0,0,0,0,0,0,0,0
+2450,Lower Mangrove,2,0,0,0,0,0,1,0
+2451,Lower Pappinbarra,0,0,0,0,0,0,0,0
+2452,Lower Peacock,0,0,0,0,0,0,0,0
+2453,Lower Portland,0,1,0,0,0,1,2,0
+2454,Lower Southgate,0,0,0,0,0,0,0,0
+2455,Lowesdale,0,0,0,0,0,0,0,0
+2456,Lowther,0,0,0,0,0,0,0,0
+2457,Loxford,0,0,0,0,0,0,0,0
+2458,Lucas Heights,0,1,0,0,0,1,6,0
+2459,Lucknow,0,0,0,0,0,0,0,0
+2460,Luddenham,4,3,0,2,0,5,2,1
+2461,Lue,1,0,0,0,0,0,0,0
+2462,Lugarno,26,1,2,3,2,8,0,1
+2463,Lurnea,37,1,1,6,2,8,0,0
+2464,Luskintyre,0,0,0,0,0,0,1,0
+2465,Lynchs Creek,0,0,0,0,0,0,1,0
+2466,Lyndhurst,0,0,0,0,0,0,0,0
+2467,Lynwood,0,0,0,0,0,0,0,0
+2468,Mabins Well,0,0,0,0,0,0,0,0
+2469,Macarthur Square,0,0,0,0,0,0,0,0
+2470,Macdonalds Creek,0,0,0,0,0,0,0,0
+2471,Macksville,12,5,3,1,15,10,0,5
+2472,Maclean,11,8,2,4,5,10,0,4
+2473,Macmasters Beach,12,2,0,0,1,2,0,0
+2474,Macquarie Centre,0,0,0,0,0,0,0,0
+2475,Macquarie Fields,44,6,2,7,2,17,0,1
+2476,Macquarie Hills,16,0,0,0,1,0,0,2
+2477,Macquarie Links,1,0,0,0,0,0,2,1
+2478,Macquarie Marshes,0,1,0,0,0,0,0,0
+2479,Macquarie Park,55,41,9,11,2,40,5,17
+2480,Macquarie Pass,0,0,0,0,0,0,0,0
+2481,Maddens Plains,0,1,0,0,0,3,0,0
+2482,Maffra,0,0,0,0,0,0,0,0
+2483,Magenta,1,0,0,0,0,1,0,0
+2484,Magometon,0,0,0,0,0,0,0,0
+2485,Maianbar,2,0,0,0,0,0,0,0
+2486,Maimuru,0,0,0,0,0,1,0,0
+2487,Main Arm,0,1,0,0,0,1,4,0
+2488,Main Creek,0,0,0,0,0,0,0,0
+2489,Mairjimmy,0,0,0,0,0,0,0,0
+2490,Maison Dieu,0,0,0,0,2,0,0,0
+2491,Maitland,36,23,12,24,18,39,0,28
+2492,Maitland Bar,0,0,0,0,0,0,0,0
+2493,Maitland North,0,0,0,0,0,0,0,0
+2494,Maitland Vale,0,0,0,1,0,0,0,0
+2495,Majors Creek,0,0,0,0,0,0,1,0
+2496,Malabar,3,3,0,1,1,6,0,0
+2497,Malabugilmah,0,0,0,0,0,0,0,0
+2498,Maldon,0,0,0,0,0,0,0,0
+2499,Mallabula,7,0,0,0,0,0,0,0
+2500,Mallan,0,0,0,0,0,0,0,0
+2501,Mallanganee,2,0,0,0,2,2,0,0
+2502,Mallee,0,0,0,0,0,0,0,0
+2503,Mallowa,0,0,0,0,0,0,0,0
+2504,Maloneys Beach,1,0,0,0,0,1,0,0
+2505,Malua Bay,1,1,0,1,1,3,0,2
+2506,Manahan,0,0,0,0,0,0,0,0
+2507,Manar,0,0,0,0,0,0,0,0
+2508,Manchester Square,0,0,0,0,0,0,0,0
+2509,Mandagery,0,0,0,0,0,0,0,0
+2510,Mandalong,0,0,0,0,0,0,0,0
+2511,Mandemar,0,0,0,0,0,0,0,0
+2512,Mandurama,1,0,0,0,0,0,0,0
+2513,Mangerton,14,0,0,1,1,2,0,0
+2514,Mangoola,0,0,0,0,0,0,0,0
+2515,Mangoplah,0,0,0,0,0,0,0,0
+2516,Mangrove Creek,0,0,0,0,0,0,0,0
+2517,Mangrove Mountain,13,1,1,0,0,0,5,0
+2518,Manildra,1,1,0,1,2,1,1,0
+2519,Manilla,0,0,0,0,0,5,0,0
+2520,Manly,48,48,22,38,2,60,2,33
+2521,Manly East,0,0,0,0,0,0,0,0
+2522,Manly Vale,2,4,0,5,7,7,0,1
+2523,Mannering Park,20,2,0,2,1,5,0,0
+2524,Manning Point,1,0,0,0,0,2,0,0
+2525,Mannus,0,0,0,0,0,0,2,0
+2526,Manobalai,0,0,0,0,0,0,0,0
+2527,Manton,0,0,0,0,0,0,0,0
+2528,Manyana,1,0,0,0,0,0,0,0
+2529,Maragle,0,0,0,0,0,0,1,0
+2530,Maraylya,19,0,0,1,1,0,0,0
+2531,Marayong,39,1,2,5,1,3,0,0
+2532,March,0,0,0,0,0,0,0,0
+2533,Marchmont,0,0,0,0,0,0,0,1
+2534,Mardi,27,0,0,0,2,0,0,0
+2535,Marengo,0,0,0,0,0,0,0,0
+2536,Mares Run,0,0,0,0,0,0,0,0
+2537,Marinna,0,0,0,0,0,0,0,0
+2538,Marks Point,7,2,0,1,0,3,0,1
+2539,Markwell,0,0,0,0,0,0,0,0
+2540,Marlee,0,0,0,0,0,0,0,0
+2541,Marlo Merrican,0,0,0,0,0,0,0,0
+2542,Marlow,0,0,0,0,0,0,0,0
+2543,Marlowe,0,0,0,0,0,0,0,0
+2544,Marmong Point,4,1,0,1,1,1,1,0
+2545,Marom Creek,0,0,0,0,0,0,0,0
+2546,Maroota,17,0,0,0,1,2,0,0
+2547,Maroubra,52,0,33,38,11,58,1,3
+2548,Maroubra South,0,0,0,0,0,0,0,0
+2549,Marrangaroo,7,0,0,0,1,1,0,0
+2550,Marrar,0,0,0,0,0,0,0,0
+2551,Marrickville,50,0,27,32,50,55,3,29
+2552,Marrickville Metro,0,0,0,0,0,0,0,0
+2553,Marrickville South,0,0,0,0,0,0,0,0
+2554,Marsden Park,30,0,2,1,3,14,0,5
+2555,Marsfield,33,0,1,0,2,6,1,0
+2556,Marshall Mount,0,0,0,0,0,0,0,0
+2557,Marshdale,0,0,0,0,0,0,0,0
+2558,Marthaguy,0,0,0,0,0,0,0,0
+2559,Martindale,0,0,0,0,0,0,0,0
+2560,Martins Creek,1,0,0,0,0,0,0,0
+2561,Martinsville,0,0,0,0,0,1,0,0
+2562,Marulan,5,0,0,1,5,8,0,1
+2563,Maryland,0,0,0,2,0,0,0,0
+2564,Marys Mount,0,0,0,0,0,0,0,0
+2565,Maryvale,0,0,0,0,0,0,0,0
+2566,Maryville,2,0,0,0,0,2,0,1
+2567,Mascot,35,0,10,18,21,55,0,23
+2568,Matcham,8,0,0,0,0,0,0,0
+2569,Matheson,0,0,0,0,0,0,0,0
+2570,Mathoura,1,0,0,1,1,1,0,0
+2571,Matong,1,0,0,0,0,0,0,0
+2572,Matraville,32,0,3,8,11,26,0,1
+2573,Maude,0,0,0,0,0,0,0,0
+2574,Maules Creek,0,0,0,0,0,0,0,0
+2575,Maxwell,0,0,0,0,0,0,0,0
+2576,Maybole,0,0,0,0,0,0,0,0
+2577,Mayers Flat,0,0,0,0,0,0,0,0
+2578,Mayfield,44,0,6,12,4,24,0,4
+2579,Mayfield East,4,0,0,2,2,5,0,0
+2580,Mayfield North,0,0,0,0,1,1,0,0
+2581,Mayfield West,24,0,0,1,8,4,8,1
+2582,Mayrung,0,0,0,0,0,0,0,0
+2583,Mays Hill,2,0,0,0,0,1,5,1
+2584,Mayvale,0,0,0,0,0,0,0,0
+2585,Mccarrs Creek,0,0,0,0,0,0,0,0
+2586,Mccullys Gap,0,0,0,0,0,0,0,0
+2587,Mcdougalls Hill,0,0,0,0,0,0,0,0
+2588,Mcgraths Hill,31,0,0,2,8,7,0,3
+2589,Mckees Hill,0,0,0,0,0,0,0,0
+2590,Mckellars Park,0,0,0,0,0,0,0,0
+2591,Mcleans Ridges,0,0,0,0,0,0,0,0
+2592,Mcleods Shoot,0,0,0,0,0,0,0,0
+2593,Mcmahons Point,0,0,0,0,0,0,0,0
+2594,Mcmahons Reef,0,0,0,0,0,0,1,0
+2595,Meadow Flat,2,0,0,0,0,0,4,0
+2596,Meadowbank,4,0,1,4,3,11,0,1
+2597,Mebbin,0,0,0,0,0,0,0,0
+2598,Mebul,0,0,0,0,0,0,0,0
+2599,Medlow Bath,4,0,0,0,1,2,2,0
+2600,Medowie,57,0,2,6,2,10,0,0
+2601,Medway,4,0,0,0,0,0,0,0
+2602,Meerschaum Vale,0,0,0,0,0,0,3,0
+2603,Megalong Valley,0,0,0,0,0,1,1,0
+2604,Megan,0,0,0,0,0,0,0,0
+2605,Melbergen,0,0,0,0,0,0,0,0
+2606,Melinga,0,0,0,0,0,0,0,0
+2607,Mellong,0,0,0,0,0,0,0,0
+2608,Mellool,0,0,0,0,0,0,0,0
+2609,Melrose Park,20,0,0,0,2,3,2,0
+2610,Melville,0,0,0,0,0,0,0,0
+2611,Memagong,0,0,0,0,0,0,0,0
+2612,Menah,0,0,0,0,0,0,1,0
+2613,Menai,45,0,9,9,12,16,2,8
+2614,Menai Central,0,0,0,0,0,0,0,0
+2615,Menangle,16,0,0,0,0,0,1,0
+2616,Menangle Park,7,0,0,0,0,2,4,0
+2617,Mendooran,1,0,0,0,1,0,0,0
+2618,Menindee,0,0,0,0,0,0,0,0
+2619,Merah North,0,0,0,0,0,0,0,0
+2620,Merewether,26,0,5,8,3,21,0,5
+2621,Merewether Heights,8,0,0,1,0,0,2,0
+2622,Merimbula,17,0,6,7,6,31,0,22
+2623,Meringo,0,0,0,0,0,0,0,0
+2624,Mernot,0,0,0,0,0,0,0,0
+2625,Meroo,0,0,0,0,0,0,0,0
+2626,Meroo Meadow,0,0,0,0,0,0,0,0
+2627,Merotherie,0,0,0,0,0,0,0,0
+2628,Merriangaah,0,0,0,0,0,0,0,0
+2629,Merricumbene,0,0,0,0,0,0,0,0
+2630,Merrigal,0,0,0,0,0,0,0,0
+2631,Merrill,0,0,0,0,0,0,0,0
+2632,Merriwa,0,0,0,2,3,4,0,1
+2633,Merriwagga,0,0,0,0,0,0,0,0
+2634,Merrygoen,0,0,0,0,0,0,0,0
+2635,Merrylands,46,0,21,37,9,54,5,50
+2636,Merrylands West,27,0,1,2,5,8,0,0
+2637,Merungle Hill,0,0,0,0,0,0,0,0
+2638,Meryla,0,0,0,0,0,0,1,0
+2639,Metford,25,0,0,1,3,2,0,1
+2640,Metford Dc,0,0,0,0,0,0,0,0
+2641,Methul,0,0,0,0,0,0,0,0
+2642,Metz,0,0,0,0,0,0,0,0
+2643,Miamley,0,0,0,0,0,0,0,0
+2644,Miandetta,0,0,0,0,0,0,0,0
+2645,Micalo Island,0,0,0,0,0,0,0,0
+2646,Michelago,1,0,0,0,0,1,0,0
+2647,Middle Arm,0,0,0,0,0,0,0,0
+2648,Middle Brook,0,0,0,0,0,0,0,0
+2649,Middle Brother,0,0,0,0,0,0,0,0
+2650,Middle Cove,17,0,0,0,3,0,1,1
+2651,Middle Dural,11,0,0,0,1,1,0,2
+2652,Middle Falbrook,0,0,0,0,0,0,0,0
+2653,Middle Flat,0,0,0,0,0,0,0,0
+2654,Middle Pocket,0,0,0,0,0,0,1,0
+2655,Middleton Grange,9,0,0,2,0,1,1,0
+2656,Middlingbank,0,0,0,0,0,0,0,0
+2657,Midginbil,0,0,0,0,0,0,0,0
+2658,Mihi,0,0,0,0,0,0,0,0
+2659,Mila,0,0,0,0,0,0,0,0
+2660,Milbrodale,0,0,0,0,0,0,2,0
+2661,Milbrulong,0,0,0,0,0,0,0,0
+2662,Milkers Flat,0,0,0,0,0,0,0,0
+2663,Millah Murrah,0,0,0,0,0,0,0,0
+2664,Millbank,0,0,0,0,0,0,0,0
+2665,Miller,21,0,0,1,0,4,0,2
+2666,Millers Forest,3,0,0,0,0,0,0,0
+2667,Millers Point,5,0,0,0,1,18,0,1
+2668,Millfield,3,0,0,0,0,0,0,0
+2669,Millie,0,0,0,0,0,0,0,0
+2670,Millingandi,9,0,0,0,1,0,0,0
+2671,Millthorpe,2,0,0,1,2,7,1,1
+2672,Milparinka,0,0,0,0,0,0,0,0
+2673,Milperra,37,0,2,3,15,13,1,0
+2674,Milroy,0,0,0,0,0,0,0,0
+2675,Milsons Arm,0,0,0,0,0,0,0,0
+2676,Milsons Passage,0,0,0,0,0,0,0,0
+2677,Milsons Point,5,0,4,3,0,22,1,2
+2678,Milton,1,0,0,5,1,14,1,18
+2679,Milvale,0,0,0,0,0,0,0,0
+2680,Mimosa,0,0,0,0,0,0,0,0
+2681,Minchinbury,31,0,2,2,11,14,0,0
+2682,Mindaribba,1,0,0,0,0,0,1,0
+2683,Minimbah,0,0,0,0,0,0,0,0
+2684,Minjary,0,0,0,0,0,0,0,0
+2685,Minmi,8,0,0,0,0,1,0,0
+2686,Minnamurra,16,0,0,0,1,1,0,0
+2687,Minnie Water,0,0,0,0,0,1,0,0
+2688,Minore,0,0,0,0,0,0,0,0
+2689,Minto,48,0,5,7,33,34,1,15
+2690,Minto Dc,0,0,0,0,0,0,0,0
+2691,Minto Heights,3,0,0,0,0,0,0,1
+2692,Mirador,0,0,0,0,0,0,0,0
+2693,Miranda,52,0,38,41,14,55,0,59
+2694,Mirannie,0,0,0,0,0,0,0,1
+2695,Mirrabooka,0,0,0,0,1,0,0,0
+2696,Mirrool,0,0,0,0,0,0,0,0
+2697,Missabotti,0,0,0,0,0,0,0,0
+2698,Missenden Road,0,0,0,0,0,0,0,0
+2699,Mitchell,0,0,0,0,0,0,0,0
+2700,Mitchells Flat,0,0,0,0,0,0,0,0
+2701,Mitchells Island,0,0,0,0,0,0,0,0
+2702,Mittagong,35,0,9,14,26,37,0,10
+2703,Moama,28,0,1,3,13,19,0,0
+2704,Modanville,3,0,0,0,0,1,0,1
+2705,Mogareeka,1,0,0,0,0,0,0,0
+2706,Mogendoura,0,0,0,0,0,0,1,0
+2707,Moggs Swamp,0,0,0,0,0,0,0,0
+2708,Mogilla,0,0,0,0,0,0,0,0
+2709,Mogo,2,0,0,1,0,3,1,2
+2710,Mogo Creek,0,0,0,0,0,0,1,0
+2711,Mogood,0,0,0,0,0,0,1,0
+2712,Mograni,0,0,0,0,0,0,0,0
+2713,Mogriguy,0,0,0,0,0,0,0,0
+2714,Mole River,0,0,0,0,0,0,1,0
+2715,Moleville Creek,0,0,0,0,0,0,0,0
+2716,Mollyan,0,0,0,0,0,0,0,0
+2717,Mollymook,2,0,0,0,0,5,0,0
+2718,Mollymook Beach,2,0,0,0,0,6,0,0
+2719,Molong,5,0,1,1,2,4,0,0
+2720,Mona Vale,18,0,20,27,7,49,0,27
+2721,Monak,0,0,0,0,0,0,0,0
+2722,Monaltrie,0,0,0,0,0,0,0,0
+2723,Monash Park,0,0,0,0,0,0,0,0
+2724,Mondayong,2,0,0,0,0,0,0,0
+2725,Mondrook,0,0,0,0,0,0,0,0
+2726,Monga,0,0,0,0,0,0,0,0
+2727,Mongarlowe,0,0,0,0,0,0,0,0
+2728,Mongogarie,0,0,0,0,0,0,0,0
+2729,Monia Gap,0,0,0,0,0,0,0,0
+2730,Monivae,0,0,0,0,0,0,0,0
+2731,Monkerai,0,0,0,0,0,1,0,0
+2732,Monteagle,0,0,0,0,0,0,0,0
+2733,Montecollum,1,0,0,0,0,0,0,0
+2734,Montefiores,1,0,0,0,0,1,0,0
+2735,Monterey,2,0,1,3,0,0,0,1
+2736,Mooball,2,0,0,0,1,1,1,0
+2737,Moobi,0,0,0,0,0,0,0,0
+2738,Moogem,0,0,0,0,0,0,0,0
+2739,Mookerawa,0,0,0,0,0,0,0,0
+2740,Mookima Wybra,0,0,0,0,0,0,0,0
+2741,Moolarben,0,0,0,0,0,0,0,0
+2742,Moollattoo,0,0,0,0,0,0,0,0
+2743,Moolpa,0,0,0,0,0,0,0,0
+2744,Moombooldool,0,0,0,0,0,0,0,0
+2745,Moonan Brook,0,0,0,0,0,0,0,0
+2746,Moonan Flat,0,0,0,0,0,2,1,0
+2747,Moonbah,0,0,0,0,0,0,0,0
+2748,Moonbi,1,0,0,0,2,0,0,1
+2749,Moonbria,0,0,0,0,0,0,0,0
+2750,Mooneba,0,0,0,0,0,0,0,0
+2751,Moonee,0,0,0,0,0,0,0,0
+2752,Moonee Beach,14,0,1,1,0,6,25,1
+2753,Moonem,0,0,0,0,0,0,0,0
+2754,Mooney Mooney,4,0,0,1,1,3,3,0
+2755,Mooney Mooney Creek,0,0,0,0,0,0,3,0
+2756,Moonpar,0,0,0,0,0,0,0,0
+2757,Mooral Creek,0,0,0,0,0,0,0,0
+2758,Moorara,0,0,0,0,0,0,0,0
+2759,Moorbel,0,0,0,0,0,0,0,0
+2760,Moore Creek,2,0,0,0,0,0,0,1
+2761,Moore Park,15,0,0,0,0,14,25,0
+2762,Moorebank,41,0,7,9,21,23,0,5
+2763,Moorilda,0,0,0,0,0,0,0,0
+2764,Moorland,0,0,0,0,0,3,0,0
+2765,Moorong,0,0,0,0,1,0,0,0
+2766,Moorwatha,0,0,0,0,0,0,0,0
+2767,Moparrabah,0,0,0,0,0,0,0,0
+2768,Moppy,0,0,0,0,0,0,0,0
+2769,Morago,0,0,0,0,0,0,0,0
+2770,Morangarell,0,0,0,0,0,0,0,0
+2771,Morans Crossing,0,0,0,0,0,0,0,0
+2772,Moree,0,0,0,0,0,0,0,0
+2773,Moree East,0,0,0,0,0,0,0,0
+2774,Morisset,18,0,2,9,24,19,0,9
+2775,Morisset Park,2,0,0,0,0,1,0,0
+2776,Morning Bay,1,0,0,0,0,0,2,0
+2777,Mororo,0,0,0,0,0,0,3,0
+2778,Morpeth,16,0,0,3,0,12,0,7
+2779,Mortdale,28,0,5,11,17,33,2,2
+2780,Mortlake,6,0,3,2,10,8,0,0
+2781,Morton,0,0,0,0,0,0,0,0
+2782,Mortons Creek,0,0,0,0,0,0,0,0
+2783,Morts Estate,3,0,0,0,0,0,0,0
+2784,Moruben,0,0,0,0,0,0,0,0
+2785,Morundah,0,0,0,0,0,0,0,0
+2786,Moruya,5,0,3,8,16,23,7,8
+2787,Moruya Heads,0,0,0,0,0,0,2,0
+2788,Morven,0,0,0,0,0,0,0,0
+2789,Mosman,53,0,25,38,7,55,1,58
+2790,Moss Vale,45,0,7,12,19,25,0,9
+2791,Mossgiel,0,0,0,0,0,0,0,0
+2792,Mossy Point,1,0,0,0,0,1,0,0
+2793,Moto,0,0,0,0,0,0,0,0
+2794,Moulamein,0,0,0,0,0,0,0,0
+2795,Mount Adrah,0,0,0,0,0,0,4,0
+2796,Mount Annan,33,0,4,9,0,26,29,2
+2797,Mount Aquila,0,0,0,0,0,0,0,0
+2798,Mount Arthur,0,0,0,0,0,0,0,0
+2799,Mount Austin,0,0,0,0,0,0,0,0
+2800,Mount Burrell,4,0,0,0,0,0,0,0
+2801,Mount Colah,46,0,1,2,2,9,7,1
+2802,Mount Collins,0,0,0,0,0,0,0,0
+2803,Mount Cooper,0,0,0,0,0,0,0,0
+2804,Mount Darragh,0,0,0,0,0,0,0,0
+2805,Mount David,0,0,0,0,0,0,0,0
+2806,Mount Dee,0,0,0,0,0,0,0,0
+2807,Mount Druitt,39,0,8,18,48,56,1,41
+2808,Mount Druitt Village,0,0,0,0,0,0,0,0
+2809,Mount Elliot,0,0,0,0,0,0,0,0
+2810,Mount Fairy,0,0,0,0,1,0,4,0
+2811,Mount Foster,0,0,0,0,0,0,0,0
+2812,Mount Frome,0,0,0,0,0,0,0,0
+2813,Mount George,0,0,0,0,0,0,0,0
+2814,Mount Harris,0,0,0,0,0,0,0,0
+2815,Mount Hope,0,0,0,0,0,0,0,0
+2816,Mount Horeb,0,0,0,0,0,0,0,0
+2817,Mount Hunter,8,0,0,0,0,0,5,0
+2818,Mount Hutton,19,0,1,6,0,12,9,8
+2819,Mount Irvine,0,0,0,0,0,0,1,0
+2820,Mount Keira,8,0,0,0,0,0,5,0
+2821,Mount Kembla,17,0,0,1,0,0,2,2
+2822,Mount Kingiman,0,0,0,0,0,0,0,0
+2823,Mount Knowles,0,0,0,0,0,0,0,0
+2824,Mount Kuring Gai,0,0,0,0,0,0,0,0
+2825,Mount Lambie,1,0,0,0,0,0,1,0
+2826,Mount Lewis,4,0,0,0,0,2,3,0
+2827,Mount Lindsey,0,0,0,0,0,0,0,0
+2828,Mount Marsden,0,0,0,0,0,0,0,0
+2829,Mount Marsh,0,0,0,0,0,0,0,0
+2830,Mount Mitchell,0,0,0,0,0,0,0,0
+2831,Mount Murray,0,0,0,0,0,0,0,0
+2832,Mount Olive,0,0,0,0,0,0,0,0
+2833,Mount Ousley,2,0,0,1,0,0,2,1
+2834,Mount Panorama,0,0,0,0,0,1,3,0
+2835,Mount Pleasant,6,0,0,0,0,0,0,0
+2836,Mount Pritchard,44,0,0,2,3,25,8,0
+2837,Mount Rankin,0,0,0,0,0,1,0,0
+2838,Mount Rivers,0,0,0,0,0,0,0,0
+2839,Mount Riverview,13,0,0,0,0,1,2,0
+2840,Mount Royal,0,0,0,0,0,0,0,0
+2841,Mount Russell,0,0,0,0,0,0,0,0
+2842,Mount Saint Thomas,0,0,0,0,0,0,0,0
+2843,Mount Seaview,0,0,0,0,0,0,0,0
+2844,Mount Tenandra,0,0,0,0,0,0,0,0
+2845,Mount Thorley,0,0,0,0,5,0,0,0
+2846,Mount Tomah,0,0,0,0,0,1,1,0
+2847,Mount Vernon,7,0,0,0,1,0,0,0
+2848,Mount Victoria,10,0,0,0,0,4,16,0
+2849,Mount View,0,0,0,0,0,1,10,0
+2850,Mount Vincent,2,0,0,0,0,0,5,0
+2851,Mount Warning,0,0,0,0,0,2,6,0
+2852,Mount Warrigal,27,0,2,2,1,4,0,1
+2853,Mount Werong,0,0,0,0,0,0,1,0
+2854,Mount White,0,0,0,0,0,3,5,0
+2855,Mount Wilson,0,0,0,0,0,0,14,0
+2856,Mountain Creek,0,0,0,0,0,0,0,0
+2857,Mountain Lagoon,0,0,0,0,0,0,0,0
+2858,Mountain Top,0,0,0,0,0,0,0,0
+2859,Mountain View,0,0,0,0,0,0,0,0
+2860,Mourquong,0,0,0,0,0,0,0,0
+2861,Mowbray Park,0,0,0,0,0,0,0,0
+2862,Mozart,0,0,0,0,0,0,0,0
+2863,Mudgee,22,0,7,17,32,48,0,15
+2864,Mulbring,2,0,0,0,1,0,0,0
+2865,Mulgoa,20,0,0,2,0,5,2,1
+2866,Mulgrave,0,0,0,0,0,0,0,0
+2867,Mulguthrie,0,0,0,0,0,0,0,0
+2868,Muli Muli,0,0,0,0,0,0,0,0
+2869,Mulla,0,0,0,0,0,0,0,0
+2870,Mulla Creek,0,0,0,0,0,0,0,0
+2871,Mullaley,1,0,0,0,0,0,0,0
+2872,Mullamuddy,0,0,0,0,0,0,0,0
+2873,Mullaway,2,0,0,0,0,2,0,0
+2874,Mullengandra,0,0,0,0,0,0,0,0
+2875,Mullengudgery,0,0,0,0,0,0,0,0
+2876,Mullion,0,0,0,0,0,0,0,0
+2877,Mullion Creek,0,0,0,0,0,0,2,0
+2878,Mulloon,0,0,0,0,0,0,3,0
+2879,Mullumbimby,7,0,3,5,13,24,0,17
+2880,Mullumbimby Creek,0,0,0,0,0,0,3,0
+2881,Mulwala,19,0,0,3,2,11,0,0
+2882,Mulyandry,0,0,0,0,0,0,0,0
+2883,Mumbil,0,0,0,0,0,0,0,0
+2884,Mumblebone Plain,0,0,0,0,0,0,0,0
+2885,Mumbulla Mountain,0,0,0,0,0,0,0,0
+2886,Mummel,0,0,0,0,0,0,0,0
+2887,Mummulgum,2,0,0,0,0,0,0,0
+2888,Mundamia,1,0,0,0,0,0,0,0
+2889,Mundarlo,0,0,0,0,0,0,1,0
+2890,Munderoo,0,0,0,0,0,0,1,0
+2891,Mundongo,0,0,0,0,0,0,0,0
+2892,Mungay Creek,0,0,0,0,0,0,0,0
+2893,Munghorn,0,0,0,0,0,0,0,0
+2894,Mungindi,0,0,0,0,1,1,0,1
+2895,Mungo,0,0,0,0,0,0,0,0
+2896,Mungo Brush,0,0,0,0,0,0,0,0
+2897,Munni,0,0,0,0,0,0,0,0
+2898,Munyabla,0,0,0,0,0,0,0,0
+2899,Murga,0,0,0,0,0,0,0,0
+2900,Murrah,0,0,0,0,0,0,0,0
+2901,Murrami,1,0,0,0,0,0,0,0
+2902,Murrawombie,0,0,0,0,0,0,0,0
+2903,Murray Downs,0,0,0,0,0,1,0,0
+2904,Murray Gorge,0,0,0,0,0,0,0,0
+2905,Murrays Beach,3,0,0,0,0,1,0,0
+2906,Murrays Run,0,0,0,0,0,0,0,0
+2907,Murrengenburg,0,0,0,0,0,0,0,0
+2908,Murrin Bridge,0,0,0,0,0,0,0,0
+2909,Murringo,2,0,0,0,0,0,2,0
+2910,Murrulebale,0,0,0,0,0,0,0,0
+2911,Murrumbateman,4,0,2,2,3,6,6,2
+2912,Murrumbo,0,0,0,0,0,0,0,0
+2913,Murrumbucca,0,0,0,0,0,0,0,0
+2914,Murrumburrah,1,0,0,1,0,1,1,0
+2915,Murrurundi,1,0,0,3,1,3,0,1
+2916,Murulla,0,0,0,0,0,0,0,0
+2917,Murwillumbah,19,0,6,8,19,36,0,11
+2918,Murwillumbah Dc,0,0,0,0,0,0,0,0
+2919,Murwillumbah South,0,0,0,0,0,0,0,0
+2920,Muscle Creek,1,0,0,0,0,0,0,0
+2921,Muswellbrook,36,0,4,10,26,25,0,10
+2922,Mutawintji,0,0,0,0,0,0,0,0
+2923,Muttama,1,0,0,0,0,0,0,0
+2924,Myall Creek,0,0,0,0,0,0,0,0
+2925,Myall Lake,0,0,0,0,0,0,0,0
+2926,Myall Park,0,0,0,0,0,0,0,0
+2927,Myalla,0,0,0,0,0,0,0,0
+2928,Mylestom,2,0,0,0,0,3,0,0
+2929,Mylneford,1,0,0,0,0,0,0,0
+2930,Myocum,1,0,0,0,1,0,0,1
+2931,Myola,1,0,0,0,0,0,0,0
+2932,Myrtle Creek,0,0,0,0,0,0,0,0
+2933,Myrtle Mountain,0,0,0,0,0,0,0,0
+2934,Myrtle Park,0,0,0,0,0,0,0,0
+2935,Myrtleville,0,0,0,0,0,0,0,0
+2936,Mystery Bay,0,0,0,0,0,0,0,0
+2937,Myuna Bay,0,0,0,0,0,0,1,0
+2938,Nabiac,1,0,0,1,1,2,0,0
+2939,Nadgee,0,0,0,0,0,0,0,0
+2940,Nambucca Heads,22,0,3,5,12,23,0,6
+2941,Namoi River,0,0,0,0,0,0,0,0
+2942,Nana Glen,0,0,0,0,2,2,5,0
+2943,Nangus,0,0,0,0,0,0,0,0
+2944,Napier Lane,0,0,0,0,0,0,0,0
+2945,Napoleon Reef,0,0,0,0,0,0,0,0
+2946,Naradhan,0,0,0,0,0,0,0,0
+2947,Narara,37,0,0,3,1,0,0,3
+2948,Narellan,33,0,13,22,31,45,2,49
+2949,Narellan Dc,0,0,0,0,0,0,0,0
+2950,Narellan Vale,37,0,0,1,1,4,4,1
+2951,Naremburn,5,0,0,1,1,6,2,0
+2952,Narone Creek,0,0,0,0,0,0,0,0
+2953,Narooma,4,0,3,6,9,23,0,4
+2954,Narrabarba,1,0,0,0,0,0,0,0
+2955,Narrabeen,23,0,2,8,3,31,0,3
+2956,Narrabri,1,0,3,13,26,16,0,8
+2957,Narrabri West,0,0,0,0,0,0,0,0
+2958,Narraburra,0,0,0,0,0,0,0,0
+2959,Narran Lake,0,0,0,0,0,0,0,0
+2960,Narrandera,1,0,2,2,8,15,0,4
+2961,Narrangullen,0,0,0,0,0,0,0,0
+2962,Narrawa,0,0,0,0,0,0,0,0
+2963,Narrawallee,2,0,0,1,0,0,0,0
+2964,Narraweena,27,0,1,3,0,8,0,1
+2965,Narromine,11,0,1,0,11,10,3,5
+2966,Narwee,30,0,1,5,2,5,1,0
+2967,Nashdale,0,0,0,0,0,0,3,0
+2968,Nashua,0,0,0,0,0,0,0,0
+2969,Nattai,0,0,0,0,0,0,0,0
+2970,Naughtons Gap,0,0,0,0,0,0,0,0
+2971,Neath,1,0,0,0,0,0,0,0
+2972,Nebea,0,0,0,0,0,0,0,0
+2973,Neilrex,0,0,0,0,0,0,0,0
+2974,Nelligen,1,0,0,0,0,2,0,0
+2975,Nelson,1,0,0,0,0,0,0,0
+2976,Nelson Bay,48,0,3,8,1,47,21,15
+2977,Nelsons Plains,0,0,0,0,0,0,0,0
+2978,Nelungaloo,0,0,0,0,0,0,0,0
+2979,Nemingha,4,0,0,0,3,3,0,0
+2980,Nericon,0,0,0,0,0,0,0,0
+2981,Neringla,0,0,0,0,0,0,0,0
+2982,Nerong,3,0,0,0,0,0,0,0
+2983,Nerriga,0,0,0,0,0,0,0,0
+2984,Nerrigundah,0,0,0,0,0,0,0,0
+2985,Nethercote,0,0,0,0,0,0,0,0
+2986,Neurea,0,0,0,0,0,0,0,0
+2987,Neutral Bay,13,0,27,33,1,59,25,12
+2988,Neutral Bay Junction,0,0,0,0,0,0,0,0
+2989,Never Never,0,0,0,0,0,0,0,0
+2990,Nevertire,1,0,0,0,0,0,0,0
+2991,Neville,0,0,0,0,0,0,0,0
+2992,New Berrima,5,0,0,0,0,0,0,0
+2993,New Brighton,1,0,0,0,0,0,0,0
+2994,New Buildings,0,0,0,0,0,0,0,0
+2995,New Italy,1,0,0,0,0,1,0,0
+2996,New Lambton,32,0,1,19,5,23,2,8
+2997,New Lambton Heights,27,0,0,1,0,1,0,0
+2998,New Mexico,0,0,0,0,0,0,0,0
+2999,New Park,0,0,0,0,0,0,0,0
+3000,New Valley,0,0,0,0,0,0,0,0
+3001,Newbold,0,0,0,0,0,0,0,0
+3002,Newbridge,1,0,0,0,0,1,0,0
+3003,Newcastle,6,0,13,25,2,38,2,22
+3004,Newcastle East,1,0,0,1,0,5,0,0
+3005,Newcastle University,0,0,0,0,0,0,0,0
+3006,Newcastle West,11,0,3,5,6,25,2,11
+3007,Newee Creek,0,0,0,0,0,0,3,0
+3008,Newington,17,0,3,2,1,21,0,1
+3009,Newnes,0,0,0,0,0,0,0,0
+3010,Newnes Plateau,0,0,0,0,0,0,1,0
+3011,Newport,13,0,9,11,1,36,0,12
+3012,Newport Beach,0,0,0,0,0,0,0,0
+3013,Newrybar,2,0,1,0,0,1,0,0
+3014,Newstead,0,0,0,0,0,0,0,0
+3015,Newton Boyd,0,0,0,0,0,0,0,0
+3016,Newtown,23,0,12,43,3,60,0,52
+3017,Niagara Park,21,0,1,2,1,2,5,0
+3018,Niangala,0,0,0,0,0,0,0,0
+3019,Niemur,0,0,0,0,0,0,0,0
+3020,Nightcap,0,0,0,0,0,0,0,0
+3021,Nimbin,6,0,0,2,1,9,0,8
+3022,Nimmitabel,2,0,0,0,0,1,0,0
+3023,Nimmo,0,0,0,0,0,0,0,0
+3024,Nobbys Creek,0,0,0,0,0,0,3,0
+3025,Nombi,0,0,0,0,0,0,0,0
+3026,Noona,0,0,0,0,0,0,0,0
+3027,Noorong,0,0,0,0,0,0,0,0
+3028,Nooroo,0,0,0,0,0,0,0,0
+3029,Norah Head,15,0,0,1,2,5,0,2
+3030,Noraville,24,0,0,1,1,1,0,0
+3031,Nords Wharf,12,0,0,0,0,0,0,0
+3032,Norfolk Island,0,0,0,0,0,0,0,0
+3033,Normanhurst,34,0,1,1,1,3,0,0
+3034,North Albury,2,0,0,6,9,10,0,2
+3035,North Arm,0,0,0,0,0,0,0,0
+3036,North Arm Cove,1,0,0,0,0,0,1,0
+3037,North Avoca,22,0,0,1,0,1,0,0
+3038,North Balgowlah,23,0,0,2,0,2,0,0
+3039,North Batemans Bay,2,0,0,0,0,1,6,0
+3040,North Boambee Valley,3,0,0,0,15,7,12,2
+3041,North Bondi,21,0,7,8,1,20,1,3
+3042,North Bourke,0,0,0,0,0,0,0,0
+3043,North Brother,0,0,0,0,0,0,0,0
+3044,North Casino,0,0,0,0,0,0,0,0
+3045,North Curl Curl,21,0,0,3,1,7,0,2
+3046,North Dorrigo,0,0,0,0,0,1,4,0
+3047,North Epping,26,0,0,2,1,3,0,0
+3048,North Gosford,29,0,1,0,8,6,27,1
+3049,North Haven,11,0,0,4,1,4,0,1
+3050,North Lambton,16,0,0,1,0,0,2,0
+3051,North Lismore,6,0,0,0,5,4,5,0
+3052,North Macksville,2,0,0,0,0,0,3,0
+3053,North Macquarie,0,0,0,1,0,0,1,0
+3054,North Manly,23,0,0,2,3,2,0,2
+3055,North Narooma,1,0,0,0,0,0,6,0
+3056,North Narrabeen,22,0,0,3,23,13,0,2
+3057,North Nowra,27,0,1,2,7,5,0,3
+3058,North Parramatta,48,0,4,7,28,21,22,4
+3059,North Richmond,28,0,3,6,17,18,18,1
+3060,North Rocks,47,0,4,9,11,17,0,14
+3061,North Rothbury,8,0,0,0,0,0,0,0
+3062,North Ryde,50,0,14,21,6,39,1,42
+3063,North Shore,0,0,0,0,0,0,0,0
+3064,North St Marys,33,0,0,0,5,7,0,1
+3065,North Star,0,0,0,0,0,0,0,0
+3066,North Strathfield,11,0,6,7,2,31,19,1
+3067,North Sydney,31,0,40,31,4,48,9,32
+3068,North Sydney Shoppingworld,0,0,0,0,0,0,0,0
+3069,North Tamworth,28,0,2,0,1,3,0,2
+3070,North Tumbulgum,2,0,0,0,0,1,0,0
+3071,North Turramurra,33,0,3,0,1,9,7,1
+3072,North Wagga Wagga,5,0,0,0,1,0,10,0
+3073,North Wahroonga,10,0,0,0,0,0,1,0
+3074,North Willoughby,11,0,3,5,0,17,7,3
+3075,North Wollongong,20,0,0,2,19,14,15,4
+3076,North Woodburn,0,0,0,0,0,0,0,0
+3077,North Yalgogrin,0,0,0,0,0,0,0,0
+3078,North Yeoval,4,0,0,0,0,0,0,0
+3079,Northangera,0,0,0,0,0,0,0,0
+3080,Northbridge,8,0,6,15,0,0,0,6
+3081,Northmead,30,0,5,5,5,23,0,1
+3082,Northwood,7,0,0,0,0,0,0,0
+3083,Norway,0,0,0,0,0,0,0,0
+3084,Nowendoc,0,0,0,0,0,0,0,0
+3085,Nowley,0,0,0,0,0,0,0,0
+3086,Nowra,35,0,13,37,27,59,0,38
+3087,Nowra Dc,0,0,0,0,0,0,0,0
+3088,Nowra East,0,0,0,0,0,0,0,0
+3089,Nowra Hill,2,0,0,0,1,0,0,1
+3090,Nowra Naval Po,0,0,0,0,0,0,0,0
+3091,Nubba,0,0,0,0,0,0,0,0
+3092,Nulkaba,3,0,0,0,0,5,0,0
+3093,Nullamanna,0,0,0,0,0,0,0,0
+3094,Nullica,0,0,0,0,0,0,0,0
+3095,Nullo Mountain,0,0,0,0,0,0,0,0
+3096,Numbaa,0,0,0,0,0,0,0,0
+3097,Number One,0,0,0,0,0,0,0,0
+3098,Numbla Vale,0,0,0,0,0,0,0,0
+3099,Numbugga,0,0,0,0,0,0,0,0
+3100,Numeralla,0,0,0,0,0,0,0,0
+3101,Numinbah,0,0,0,0,0,0,0,0
+3102,Numulgi,0,0,0,0,0,0,0,0
+3103,Nunderi,1,0,0,1,0,0,0,0
+3104,Nundle,0,0,0,0,0,4,0,1
+3105,Nungatta,0,0,0,0,0,0,0,0
+3106,Nungatta South,0,0,0,0,0,0,0,0
+3107,Nurenmerenmong,0,0,0,0,0,0,0,0
+3108,Nymagee,0,0,0,0,0,0,0,0
+3109,Nymboida,0,0,0,0,0,0,0,0
+3110,Nyngan,2,0,1,1,4,4,0,2
+3111,Nyora,0,0,0,0,0,0,0,0
+3112,Nyrang Creek,0,0,0,0,0,0,2,0
+3113,O Connell,0,0,0,0,0,0,0,0
+3114,Oak Flats,42,0,4,6,32,11,29,8
+3115,Oak Flats Dc,0,0,0,0,0,0,0,0
+3116,Oakdale,29,0,0,0,1,1,2,0
+3117,Oakhampton,0,0,0,0,0,0,0,0
+3118,Oakhampton Heights,0,0,0,0,0,0,0,0
+3119,Oakhurst,30,0,0,1,0,0,0,0
+3120,Oaklands,0,0,0,0,0,0,0,0
+3121,Oaks Estate,0,0,0,0,0,0,0,0
+3122,Oakville,1,0,0,0,2,0,0,0
+3123,Oakwood,0,0,0,0,0,0,0,0
+3124,Oaky Park,3,0,0,0,1,0,1,0
+3125,Oallen,0,0,0,0,0,0,0,0
+3126,Oatlands,23,0,3,3,0,3,0,0
+3127,Oatley,37,0,7,7,4,25,0,3
+3128,Oban,0,0,0,0,0,0,0,0
+3129,Obanvale,0,0,0,0,0,0,0,0
+3130,Oberne Creek,0,0,0,0,0,0,0,0
+3131,Oberon,1,0,1,2,7,14,1,1
+3132,Obley,0,0,0,0,0,0,0,0
+3133,Ocean Shores,0,0,1,4,1,5,0,4
+3134,Ogunbil,0,0,0,0,0,0,0,0
+3135,Old Adaminaby,0,0,0,0,0,0,0,0
+3136,Old Bar,5,0,0,3,0,8,0,0
+3137,Old Bonalbo,0,0,0,0,0,0,0,0
+3138,Old Erowal Bay,1,0,0,0,0,0,0,1
+3139,Old Grevillia,0,0,0,0,0,0,0,0
+3140,Old Guildford,17,0,0,3,3,1,4,0
+3141,Old Junee,3,0,0,0,0,1,6,0
+3142,Old Mill,0,0,0,0,0,0,0,0
+3143,Old Station,0,0,0,0,0,0,0,0
+3144,Old Toongabbie,18,0,0,1,3,3,9,0
+3145,Olinda,0,0,0,0,0,0,0,0
+3146,Olney,0,0,0,0,0,0,0,0
+3147,Omadale,0,0,0,0,0,0,0,0
+3148,One Mile,3,0,0,0,0,1,0,0
+3149,One Tree,0,0,0,0,0,0,0,0
+3150,Oolong,0,0,0,0,0,0,0,0
+3151,Ooma,0,0,0,0,0,0,0,0
+3152,Ootha,1,0,0,0,0,0,0,0
+3153,Ophir,0,0,0,0,0,0,0,0
+3154,Oran Park,26,0,1,4,1,10,30,1
+3155,Orange,12,0,22,38,33,59,5,24
+3156,Orange Dc,0,0,0,0,0,0,0,0
+3157,Orange East,0,0,0,0,0,0,0,0
+3158,Orange Grove,0,0,0,0,0,0,0,0
+3159,Orangeville,2,0,0,0,1,0,0,0
+3160,Orchard Hills,14,0,0,1,1,2,52,0
+3161,Orient Point,2,0,0,0,0,0,0,0
+3162,Orton Park,0,0,0,0,0,0,0,0
+3163,Osborne,0,0,0,0,0,0,0,0
+3164,Osterley,0,0,0,0,0,0,0,0
+3165,Oswald,0,0,0,0,0,0,0,0
+3166,Otford,4,0,0,0,0,1,0,0
+3167,Oura,0,0,0,0,0,0,0,0
+3168,Ourimbah,41,0,5,4,0,9,0,2
+3169,Ournie,0,0,0,0,0,0,0,0
+3170,Owens Gap,0,0,0,0,0,0,0,0
+3171,Oxford Falls,0,0,0,0,0,0,7,0
+3172,Oxley,0,0,0,0,0,0,0,0
+3173,Oxley Island,0,0,0,0,0,0,7,0
+3174,Oxley Park,16,0,0,0,2,0,0,0
+3175,Oxley Vale,27,0,0,0,0,0,0,0
+3176,Oyster Bay,28,0,0,1,1,0,0,0
+3177,Oyster Cove,1,0,0,0,0,0,0,0
+3178,Pacific Palms,0,0,0,0,0,0,0,0
+3179,Packsaddle,0,0,0,0,0,0,0,0
+3180,Paddington,20,0,6,44,2,44,1,60
+3181,Paddys Flat,0,0,0,0,0,0,0,0
+3182,Paddys River,0,0,0,0,0,0,1,0
+3183,Padstow,46,0,8,17,21,40,0,6
+3184,Padstow Heights,17,0,0,2,0,1,1,0
+3185,Pagans Flat,0,0,0,0,0,0,0,0
+3186,Pages Creek,0,0,0,0,0,0,0,0
+3187,Pages River,0,0,0,0,0,0,0,0
+3188,Pagewood,1,0,1,2,3,5,1,9
+3189,Palarang,0,0,0,0,0,0,0,0
+3190,Palerang,0,0,0,0,0,0,0,0
+3191,Paling Yards,0,0,0,0,0,0,0,0
+3192,Pallal,0,0,0,0,0,0,0,0
+3193,Pallamallawa,0,0,0,0,0,1,0,0
+3194,Palm Beach,26,0,0,1,0,13,0,3
+3195,Palm Grove,0,0,0,0,0,0,0,0
+3196,Palmdale,0,0,0,0,0,0,0,0
+3197,Palmers Channel,0,0,0,0,1,0,0,0
+3198,Palmers Island,1,0,0,0,0,0,9,0
+3199,Palmers Oaky,0,0,0,0,0,0,0,0
+3200,Palmvale,0,0,0,0,0,0,0,0
+3201,Palmwoods,0,0,0,0,0,0,0,0
+3202,Pambula,11,0,1,3,8,11,0,4
+3203,Pambula Beach,10,0,0,0,0,1,13,0
+3204,Pampoolah,0,0,0,0,0,0,0,0
+3205,Pan Ban,0,0,0,0,0,0,0,0
+3206,Panania,38,0,5,12,4,23,0,4
+3207,Pangee,0,0,0,0,0,0,0,0
+3208,Panuara,0,0,0,0,0,0,0,0
+3209,Pappinbarra,0,0,0,0,0,0,0,0
+3210,Para,0,0,0,0,0,0,0,0
+3211,Paradise,0,0,0,0,0,0,0,0
+3212,Paringi,0,0,0,0,0,0,0,0
+3213,Parkes,55,0,6,10,34,32,0,11
+3214,Parkesbourne,0,0,0,0,0,0,2,0
+3215,Parklea,4,0,1,3,0,4,0,3
+3216,Parkville,0,0,0,0,0,0,0,0
+3217,Parliament House,0,0,0,0,0,0,0,0
+3218,Parma,0,0,0,0,0,0,0,0
+3219,Parramatta,36,0,53,57,20,58,4,60
+3220,Parramatta Westfield,0,0,0,0,0,0,0,0
+3221,Parraweena,0,0,0,0,0,0,0,0
+3222,Patchs Beach,0,0,0,0,0,0,0,0
+3223,Paterson,2,0,0,0,3,3,0,0
+3224,Patonga,7,0,0,0,0,1,0,0
+3225,Paupong,0,0,0,0,0,0,0,0
+3226,Paxton,1,0,0,0,0,2,0,0
+3227,Paynes Crossing,0,0,0,0,0,0,1,0
+3228,Paytens Bridge,0,0,0,0,0,0,0,0
+3229,Peacock Creek,0,0,0,0,0,0,0,0
+3230,Peak Hill,1,0,0,0,0,2,30,0
+3231,Peak View,0,0,0,0,0,0,0,0
+3232,Peakhurst,45,0,2,5,10,15,2,0
+3233,Peakhurst Dc,0,0,0,0,0,0,0,0
+3234,Peakhurst Heights,19,0,0,0,0,0,1,0
+3235,Pearces Creek,0,0,0,0,0,0,0,0
+3236,Pearl Beach,12,0,0,1,0,2,10,0
+3237,Peats Ridge,0,0,0,0,1,3,5,0
+3238,Pebbly Beach,0,0,0,0,0,0,3,0
+3239,Peel,0,0,0,0,0,0,0,0
+3240,Peelwood,0,0,0,0,0,0,0,0
+3241,Pejar,1,0,0,0,0,0,0,0
+3242,Pelaw Main,8,0,0,0,0,0,3,0
+3243,Pelican,2,0,0,0,0,1,0,0
+3244,Pelton,0,0,0,0,0,0,0,0
+3245,Pembrooke,0,0,0,0,0,0,0,0
+3246,Pemulwuy,2,0,1,3,3,7,0,1
+3247,Pendle Hill,29,0,5,3,9,20,6,4
+3248,Pennant Hills,26,0,11,8,13,24,0,4
+3249,Penrith,48,0,45,50,47,57,4,60
+3250,Penrith Plaza,0,0,0,0,0,0,0,0
+3251,Penrith South,0,0,0,0,0,0,0,0
+3252,Penrose,9,0,0,0,0,0,0,0
+3253,Penshurst,40,0,5,11,13,21,0,2
+3254,Pericoe,0,0,0,0,0,0,0,0
+3255,Perisher Valley,1,0,0,0,0,17,0,1
+3256,Perrys Crossing,0,0,0,0,0,0,0,0
+3257,Perthville,1,0,0,0,1,0,0,0
+3258,Petersham,18,0,4,8,8,28,0,1
+3259,Petersham North,0,0,0,0,0,0,0,0
+3260,Pheasants Nest,0,0,0,0,0,1,3,0
+3261,Phegans Bay,5,0,0,1,0,0,0,0
+3262,Phillip Bay,3,0,0,0,0,1,0,0
+3263,Phoenix Park,0,0,0,0,0,0,0,0
+3264,Piallamore,0,0,0,0,0,0,0,0
+3265,Piallaway,0,0,0,0,0,0,0,0
+3266,Piambong,0,0,0,0,0,0,0,0
+3267,Picketts Valley,1,0,0,0,0,0,1,0
+3268,Picnic Point,20,0,0,1,1,3,2,0
+3269,Picton,34,0,3,8,12,25,0,4
+3270,Pigeonbah,0,0,0,0,0,0,0,0
+3271,Piggabeen,0,0,0,0,0,0,0,0
+3272,Pikapene,0,0,0,0,0,0,0,0
+3273,Pillar Valley,0,0,0,0,1,0,0,0
+3274,Pilliga,0,0,0,0,0,0,0,0
+3275,Pilot Wilderness,0,0,0,0,0,0,0,0
+3276,Pimlico,0,0,0,0,0,0,0,0
+3277,Pimlico Island,0,0,0,0,0,0,0,0
+3278,Pinbeyan,0,0,0,0,0,0,0,0
+3279,Pindaroi,0,0,0,0,0,0,0,0
+3280,Pindimar,0,0,0,0,0,0,0,0
+3281,Pine Camp,0,0,0,0,0,0,0,0
+3282,Pine Clump,0,0,0,0,0,0,0,0
+3283,Pine Grove,0,0,0,0,0,0,0,0
+3284,Pine Lodge,0,0,0,0,0,0,0,0
+3285,Pine Ridge,0,0,0,0,0,0,0,0
+3286,Pine Valley,0,0,0,0,0,0,0,0
+3287,Piney Range,0,0,0,0,0,0,0,0
+3288,Pinkett,0,0,0,0,0,0,0,0
+3289,Pinnacle,0,0,0,0,0,0,0,0
+3290,Pinnacle Swamp,0,0,0,0,0,0,0,0
+3291,Pinny Beach,1,0,0,0,0,0,0,0
+3292,Piora,0,0,0,0,0,0,0,0
+3293,Pipeclay,0,0,0,0,0,0,0,0
+3294,Pitnacree,0,0,0,0,0,0,0,0
+3295,Pitt Town,25,0,1,5,0,0,0,1
+3296,Pitt Town Bottoms,0,0,0,0,0,0,0,0
+3297,Pleasant Hills,0,0,0,0,0,0,0,0
+3298,Pleasure Point,3,0,0,0,0,0,0,0
+3299,Plumpton,27,0,1,3,1,18,0,2
+3300,Point Clare,26,0,1,2,0,3,2,0
+3301,Point Frederick,9,0,3,0,0,2,0,0
+3302,Point Piper,2,0,1,2,0,0,0,0
+3303,Point Wolstoncroft,0,0,0,0,0,0,0,0
+3304,Pointer Mountain,0,0,0,0,0,0,0,0
+3305,Pokolbin,0,0,0,4,0,52,15,6
+3306,Pola Creek,0,0,0,0,0,0,0,0
+3307,Polo Flat,0,0,0,0,3,1,8,0
+3308,Pomeroy,0,0,0,0,0,0,0,0
+3309,Pomona,0,0,0,0,0,0,0,0
+3310,Ponto,0,0,0,0,0,0,0,0
+3311,Pooncarie,0,0,0,0,0,0,0,0
+3312,Port Botany,4,0,0,0,0,0,9,0
+3313,Port Hacking,3,0,0,0,0,0,2,0
+3314,Port Kembla,35,0,1,12,21,12,27,10
+3315,Port Macquarie,58,0,34,59,56,60,1,60
+3316,Port Macquarie Bc,0,0,0,0,0,0,0,0
+3317,Porters Creek,0,0,0,0,0,0,0,0
+3318,Porters Retreat,0,0,0,0,0,0,0,0
+3319,Portland,0,0,1,0,0,0,0,0
+3320,Possum Brush,0,0,0,0,0,0,0,0
+3321,Possum Creek,0,0,0,0,0,1,2,0
+3322,Potato Point,0,0,0,0,0,0,0,0
+3323,Pottery Estate,1,0,0,0,0,2,0,0
+3324,Potts Hill,0,0,0,0,0,0,1,0
+3325,Potts Point,15,0,8,29,2,58,0,9
+3326,Pottsville,21,0,1,8,2,12,0,1
+3327,Pottsville Beach,0,0,0,0,0,0,0,0
+3328,Prairiewood,19,0,0,2,0,10,0,9
+3329,Premer,2,0,0,0,0,0,0,0
+3330,Prestons,41,0,2,8,37,19,0,6
+3331,Pretty Beach,4,0,0,0,0,0,1,1
+3332,Pretty Pine,0,0,0,0,0,0,0,0
+3333,Primbee,14,0,0,1,0,2,0,0
+3334,Primrose Valley,0,0,0,0,0,0,0,0
+3335,Prospect,6,0,3,2,2,4,0,0
+3336,Providence Portal,0,0,0,0,0,0,1,0
+3337,Pucawan,0,0,0,0,0,0,0,0
+3338,Puddledock,0,0,0,0,0,1,0,0
+3339,Pulganbar,0,0,0,0,0,0,0,0
+3340,Pullabooka,0,0,0,0,0,0,0,0
+3341,Pulletop,0,0,0,0,0,0,0,0
+3342,Pumpenbil,0,0,0,0,0,0,0,0
+3343,Punchbowl,12,0,3,17,19,35,1,7
+3344,Purfleet,0,0,0,0,0,1,0,0
+3345,Purlewaugh,0,0,0,0,0,0,0,0
+3346,Putney,14,0,3,3,2,10,0,0
+3347,Putta Bucca,0,0,0,0,0,1,3,0
+3348,Putty,0,0,0,0,0,1,0,0
+3349,Pyangle,0,0,0,0,0,0,0,0
+3350,Pymble,40,0,11,7,6,10,0,4
+3351,Pyramul,0,0,0,0,0,0,0,0
+3352,Pyree,12,0,0,0,0,2,0,0
+3353,Pyrmont,17,0,8,15,1,59,1,6
+3354,Quaama,1,0,0,0,0,0,0,0
+3355,Quakers Hill,49,0,9,9,2,22,0,4
+3356,Quambone,0,0,0,0,0,0,0,0
+3357,Quanda,0,0,0,0,0,0,0,0
+3358,Quandary,0,0,0,0,0,0,0,0
+3359,Quandialla,0,0,0,0,0,0,0,0
+3360,Queanbeyan,27,0,9,16,25,39,0,11
+3361,Queanbeyan Dc,0,0,0,0,0,0,0,0
+3362,Queanbeyan East,10,0,0,1,16,7,2,3
+3363,Queanbeyan West,1,0,0,0,13,1,5,3
+3364,Queens Park,9,0,0,0,1,1,0,0
+3365,Queens Pinch,0,0,0,0,0,0,0,0
+3366,Queenscliff,0,0,0,1,0,0,0,0
+3367,Quialigo,0,0,0,0,0,0,1,0
+3368,Quidong,0,0,0,0,0,0,0,0
+3369,Quiera,0,0,0,0,0,0,0,0
+3370,Quipolly,2,0,0,0,0,0,0,0
+3371,Quirindi,46,0,2,2,6,8,0,1
+3372,Quorrobolong,0,0,0,0,0,1,0,0
+3373,Raby,29,0,1,2,2,5,0,0
+3374,Raglan,0,0,0,0,0,2,0,0
+3375,Rainbow Flat,1,0,0,1,0,0,5,0
+3376,Rainbow Reach,0,0,0,0,0,1,0,0
+3377,Raleigh,0,0,0,0,0,0,0,0
+3378,Ramornie,2,0,0,0,0,0,0,0
+3379,Ramsgate,11,0,3,7,1,19,0,6
+3380,Ramsgate Beach,10,0,3,3,0,8,7,0
+3381,Rand,0,0,0,0,0,0,0,0
+3382,Randwick,49,0,32,25,10,58,0,18
+3383,Randwick Dc,0,0,0,0,0,0,0,0
+3384,Rangari,0,0,0,0,0,0,0,0
+3385,Rangers Valley,0,0,0,0,0,0,2,0
+3386,Rankin Park,13,0,0,0,0,0,0,0
+3387,Rankins Springs,0,0,0,0,0,1,1,0
+3388,Rannock,0,0,0,0,0,0,0,0
+3389,Rappville,0,0,0,0,0,0,0,0
+3390,Rathmines,16,0,0,0,5,5,0,0
+3391,Ravensdale,0,0,0,0,0,0,0,0
+3392,Ravenswood,0,0,0,0,0,0,0,0
+3393,Ravensworth,1,0,0,0,0,0,0,0
+3394,Rawdon Island,0,0,0,0,0,0,1,0
+3395,Rawdon Vale,0,0,0,0,0,0,0,0
+3396,Raworth,16,0,0,0,0,0,0,0
+3397,Rawsonville,0,0,0,0,0,0,0,0
+3398,Raymond Terrace,56,0,6,15,21,29,0,12
+3399,Raymond Terrace East,0,0,0,0,0,0,0,0
+3400,Razorback,15,0,0,0,3,0,0,0
+3401,Red Head,0,0,0,0,0,0,0,0
+3402,Red Hill,0,0,0,0,0,0,0,0
+3403,Red Range,0,0,0,0,0,0,0,0
+3404,Red Rock,1,0,0,0,0,2,0,0
+3405,Red Rocks,0,0,0,0,0,0,0,0
+3406,Redbank,0,0,0,0,0,0,0,0
+3407,Redbournberry,0,0,0,0,0,0,0,0
+3408,Reddestone,0,0,0,0,0,0,0,0
+3409,Redfern,22,0,7,20,4,49,1,7
+3410,Redhead,22,0,1,3,3,7,0,2
+3411,Redlands,0,0,0,0,0,0,0,0
+3412,Reedy Creek,0,0,0,0,0,0,0,0
+3413,Reedy Swamp,0,0,0,0,0,0,0,0
+3414,Reefton,0,0,0,0,0,0,0,0
+3415,Regents Park,27,0,3,4,12,12,0,5
+3416,Regents Park Dc,0,0,0,0,0,0,0,0
+3417,Regentville,10,0,0,0,0,1,1,0
+3418,Reids Flat,0,0,0,0,0,0,0,0
+3419,Reidsdale,0,0,0,0,0,0,1,0
+3420,Rennie,0,0,0,0,0,0,0,0
+3421,Renwick,0,0,0,0,0,0,0,0
+3422,Repentance Creek,0,0,0,0,0,0,1,0
+3423,Repton,2,0,0,0,0,0,0,0
+3424,Reserve Creek,0,0,0,1,0,0,0,0
+3425,Retreat,0,0,0,0,0,0,0,0
+3426,Revesby,52,0,5,16,1,46,0,5
+3427,Revesby Heights,8,0,0,2,0,1,0,0
+3428,Revesby North,0,0,0,0,0,0,0,0
+3429,Rhine Falls,0,0,0,0,0,0,0,0
+3430,Rhodes,15,0,5,9,3,46,0,10
+3431,Richlands,0,0,0,0,0,0,0,0
+3432,Richmond,2,0,8,3,6,3,3,12
+3433,Richmond Hill,0,0,0,0,0,0,0,0
+3434,Richmond Lowlands,0,0,0,0,0,0,1,0
+3435,Richmond Vale,0,0,0,0,0,0,4,0
+3436,Rileys Hill,0,0,0,0,0,0,0,0
+3437,Ringwood,0,0,0,0,0,0,0,0
+3438,Riverina Mc,0,0,0,0,0,0,0,0
+3439,Riverlea,0,0,0,0,0,0,0,0
+3440,Riverside,0,0,0,0,0,0,0,0
+3441,Riverstone,46,0,2,5,25,18,0,4
+3442,Rivertree,0,0,0,0,0,0,0,0
+3443,Riverview,16,0,0,1,0,1,0,0
+3444,Riverwood,45,0,6,11,7,45,0,5
+3445,Rixs Creek,0,0,0,0,0,0,0,0
+3446,Rob Roy,0,0,0,0,0,0,0,0
+3447,Robertson,7,0,0,4,0,9,0,0
+3448,Robin Hill,0,0,0,0,4,0,3,0
+3449,Rock Flat,0,0,0,0,0,0,0,0
+3450,Rock Forest,0,0,0,0,0,0,0,0
+3451,Rock Valley,0,0,0,0,0,0,0,0
+3452,Rockdale,19,0,22,23,23,54,0,22
+3453,Rockdale Dc,0,0,0,0,0,0,0,0
+3454,Rockley,0,0,0,0,0,0,0,0
+3455,Rockley Mount,0,0,0,0,0,0,0,0
+3456,Rockton,0,0,0,0,0,0,0,0
+3457,Rocky Creek,0,0,0,0,0,0,0,0
+3458,Rocky Glen,0,0,0,0,0,0,0,0
+3459,Rocky Hall,0,0,0,0,0,0,0,0
+3460,Rocky Plain,0,0,0,0,0,0,3,0
+3461,Rocky Point,0,0,0,0,0,0,0,0
+3462,Rocky River,0,0,0,0,0,0,0,0
+3463,Rodd Point,13,0,0,3,1,2,8,0
+3464,Rollands Plains,0,0,0,0,0,0,0,0
+3465,Rookhurst,0,0,0,0,0,0,0,0
+3466,Rookwood,13,0,0,0,0,1,1,0
+3467,Rooty Hill,47,0,6,8,2,28,0,2
+3468,Ropers Road,0,0,0,0,0,0,0,0
+3469,Ropes Crossing,22,0,1,2,0,4,1,0
+3470,Rose Bay,29,0,5,21,1,44,45,13
+3471,Rose Bay North,0,0,0,0,0,0,0,0
+3472,Rose Valley,0,0,0,0,0,0,0,0
+3473,Rosebank,0,0,0,0,0,0,1,0
+3474,Roseberg,0,0,0,0,0,0,0,0
+3475,Roseberry,0,0,0,0,0,0,0,0
+3476,Roseberry Creek,0,0,0,0,0,0,0,0
+3477,Rosebery,33,0,3,8,15,43,3,5
+3478,Rosebrook,0,0,0,0,0,0,0,0
+3479,Rosedale,1,0,0,0,0,0,0,1
+3480,Rosehill,10,0,0,0,1,15,1,0
+3481,Roselands,43,0,6,17,8,36,0,27
+3482,Rosemeadow,28,0,0,1,1,7,1,0
+3483,Rosemeath,0,0,0,0,0,0,0,0
+3484,Roseville,40,0,8,7,8,16,0,2
+3485,Roseville Chase,5,0,0,0,0,5,0,0
+3486,Rosewood,0,0,0,0,0,0,0,0
+3487,Roslyn,0,0,0,0,0,0,0,0
+3488,Rossglen,0,0,0,0,0,0,0,0
+3489,Rossgole,0,0,0,0,0,0,0,0
+3490,Rossi,0,0,0,0,0,0,0,0
+3491,Rossmore,28,0,0,0,3,3,0,0
+3492,Rothbury,0,0,0,0,0,6,0,0
+3493,Roto,0,0,0,0,0,0,0,0
+3494,Rouchel,0,0,0,0,0,0,0,0
+3495,Rouchel Brook,0,0,0,0,0,0,0,0
+3496,Roughit,0,0,0,0,0,0,0,0
+3497,Round Corner,0,0,0,0,0,0,0,0
+3498,Round Mountain,0,0,0,0,0,0,0,0
+3499,Round Swamp,0,0,0,0,0,0,0,0
+3500,Rous,0,0,0,0,0,0,0,0
+3501,Rous Mill,0,0,0,0,0,0,0,0
+3502,Rouse Hill,49,0,7,24,4,55,3,44
+3503,Rowan,0,0,0,0,0,0,0,0
+3504,Rowena,0,0,0,0,0,0,0,0
+3505,Rowlands Creek,0,0,0,0,0,0,0,0
+3506,Royal North Shore Hospital,0,0,0,0,0,0,0,0
+3507,Royalla,0,0,0,0,0,0,1,0
+3508,Rozelle,17,0,4,20,27,49,1,14
+3509,Rufus,0,0,0,0,0,0,0,0
+3510,Rugby,0,0,0,0,0,0,0,0
+3511,Rukenvale,1,0,0,0,0,0,0,0
+3512,Run O Waters,0,0,0,0,0,0,0,0
+3513,Running Stream,1,0,0,0,0,0,0,0
+3514,Runnyford,0,0,0,0,0,0,0,0
+3515,Ruse,19,0,0,1,0,3,0,1
+3516,Rushcutters Bay,3,0,0,4,5,14,6,2
+3517,Rushes Creek,0,0,0,0,0,0,0,0
+3518,Rushforth,0,0,0,0,0,0,0,0
+3519,Russell Lea,15,0,3,4,1,5,2,0
+3520,Russell Vale,5,0,0,0,4,2,7,0
+3521,Rutherford,55,0,3,9,31,14,0,9
+3522,Ruthven,0,0,0,0,0,0,0,0
+3523,Ryan,0,0,0,0,0,0,0,0
+3524,Rydal,1,0,0,0,0,0,1,1
+3525,Rydalmere,6,0,2,0,33,15,3,5
+3526,Ryde,42,0,16,17,15,43,0,27
+3527,Rye Park,0,0,0,0,0,0,0,0
+3528,Ryhope,0,0,0,0,1,0,0,0
+3529,Rylstone,3,0,0,1,0,7,1,0
+3530,Sackville,1,0,0,0,0,0,0,0
+3531,Sackville North,0,0,0,0,0,0,1,0
+3532,Saddleback Mountain,0,0,0,0,0,0,0,0
+3533,Sadleir,12,0,0,0,0,2,0,0
+3534,Safety Beach,0,0,0,0,0,0,0,0
+3535,Salamander Bay,43,0,6,13,17,23,1,13
+3536,Salisbury,0,0,0,0,0,0,0,0
+3537,Salisbury Plains,0,0,0,0,0,0,0,0
+3538,Sallys Flat,0,0,0,0,0,0,0,0
+3539,Salt Ash,34,0,0,0,0,2,0,0
+3540,Saltwater,0,0,0,0,0,0,0,0
+3541,San Isidore,0,0,0,0,0,0,0,0
+3542,San Remo,18,0,0,1,0,0,0,0
+3543,Sancrox,2,0,0,0,0,1,0,0
+3544,Sanctuary Point,1,0,1,7,0,10,6,2
+3545,Sandbar,0,0,0,0,0,0,0,0
+3546,Sandgate,0,0,0,0,0,0,0,0
+3547,Sandigo,0,0,0,0,0,0,0,0
+3548,Sandilands,0,0,0,0,0,0,0,0
+3549,Sandon,0,0,0,0,0,0,0,0
+3550,Sandringham,0,0,0,0,0,0,0,0
+3551,Sandy Beach,17,0,0,1,0,1,0,0
+3552,Sandy Creek,0,0,0,0,0,0,0,0
+3553,Sandy Crossing,0,0,0,0,0,0,0,0
+3554,Sandy Flat,0,0,0,0,0,0,1,0
+3555,Sandy Gully,0,0,0,0,0,0,0,0
+3556,Sandy Hill,0,0,0,0,0,0,0,0
+3557,Sandy Hollow,0,0,0,0,1,0,3,0
+3558,Sandy Point,5,0,0,0,0,0,0,0
+3559,Sanger,0,0,0,0,0,0,0,0
+3560,Sans Souci,1,0,1,11,1,22,3,7
+3561,Sapphire,0,0,0,0,0,0,0,0
+3562,Sapphire Beach,7,0,0,0,2,3,7,1
+3563,Saratoga,21,0,1,2,1,2,0,0
+3564,Sassafras,0,0,0,0,0,0,0,0
+3565,Saumarez,0,0,0,0,0,0,0,0
+3566,Saumarez Ponds,0,0,0,0,0,1,1,0
+3567,Savernake,0,0,0,0,0,0,0,0
+3568,Sawpit Creek,0,0,0,0,0,0,0,0
+3569,Sawtell,23,0,1,8,1,14,0,5
+3570,Sawyers Gully,0,0,0,0,0,0,2,0
+3571,Scarborough,5,0,0,0,0,1,0,0
+3572,Scheyville,2,0,0,0,0,0,0,0
+3573,Schofields,41,0,3,3,0,8,0,0
+3574,Scone,7,0,2,5,12,15,2,8
+3575,Scotia,0,0,0,0,0,0,0,0
+3576,Scotland Island,2,0,0,0,0,0,3,0
+3577,Scotts Creek,0,0,0,0,0,0,0,0
+3578,Scotts Flat,0,0,0,0,0,0,0,0
+3579,Scotts Head,4,0,0,1,0,3,0,1
+3580,Seaforth,11,0,3,12,0,19,0,2
+3581,Seaham,0,0,0,1,0,1,0,0
+3582,Seahampton,2,0,0,0,0,0,0,0
+3583,Seal Rocks,0,0,0,0,0,0,5,0
+3584,Sebastopol,0,0,0,0,0,0,0,0
+3585,Sedgefield,0,0,0,0,0,0,0,0
+3586,Seelands,2,0,0,0,0,0,0,0
+3587,Sefton,31,0,0,5,8,7,0,1
+3588,Segenhoe,0,0,0,0,0,0,0,0
+3589,Settlement City,0,0,0,0,0,0,0,0
+3590,Seven Hills,49,0,8,18,54,41,28,13
+3591,Seven Hills West,0,0,0,0,0,0,0,0
+3592,Seven Oaks,0,0,0,0,0,0,0,0
+3593,Sextonville,0,0,0,0,0,0,0,0
+3594,Shadforth,0,0,0,0,0,0,0,0
+3595,Shallow Bay,0,0,0,0,0,0,0,0
+3596,Shalvey,14,0,0,0,1,3,0,0
+3597,Shanes Park,6,0,0,0,2,2,0,0
+3598,Shannon Brook,0,0,0,0,0,0,1,0
+3599,Shannon Vale,0,0,0,0,0,0,0,0
+3600,Shannondale,0,0,0,0,0,0,0,0
+3601,Shannons Flat,0,0,0,0,1,0,2,0
+3602,Shark Creek,0,0,0,0,0,0,0,0
+3603,Sharps Creek,0,0,0,0,0,0,0,0
+3604,Sheedys Gully,0,0,0,0,0,0,0,0
+3605,Shell Cove,10,0,1,3,0,3,6,0
+3606,Shellharbour,23,0,3,9,3,37,3,25
+3607,Shellharbour City Centre,7,0,8,10,3,24,26,31
+3608,Shelly Beach,5,0,0,0,1,3,1,0
+3609,Sherwood,0,0,0,0,0,0,0,0
+3610,Shoal Bay,13,0,0,1,0,10,0,2
+3611,Shoalhaven Heads,16,0,0,1,1,5,0,0
+3612,Shooters Hill,0,0,0,0,0,0,0,0
+3613,Shortland,31,0,0,1,1,7,0,1
+3614,Silent Grove,0,0,0,0,0,0,0,0
+3615,Silverdale,30,0,0,2,4,1,2,0
+3616,Silverton,0,0,0,0,0,0,0,0
+3617,Silverwater,29,0,2,3,11,21,1,3
+3618,Simpkins Creek,0,0,0,0,0,0,0,0
+3619,Singleton,23,0,9,16,23,44,0,21
+3620,Singleton Dc,0,0,0,0,0,0,0,0
+3621,Singleton Heights,15,0,0,0,0,1,0,1
+3622,Singletons Mill,0,0,0,0,0,0,0,0
+3623,Six Mile Swamp,0,0,0,0,0,0,0,0
+3624,Skennars Head,2,0,0,0,0,0,2,1
+3625,Skillion Flat,1,0,0,0,0,0,0,0
+3626,Skinners Shoot,0,0,0,0,0,0,0,0
+3627,Sleepy Hollow,0,0,0,0,0,0,0,0
+3628,Smeaton Grange,24,0,0,2,43,5,1,8
+3629,Smithfield,45,0,3,16,50,25,0,4
+3630,Smithfield West,0,0,0,0,0,0,0,0
+3631,Smiths Creek,0,0,0,0,0,0,0,0
+3632,Smiths Lake,2,0,0,1,0,3,6,0
+3633,Smithtown,0,0,0,0,0,0,0,0
+3634,Snakes Plain,0,0,0,0,0,0,0,0
+3635,Snowball,0,0,0,0,0,0,0,0
+3636,Snowy Plain,0,0,0,0,0,0,0,0
+3637,Sodwalls,0,0,0,0,0,0,0,0
+3638,Sofala,0,0,0,0,0,2,0,0
+3639,Soldiers Point,9,0,0,4,1,5,11,1
+3640,Somersby,34,0,0,2,11,3,2,3
+3641,Somerton,0,0,0,0,0,0,0,0
+3642,South Albury,14,0,2,0,17,9,11,2
+3643,South Arm,0,0,0,0,0,0,0,0
+3644,South Ballina,0,0,0,0,0,0,2,0
+3645,South Bathurst,3,0,0,0,6,2,2,0
+3646,South Bowenfels,5,0,0,0,0,2,5,0
+3647,South Broken Hill,0,0,0,0,0,0,0,0
+3648,South Coogee,19,0,0,1,0,4,23,0
+3649,South Durras,0,0,0,0,1,0,6,0
+3650,South Evans Head,0,0,0,0,0,0,0,0
+3651,South Golden Beach,1,0,0,1,0,0,6,0
+3652,South Grafton,46,0,0,4,30,18,0,6
+3653,South Granville,36,0,4,4,3,6,0,1
+3654,South Gundagai,0,0,0,0,2,0,0,0
+3655,South Gundurimba,1,0,0,1,0,0,0,0
+3656,South Guyra,0,0,0,0,0,0,0,0
+3657,South Hurstville,26,0,1,8,4,10,28,2
+3658,South Kempsey,11,0,0,0,10,7,0,1
+3659,South Lismore,3,0,0,1,33,4,20,7
+3660,South Littleton,0,0,0,0,0,0,0,0
+3661,South Maitland,7,0,0,0,0,0,0,1
+3662,South Maroota,7,0,0,0,0,0,0,1
+3663,South Murwillumbah,8,0,1,1,17,5,17,1
+3664,South Nowra,11,0,0,2,38,10,0,7
+3665,South Pambula,0,0,0,0,1,0,8,0
+3666,South Penrith,41,0,4,4,3,13,0,0
+3667,South Tamworth,47,0,1,2,0,12,0,0
+3668,South Turramurra,22,0,0,1,0,2,3,0
+3669,South Wentworthville,42,0,0,3,2,6,4,2
+3670,South West Rocks,3,0,2,5,6,14,33,10
+3671,South Windsor,37,0,2,8,29,14,0,2
+3672,South Wolumla,0,0,0,0,0,0,0,0
+3673,Southampton,0,0,0,0,0,0,0,0
+3674,Southgate,0,0,0,0,0,0,0,0
+3675,Speers Point,19,0,0,1,0,2,4,1
+3676,Speewa,0,0,0,0,0,0,0,0
+3677,Spencer,1,0,0,0,0,2,0,0
+3678,Spicers Creek,0,0,0,0,0,0,0,0
+3679,Spicketts Creek,0,0,0,0,0,0,0,0
+3680,Spit Junction,0,0,0,0,0,0,0,0
+3681,Splitters Creek,0,0,0,0,0,0,2,0
+3682,Spring Creek,0,0,0,0,0,0,0,0
+3683,Spring Farm,13,0,1,4,1,4,17,0
+3684,Spring Flat,0,0,0,0,0,0,0,0
+3685,Spring Grove,0,0,0,0,0,0,0,0
+3686,Spring Hill,3,0,0,0,0,0,0,0
+3687,Spring Mountain,0,0,0,0,0,0,0,0
+3688,Spring Plains,0,0,0,0,0,0,0,0
+3689,Spring Ridge,1,0,0,0,0,0,0,0
+3690,Spring Terrace,0,0,0,0,0,0,0,0
+3691,Springdale,0,0,0,0,0,1,0,0
+3692,Springdale Heights,2,0,0,0,2,1,0,0
+3693,Springfield,14,0,0,2,0,0,0,0
+3694,Springside,0,0,0,0,0,0,0,0
+3695,Springvale,0,0,0,0,0,0,0,0
+3696,Springwood,41,0,9,8,1,21,2,11
+3697,St Albans,0,0,0,0,0,0,0,0
+3698,St Andrews,15,0,2,1,2,2,0,0
+3699,St Clair,56,0,4,6,1,19,3,5
+3700,St Fillans,0,0,0,0,0,0,0,0
+3701,St George,0,0,0,0,0,0,0,0
+3702,St Georges Basin,2,0,0,2,3,3,14,0
+3703,St Helens Park,26,0,0,1,0,3,9,1
+3704,St Huberts Island,12,0,0,0,0,0,2,0
+3705,St Ives,0,0,0,0,0,0,0,0
+3706,St Ives Chase,19,0,1,1,0,1,1,0
+3707,St Johns Park,30,0,0,3,0,8,2,0
+3708,St Leonards,9,0,17,5,0,40,1,7
+3709,St Marys,48,0,10,25,44,55,8,11
+3710,St Marys East,0,0,0,0,0,0,0,0
+3711,St Marys South,0,0,0,0,0,0,0,0
+3712,St Pauls,0,0,0,0,0,0,0,0
+3713,St Peters,13,0,1,3,9,13,2,13
+3714,St Peters Dc,0,0,0,0,0,0,0,0
+3715,Stanborough,0,0,0,0,0,0,0,0
+3716,Stanbridge,0,0,0,0,0,0,0,0
+3717,Stanford Merthyr,5,0,0,0,0,0,0,0
+3718,Stanhope,0,0,0,0,0,0,0,0
+3719,Stanhope Gardens,19,0,2,3,0,17,0,7
+3720,Stanmore,8,0,2,5,5,21,1,2
+3721,Stannifer,0,0,0,0,0,0,0,0
+3722,Stannum,0,0,0,0,0,0,0,0
+3723,Stanwell Park,5,0,0,0,0,3,0,1
+3724,Stanwell Tops,7,0,0,0,0,2,0,0
+3725,State Mine Gully,0,0,0,0,0,0,0,0
+3726,Steam Plains,0,0,0,0,0,0,0,0
+3727,Steeple Flat,0,0,0,0,0,0,0,0
+3728,Stewarts Brook,0,0,0,0,0,0,0,0
+3729,Stewarts Mount,0,0,0,0,0,0,0,0
+3730,Stewarts River,0,0,0,0,0,0,0,0
+3731,Stockinbingal,2,0,0,0,0,0,1,0
+3732,Stockrington,0,0,0,0,0,0,0,0
+3733,Stockton,0,0,0,4,2,11,0,0
+3734,Stockyard Creek,0,0,0,0,0,0,0,0
+3735,Stokers Siding,1,0,0,0,0,0,6,2
+3736,Stonehenge,0,0,0,0,0,0,0,0
+3737,Stonequarry,0,0,0,0,0,0,0,0
+3738,Stony Chute,0,0,0,0,0,1,0,0
+3739,Stony Creek,0,0,0,0,0,0,0,0
+3740,Stony Crossing,0,0,0,0,0,0,0,0
+3741,Stotts Creek,0,0,0,0,0,0,0,0
+3742,Stratford,1,0,0,0,0,1,0,0
+3743,Strathcedar,0,0,0,0,0,0,0,0
+3744,Stratheden,0,0,0,0,0,0,0,0
+3745,Strathfield,44,0,18,8,4,48,2,4
+3746,Strathfield South,17,0,0,0,12,10,8,2
+3747,Stroud,1,0,0,2,1,0,0,0
+3748,Stroud Hill,0,0,0,0,0,0,0,0
+3749,Stroud Road,2,0,0,0,0,0,0,0
+3750,Stuart Town,2,0,0,0,0,1,0,0
+3751,Stuarts Point,1,0,0,0,0,2,0,0
+3752,Stubbo,0,0,0,0,0,0,0,1
+3753,Stud Park,0,0,0,0,0,0,0,0
+3754,Suffolk Park,6,0,0,1,1,6,0,3
+3755,Sugarloaf,0,0,0,0,0,0,0,0
+3756,Summer Hill,15,0,4,9,7,11,18,5
+3757,Summer Hill Creek,0,0,0,0,0,0,0,0
+3758,Summer Island,0,0,0,0,0,0,0,0
+3759,Summerland Point,13,0,0,1,0,5,0,0
+3760,Sun Valley,2,0,0,0,0,0,0,0
+3761,Sunny Corner,0,0,0,0,0,0,2,0
+3762,Sunset Strip,0,0,0,0,0,0,0,0
+3763,Sunshine,0,0,0,0,0,0,0,0
+3764,Sunshine Bay,2,0,0,0,0,1,0,0
+3765,Suntop,0,0,0,0,0,0,0,0
+3766,Surf Beach,4,0,0,1,0,3,0,0
+3767,Surfside,1,0,0,2,0,1,0,0
+3768,Surry Hills,31,0,15,53,3,59,1,48
+3769,Sussex Inlet,35,0,1,2,1,7,0,2
+3770,Sutherland,27,0,14,14,6,35,0,5
+3771,Sutton,0,0,0,0,1,2,0,0
+3772,Sutton Forest,8,0,0,0,0,5,5,0
+3773,Swan Bay,0,0,1,0,0,0,0,0
+3774,Swan Creek,0,0,0,0,0,0,0,0
+3775,Swan Vale,0,0,0,0,0,0,0,0
+3776,Swanbrook,0,0,0,0,0,0,0,0
+3777,Swanhaven,3,0,0,0,0,1,0,0
+3778,Swans Crossing,0,0,0,0,0,0,0,0
+3779,Swansea,0,0,4,6,3,12,0,3
+3780,Swansea Heads,5,0,0,0,0,0,0,0
+3781,Sweetmans Creek,0,0,0,0,0,0,0,0
+3782,Sydenham,3,0,0,2,9,4,1,3
+3783,Sydney,57,0,57,55,1,53,3,60
+3784,Sydney Domestic Airport,0,0,0,0,0,0,0,0
+3785,Sydney International Airport,0,0,0,0,0,0,0,0
+3786,Sydney Olympic Park,23,0,2,1,0,39,16,2
+3787,Sydney South,0,0,0,0,0,0,0,0
+3788,Sydney University,0,0,0,0,0,0,0,0
+3789,Sylvania,37,0,1,15,7,29,0,15
+3790,Sylvania Southgate,0,0,0,0,0,0,0,0
+3791,Sylvania Waters,16,0,1,5,0,6,2,1
+3792,Tabbil Creek,0,0,0,0,0,0,0,0
+3793,Tabbimoble,0,0,0,0,0,0,0,0
+3794,Tabbita,0,0,0,0,0,0,1,0
+3795,Table Top,0,0,0,0,0,0,0,0
+3796,Tabulam,1,0,0,0,0,1,1,0
+3797,Tacoma,0,0,0,0,0,0,0,0
+3798,Tacoma South,4,0,0,0,0,0,0,0
+3799,Tahlee,0,0,0,0,0,0,0,0
+3800,Tahmoor,31,0,2,7,5,9,1,1
+3801,Talarm,0,0,0,0,0,0,0,0
+3802,Talawanta,0,0,0,0,0,0,0,0
+3803,Talbingo,0,0,0,0,0,2,0,0
+3804,Tallawang,0,0,0,0,0,0,0,0
+3805,Tallimba,0,0,0,0,0,0,0,0
+3806,Tallong,8,0,0,0,0,1,1,0
+3807,Tallowal,0,0,0,0,0,0,0,0
+3808,Tallowwood Ridge,0,0,0,0,0,0,0,0
+3809,Tallwood,0,0,0,0,0,0,0,0
+3810,Tallwoods Village,0,0,0,0,0,0,0,0
+3811,Talmalmo,0,0,0,0,0,0,0,0
+3812,Talofa,0,0,0,0,0,0,0,0
+3813,Taloumbi,0,0,0,0,0,0,0,0
+3814,Tamarama,3,0,0,0,0,1,0,0
+3815,Tamban,0,0,0,0,0,1,0,0
+3816,Tambar Springs,1,0,0,0,0,0,0,1
+3817,Tambaroora,0,0,0,0,0,0,0,0
+3818,Taminda,5,0,1,1,24,3,0,2
+3819,Tamworth,9,0,21,43,44,56,0,49
+3820,Tanglewood,0,0,0,0,0,0,0,0
+3821,Tanilba Bay,26,0,1,3,2,5,15,1
+3822,Tanja,0,0,0,0,0,1,0,0
+3823,Tannabar,0,0,0,0,0,0,0,0
+3824,Tannas Mount,0,0,0,0,0,0,0,0
+3825,Tantangara,0,0,0,0,0,0,0,0
+3826,Tantawangalo,0,0,0,0,0,0,0,0
+3827,Tantonan,0,0,0,0,0,0,0,0
+3828,Tapitallee,0,0,0,0,0,0,0,0
+3829,Tara,0,0,0,0,0,0,0,0
+3830,Taradale,0,0,0,0,0,0,0,0
+3831,Tarago,0,0,0,0,2,1,0,0
+3832,Taralga,0,0,0,0,0,2,0,0
+3833,Tarana,1,0,0,0,0,0,0,0
+3834,Tarban,0,0,0,0,0,0,0,0
+3835,Tarbuck Bay,1,0,0,1,0,0,0,0
+3836,Tarcutta,3,0,0,0,1,2,0,1
+3837,Taree,29,0,16,18,53,50,0,38
+3838,Taree Dc,0,0,0,0,0,0,0,0
+3839,Taree South,1,0,0,0,1,0,8,0
+3840,Taren Point,9,0,0,0,30,9,6,9
+3841,Tarlo,0,0,0,0,0,0,0,0
+3842,Tarraganda,0,0,0,0,0,0,0,0
+3843,Tarrawanna,6,0,0,2,0,4,0,1
+3844,Tarriaro,0,0,0,0,0,0,0,0
+3845,Tarro,9,0,0,0,0,1,0,0
+3846,Tascott,32,0,0,2,0,1,0,0
+3847,Tatham,0,0,0,0,0,0,0,0
+3848,Tathra,19,0,0,1,1,9,0,2
+3849,Tatton,7,0,0,0,0,0,0,0
+3850,Taylors Arm,0,0,0,0,0,0,0,0
+3851,Taylors Beach,8,0,0,0,7,1,0,2
+3852,Taylors Flat,0,0,0,0,0,0,0,0
+3853,Tea Gardens,1,0,2,5,5,9,20,3
+3854,Telarah,13,0,0,1,6,2,0,0
+3855,Telegraph Point,2,0,0,0,0,0,0,0
+3856,Telopea,5,0,3,2,3,4,4,0
+3857,Temagog,0,0,0,0,0,0,0,0
+3858,Temora,2,0,2,5,9,14,0,7
+3859,Tempe,9,0,1,1,11,6,0,1
+3860,Ten Mile Hollow,0,0,0,0,0,0,2,0
+3861,Tenambit,20,0,0,2,0,3,0,0
+3862,Tenandra,0,0,0,0,0,0,0,0
+3863,Tennyson,0,0,0,0,0,0,0,0
+3864,Tennyson Point,2,0,0,1,0,0,0,0
+3865,Tenterden,0,0,0,0,0,0,0,0
+3866,Tenterfield,2,0,2,3,4,11,2,8
+3867,Teralba,6,0,0,2,4,2,0,0
+3868,Terania Creek,0,0,0,0,0,0,1,0
+3869,Terara,1,0,0,0,0,0,0,0
+3870,Teridgerie,0,0,0,0,0,0,0,0
+3871,Termeil,2,0,0,0,0,1,0,0
+3872,Terrabella,0,0,0,0,0,0,0,0
+3873,Terrace Creek,0,0,0,0,0,0,0,0
+3874,Terragon,0,0,0,0,0,0,0,0
+3875,Terramungamine,0,0,0,0,0,0,0,0
+3876,Terranora,7,0,0,1,0,3,0,1
+3877,Terreel,0,0,0,0,0,0,0,0
+3878,Terrey Hills,3,0,2,3,4,17,6,2
+3879,Terrigal,38,0,9,18,0,51,3,20
+3880,Terry Hie Hie,0,0,0,0,0,0,0,0
+3881,Teven,1,0,0,0,0,0,0,0
+3882,Tewinga,0,0,0,0,0,0,0,0
+3883,Thalgarrah,0,0,0,0,0,0,0,0
+3884,Tharbogang,0,0,0,0,0,0,2,0
+3885,Tharwa,0,0,0,0,0,0,0,0
+3886,The Angle,0,0,0,0,0,0,0,0
+3887,The Basin,0,0,0,0,0,0,0,0
+3888,The Bight,0,0,0,0,0,0,0,0
+3889,The Branch,0,0,0,0,0,0,0,0
+3890,The Brothers,0,0,0,0,0,0,0,0
+3891,The Channon,2,0,0,0,0,2,2,0
+3892,The Devils Wilderness,0,0,0,0,0,0,0,0
+3893,The Entrance,13,0,1,11,1,41,0,16
+3894,The Entrance North,10,0,0,1,0,3,2,0
+3895,The Freshwater,0,0,0,0,0,0,0,0
+3896,The Gap,0,0,0,0,0,0,0,0
+3897,The Glen,0,0,0,0,0,0,0,0
+3898,The Gulf,0,0,0,0,0,0,0,0
+3899,The Hatch,0,0,0,0,0,0,0,0
+3900,The Hill,0,0,0,0,0,0,0,0
+3901,The Junction,5,0,5,8,0,16,0,11
+3902,The Lagoon,0,0,0,0,0,0,0,0
+3903,The Marra,0,0,0,0,0,0,0,0
+3904,The Meadows,0,0,0,0,0,0,0,0
+3905,The Oaks,20,0,0,2,2,4,0,2
+3906,The Pilliga,0,0,0,0,0,0,0,0
+3907,The Pinnacles,0,0,0,0,0,0,0,0
+3908,The Pocket,0,0,0,0,0,0,0,0
+3909,The Ponds,37,0,1,4,0,9,0,2
+3910,The Ridgeway,0,0,0,0,0,0,0,0
+3911,The Risk,0,0,0,0,0,0,0,0
+3912,The Rock,0,0,0,0,2,0,0,1
+3913,The Rocks,0,0,0,5,0,51,1,11
+3914,The Sandon,0,0,0,0,0,0,0,0
+3915,The Slopes,0,0,0,0,0,0,0,0
+3916,The University Of Sydney,0,0,0,0,0,0,0,0
+3917,The Whiteman,0,0,0,0,0,0,0,0
+3918,Theresa Creek,0,0,0,0,0,0,0,0
+3919,Theresa Park,5,0,0,0,0,0,5,0
+3920,Thirldene,0,0,0,0,0,0,0,0
+3921,Thirlmere,20,0,0,4,5,7,1,2
+3922,Thirroul,19,0,3,8,0,35,2,6
+3923,Thora,0,0,0,0,1,0,0,0
+3924,Thornleigh,44,0,5,3,2,17,0,2
+3925,Thornton,39,0,1,5,13,16,0,6
+3926,Thredbo,0,0,0,0,0,16,0,2
+3927,Thrumster,4,0,0,2,0,3,0,0
+3928,Thuddungra,0,0,0,0,0,0,0,0
+3929,Thule,0,0,0,0,0,0,0,0
+3930,Thumb Creek,0,0,0,0,0,0,0,0
+3931,Thurgoona,6,0,0,2,6,5,0,1
+3932,Thyra,0,0,0,0,0,0,0,0
+3933,Tianjara,0,0,0,0,0,0,0,0
+3934,Tibbuc,0,0,0,0,0,0,0,0
+3935,Tibooburra,0,0,0,0,0,0,0,0
+3936,Tichborne,0,0,0,0,0,0,0,0
+3937,Tichular,0,0,0,0,0,0,0,0
+3938,Tighes Hill,9,0,0,1,2,3,9,2
+3939,Tilba Tilba,2,0,0,0,0,0,3,0
+3940,Tilbuster,0,0,0,0,0,0,0,0
+3941,Tilligerry Creek,0,0,0,0,0,0,0,0
+3942,Tilpa,0,0,0,0,0,0,0,0
+3943,Timbarra,0,0,0,0,0,0,0,0
+3944,Timbillica,0,0,0,0,0,0,0,0
+3945,Timbumburi,0,0,0,0,0,2,0,0
+3946,Timor,0,0,0,0,0,0,0,0
+3947,Tindarey,0,0,0,0,0,0,0,0
+3948,Tinderry,0,0,0,0,0,0,0,0
+3949,Tingha,1,0,0,0,0,0,0,0
+3950,Tingira Heights,8,0,0,2,0,0,0,1
+3951,Tinonee,2,0,0,1,0,2,0,0
+3952,Tinpot,0,0,0,0,0,0,0,0
+3953,Tintenbar,2,0,1,0,1,1,0,0
+3954,Tintinhull,0,0,0,0,0,0,0,0
+3955,Tiona,1,0,0,0,0,0,0,0
+3956,Tipperary,0,0,0,0,0,0,0,0
+3957,Tiri,0,0,0,0,0,0,0,0
+3958,Tirrannaville,0,0,0,0,0,0,0,0
+3959,Titaatee Creek,0,0,0,0,0,0,0,0
+3960,Tocal,0,0,0,0,0,0,0,0
+3961,Tocumwal,2,0,1,2,0,8,0,1
+3962,Tolland,0,0,0,0,0,3,0,0
+3963,Tolwong,0,0,0,0,0,0,0,0
+3964,Tomago,11,0,0,0,8,1,0,0
+3965,Tomakin,5,0,0,0,1,2,0,0
+3966,Tomalla,0,0,0,0,0,0,0,0
+3967,Tombong,0,0,0,0,0,0,0,0
+3968,Tomboye,0,0,0,0,0,0,0,0
+3969,Tomerong,16,0,0,0,1,0,0,0
+3970,Tomewin,0,0,0,0,0,0,0,0
+3971,Tomingley,1,0,0,0,0,1,0,0
+3972,Tomki,0,0,0,0,0,0,0,0
+3973,Toms Creek,0,0,0,0,0,0,0,0
+3974,Tonderburine,0,0,0,0,0,0,0,0
+3975,Tongarra,0,0,0,0,0,0,0,0
+3976,Toogong,0,0,0,0,0,0,0,0
+3977,Tooleybuc,2,0,0,0,0,0,1,0
+3978,Toolijooa,0,0,0,0,0,0,0,0
+3979,Tooloom,0,0,0,0,0,0,0,0
+3980,Tooloon,0,0,0,0,0,0,0,0
+3981,Tooma,0,0,0,0,0,1,0,0
+3982,Toongabbie,28,0,4,9,4,29,2,5
+3983,Toongabbie East,0,0,0,0,0,0,0,0
+3984,Toongi,0,0,0,0,0,0,0,0
+3985,Toonumbar,0,0,0,0,0,0,0,0
+3986,Tooranie,0,0,0,0,0,0,0,0
+3987,Tooraweenah,0,0,0,0,0,0,0,0
+3988,Toormina,28,0,1,6,17,14,0,8
+3989,Toorooka,0,0,0,0,0,0,0,0
+3990,Toothdale,0,0,0,0,0,0,0,0
+3991,Tootool,0,0,0,0,0,0,0,0
+3992,Toowoon Bay,5,0,0,1,1,8,9,1
+3993,Topi Topi,0,0,0,0,0,0,0,0
+3994,Toronto,5,0,5,3,0,12,0,0
+3995,Torrington,0,0,0,0,0,0,0,0
+3996,Torryburn,0,0,0,0,0,0,0,0
+3997,Totnes Valley,0,0,0,0,0,0,1,0
+3998,Tottenham,0,0,0,0,0,0,0,0
+3999,Touga,0,0,0,0,0,0,0,0
+4000,Toukley,37,0,6,15,5,20,1,11
+4001,Towallum,0,0,0,0,0,0,0,0
+4002,Towamba,0,0,0,0,0,0,2,0
+4003,Townsend,0,0,0,0,1,0,0,0
+4004,Towradgi,13,0,0,2,2,5,1,0
+4005,Towrang,0,0,0,0,0,0,0,0
+4006,Tralee,0,0,0,0,0,0,0,0
+4007,Trangie,1,0,0,2,2,0,0,2
+4008,Tregeagle,0,0,0,0,0,0,0,0
+4009,Tregear,36,0,0,1,0,1,0,0
+4010,Trenayr,0,0,0,0,0,0,0,0
+4011,Trentham Cliffs,0,0,0,0,0,1,1,0
+4012,Trewilga,0,0,0,0,0,0,0,0
+4013,Triamble,0,0,0,0,0,0,0,0
+4014,Triangle Flat,0,0,0,0,0,0,0,0
+4015,Trundle,0,0,0,0,0,1,0,0
+4016,Trungley Hall,0,0,0,0,0,0,0,0
+4017,Trunkey Creek,1,0,0,0,0,0,0,0
+4018,Trustums Hill,0,0,0,0,0,0,0,0
+4019,Tubbamurra,0,0,0,0,0,0,0,0
+4020,Tubbul,0,0,0,0,0,0,0,0
+4021,Tucabia,0,0,0,0,0,0,0,0
+4022,Tucki Tucki,0,0,0,0,1,0,0,0
+4023,Tuckombil,0,0,0,0,0,0,0,0
+4024,Tuckurimba,0,0,0,0,0,0,0,0
+4025,Tuena,0,0,0,0,0,1,0,0
+4026,Tuggerah,31,0,3,14,53,40,0,57
+4027,Tuggerawong,16,0,0,1,0,1,0,0
+4028,Tugrabakh,0,0,0,0,0,0,0,0
+4029,Tullakool,0,0,0,0,0,0,0,0
+4030,Tullamore,0,0,0,0,2,0,0,0
+4031,Tullarwalla,2,0,0,0,0,0,1,0
+4032,Tullera,1,0,0,0,0,0,0,0
+4033,Tullibigeal,1,0,0,0,0,0,0,0
+4034,Tullimbar,3,0,0,0,0,1,1,0
+4035,Tulloona,0,0,0,0,0,0,0,0
+4036,Tullymorgan,0,0,0,0,0,0,0,0
+4037,Tumbarumba,1,0,1,2,1,4,3,1
+4038,Tumbi Umbi,30,0,1,4,4,9,0,1
+4039,Tumblong,1,0,0,0,0,0,0,0
+4040,Tumbulgum,3,0,0,0,0,3,0,0
+4041,Tumorrama,0,0,0,0,0,0,0,0
+4042,Tumut,2,0,2,9,16,17,3,12
+4043,Tumut Plains,0,0,0,0,0,0,0,0
+4044,Tuncester,0,0,0,0,0,0,0,0
+4045,Tuncurry,15,0,5,9,16,17,0,4
+4046,Tunglebung,0,0,0,0,0,0,1,0
+4047,Tuntable Creek,3,0,0,0,0,0,1,0
+4048,Tuppal,0,0,0,0,0,0,0,0
+4049,Tura Beach,30,0,1,3,0,5,17,0
+4050,Turill,0,0,0,0,0,0,0,0
+4051,Turlinjah,0,0,0,0,0,0,0,0
+4052,Turners Flat,0,0,0,0,0,0,0,0
+4053,Turondale,0,0,0,0,0,0,1,0
+4054,Tuross,0,0,0,0,0,0,0,0
+4055,Tuross Head,2,0,0,4,1,7,6,0
+4056,Turramurra,42,0,9,10,1,21,2,3
+4057,Turrawan,0,0,0,0,0,0,0,0
+4058,Turrella,7,0,0,0,3,0,1,1
+4059,Turvey Park,24,0,0,3,1,2,0,0
+4060,Tweed Heads,13,0,21,16,8,23,0,19
+4061,Tweed Heads South,37,0,10,14,56,37,0,28
+4062,Tweed Heads South Dc,0,0,0,0,0,0,0,0
+4063,Tweed Heads West,17,0,0,3,1,4,0,0
+4064,Twelve Mile,0,0,0,0,0,0,0,0
+4065,Twelve Mile Creek,0,0,0,0,0,0,3,0
+4066,Twelve Mile Peg,0,0,0,0,0,0,0,0
+4067,Twenty Forests,0,0,0,0,0,0,0,0
+4068,Twin Rivers,0,0,0,0,0,0,0,0
+4069,Two Mile Flat,0,0,0,0,0,0,0,0
+4070,Tyagarah,1,0,0,0,2,0,2,0
+4071,Tyalgum,1,3,0,0,0,1,0,1
+4072,Tyalgum Creek,0,0,0,0,0,0,2,0
+4073,Tygalgah,0,0,0,0,0,0,0,0
+4074,Tyndale,0,0,0,0,0,0,0,0
+4075,Tyringham,0,0,0,0,0,0,0,0
+4076,Uarbry,0,0,0,0,0,0,0,0
+4077,Uki,3,3,1,1,1,4,0,1
+4078,Ulamambri,0,0,0,0,0,0,0,0
+4079,Ulan,0,0,0,0,0,0,0,0
+4080,Ulladulla,6,16,6,13,28,37,0,21
+4081,Ullamalla,0,0,0,0,0,0,0,0
+4082,Ulmarra,0,3,0,0,0,1,0,1
+4083,Ulong,0,1,0,0,0,0,0,0
+4084,Ultimo,10,30,3,3,1,46,0,16
+4085,Umina Beach,51,14,6,15,6,34,3,10
+4086,Unanderra,35,9,2,11,53,24,0,5
+4087,Underbank,0,0,0,0,0,0,0,0
+4088,Ungarie,1,0,0,0,3,0,0,0
+4089,Unumgar,0,0,0,0,0,0,0,0
+4090,Upper Allyn,0,0,0,0,0,0,0,0
+4091,Upper Bingara,0,0,0,0,0,0,0,0
+4092,Upper Burringbar,0,0,0,0,0,0,5,1
+4093,Upper Bylong,0,0,0,0,0,0,0,0
+4094,Upper Colo,0,0,0,0,0,0,2,0
+4095,Upper Coopers Creek,0,0,0,0,0,0,2,0
+4096,Upper Copmanhurst,0,0,0,0,0,0,0,0
+4097,Upper Corindi,0,0,0,0,0,0,0,0
+4098,Upper Crystal Creek,0,0,0,0,0,0,0,0
+4099,Upper Dartbrook,0,0,0,0,0,0,0,0
+4100,Upper Duck Creek,0,0,0,0,0,0,0,0
+4101,Upper Duroby,0,0,0,0,0,0,1,0
+4102,Upper Eden Creek,0,0,0,0,0,0,0,0
+4103,Upper Fine Flower,0,0,0,0,0,0,0,0
+4104,Upper Growee,0,0,0,0,0,0,0,0
+4105,Upper Horseshoe Creek,0,0,0,0,0,0,0,0
+4106,Upper Horton,0,0,0,0,0,0,0,0
+4107,Upper Kangaroo River,0,0,0,0,0,0,8,0
+4108,Upper Kangaroo Valley,0,0,0,0,0,0,0,0
+4109,Upper Karuah River,0,0,0,0,0,0,0,0
+4110,Upper Lansdowne,0,0,0,0,0,0,0,0
+4111,Upper Macdonald,0,0,0,0,0,0,0,0
+4112,Upper Main Arm,0,0,0,0,0,0,3,0
+4113,Upper Mangrove,0,0,0,0,0,0,0,0
+4114,Upper Manilla,1,0,0,0,0,0,0,0
+4115,Upper Mongogarie,0,0,0,0,0,0,0,0
+4116,Upper Myall,2,0,0,0,0,0,0,0
+4117,Upper Nile,0,0,0,0,0,0,0,0
+4118,Upper Orara,0,0,0,0,0,0,2,0
+4119,Upper Pappinbarra,0,0,0,0,0,0,0,0
+4120,Upper Rollands Plains,0,0,0,0,0,0,4,0
+4121,Upper Rouchel,0,0,0,0,0,0,0,0
+4122,Upper Taylors Arm,0,0,0,0,0,0,0,0
+4123,Upper Tooloom,0,0,0,0,0,0,0,0
+4124,Upper Turon,0,0,0,0,0,0,0,0
+4125,Upper Wilsons Creek,0,0,0,0,0,0,1,1
+4126,Upsalls Creek,0,0,0,0,0,0,0,0
+4127,Uralba,0,0,0,0,0,0,0,0
+4128,Uralla,3,4,0,1,3,6,1,7
+4129,Urana,1,2,0,0,1,0,0,0
+4130,Urangeline,0,0,0,0,0,0,0,0
+4131,Urangeline East,0,0,0,0,0,0,0,0
+4132,Uranquinty,0,1,0,0,0,1,0,0
+4133,Urawilkie,0,0,0,0,0,0,0,0
+4134,Urbenville,1,0,0,0,1,0,0,0
+4135,Urila,0,0,0,0,0,0,0,0
+4136,Urliup,0,0,0,0,0,0,0,0
+4137,Urunga,2,7,2,1,5,6,0,0
+4138,Utungun,0,0,0,0,0,0,0,1
+4139,Vacy,2,1,0,0,1,3,0,1
+4140,Vale Of Clwydd,0,0,0,0,0,0,0,0
+4141,Valentine,5,2,1,3,0,4,0,0
+4142,Valery,0,0,0,0,0,0,0,0
+4143,Valla,0,1,0,0,1,3,0,0
+4144,Valla Beach,2,2,0,0,0,3,0,0
+4145,Valley Heights,11,0,0,0,3,1,11,0
+4146,Varroville,1,0,0,0,0,0,0,0
+4147,Vaucluse,32,4,2,5,1,13,0,2
+4148,Verges Creek,0,0,0,0,0,0,0,0
+4149,Verona,0,0,0,0,0,0,0,0
+4150,Villawood,18,5,1,2,4,13,0,7
+4151,Vincentia,5,5,5,3,1,17,0,4
+4152,Vineyard,26,1,0,1,2,4,0,0
+4153,Violet Hill,0,0,0,0,0,0,0,0
+4154,Vittoria,0,0,0,0,0,1,0,0
+4155,Voyager Point,11,0,0,1,0,0,1,0
+4156,Wadalba,20,3,1,1,2,4,0,2
+4157,Wadbilliga,0,0,0,0,0,0,0,0
+4158,Wadeville,0,0,0,0,0,0,0,0
+4159,Wagga Wagga,41,46,27,51,43,59,49,60
+4160,Wagga Wagga Bc,0,0,0,0,0,0,0,0
+4161,Wagga Wagga Raaf,0,0,0,0,0,0,0,0
+4162,Wagstaffe,2,0,0,0,0,0,0,0
+4163,Wahroonga,31,13,12,6,3,23,2,4
+4164,Waitara,8,4,1,3,7,13,0,1
+4165,Waitui,0,0,0,0,0,0,0,0
+4166,Wakefield,0,0,0,0,0,0,0,0
+4167,Wakeley,14,1,1,2,0,2,0,2
+4168,Wakool,0,1,0,0,0,0,0,0
+4169,Walang,0,0,0,0,0,0,0,0
+4170,Walbundrie,0,0,0,0,0,0,0,0
+4171,Walcha,0,0,0,0,0,0,0,0
+4172,Walcha Road,3,7,0,1,5,11,0,0
+4173,Waldegrave,0,0,0,0,0,0,0,0
+4174,Walgett,0,0,0,0,0,0,0,0
+4175,Walla Walla,0,1,0,0,0,0,0,0
+4176,Wallabadah,0,0,0,0,2,1,0,0
+4177,Wallabi Point,0,1,0,0,1,1,0,1
+4178,Wallacetown,0,0,0,0,0,0,0,0
+4179,Wallacia,19,1,1,1,1,2,2,0
+4180,Wallaga Lake,1,0,0,0,0,1,0,0
+4181,Wallagoot,9,0,0,0,0,0,0,0
+4182,Wallalong,0,0,0,0,1,0,0,0
+4183,Wallamore,0,0,0,0,0,0,0,0
+4184,Wallanbah,0,0,0,0,0,0,0,0
+4185,Wallangra,0,0,0,0,0,0,0,0
+4186,Wallanthery,0,0,0,0,0,0,0,0
+4187,Wallarah,2,0,0,0,0,0,0,0
+4188,Wallaringa,0,0,0,0,0,0,0,0
+4189,Wallarobba,1,1,0,0,0,1,0,0
+4190,Wallendbeen,1,0,0,0,0,0,2,0
+4191,Wallerawang,31,2,0,1,0,5,1,0
+4192,Walleroobie,0,0,0,0,0,0,0,0
+4193,Wallingat,0,0,0,0,0,0,0,0
+4194,Wallis Lake,0,0,0,0,0,0,1,0
+4195,Wallsend,39,11,7,11,14,32,0,11
+4196,Wallsend Dc,0,0,0,0,0,0,0,0
+4197,Wallsend South,0,0,0,0,0,0,0,0
+4198,Walmer,0,0,0,0,0,0,0,0
+4199,Wamban,0,0,0,0,0,0,0,0
+4200,Wambangalang,0,0,0,0,0,0,0,0
+4201,Wamberal,36,7,2,6,0,12,0,2
+4202,Wamboin,0,0,0,0,0,1,1,0
+4203,Wambool,0,0,0,0,0,0,0,0
+4204,Wambrook,0,0,0,0,0,0,0,0
+4205,Wanaaring,0,0,0,0,0,0,0,0
+4206,Wandandian,5,0,0,0,3,0,0,0
+4207,Wandella,0,0,0,0,0,0,0,0
+4208,Wandera,0,0,0,0,0,0,0,0
+4209,Wandook,0,0,0,0,0,0,0,0
+4210,Wandsworth,0,0,0,0,0,0,0,0
+4211,Wang Wauk,0,0,0,0,0,0,0,0
+4212,Wanganella,0,0,0,0,0,0,0,0
+4213,Wanganui,0,0,0,0,0,0,0,0
+4214,Wangi Wangi,26,2,1,3,0,8,13,0
+4215,Wantabadgery,0,0,0,0,0,0,0,0
+4216,Wantagong,0,0,0,0,0,0,0,0
+4217,Wantiool,0,0,0,0,0,0,0,0
+4218,Wapengo,0,0,0,0,0,0,0,0
+4219,Warabrook,8,2,0,1,0,2,0,0
+4220,Waratah,37,4,0,5,4,7,0,1
+4221,Waratah West,14,0,0,0,0,0,1,0
+4222,Warburn,0,0,0,0,0,0,0,0
+4223,Wardell,0,1,0,0,0,3,0,1
+4224,Wardrop Valley,0,0,0,0,0,0,0,0
+4225,Wards Mistake,0,0,0,0,0,0,0,0
+4226,Wards River,1,1,0,0,0,0,0,0
+4227,Wareemba,4,3,0,1,0,5,1,3
+4228,Warialda,1,2,1,1,5,1,0,0
+4229,Warialda Rail,1,0,0,0,0,0,4,0
+4230,Warilla,27,7,10,11,12,18,1,7
+4231,Warkworth,0,0,0,0,0,0,0,0
+4232,Warners Bay,41,15,6,16,4,39,0,14
+4233,Warnervale,13,3,0,1,2,2,0,0
+4234,Warrabah,0,0,0,0,0,0,0,0
+4235,Warraderry,0,0,0,0,0,0,0,0
+4236,Warragai Creek,1,0,0,0,0,0,0,0
+4237,Warragamba,11,2,0,2,0,4,0,0
+4238,Warragoon,0,1,0,0,0,1,0,0
+4239,Warrah,0,0,0,0,0,0,0,0
+4240,Warrah Creek,0,0,0,0,0,0,0,0
+4241,Warrah Ridge,0,0,0,0,0,0,0,0
+4242,Warral,0,0,0,0,0,0,0,0
+4243,Warranulla,0,0,0,0,0,0,0,0
+4244,Warrawee,2,0,0,0,0,0,0,0
+4245,Warrawidgee,0,0,0,0,0,0,0,0
+4246,Warrawong,38,10,7,14,8,33,1,12
+4247,Warrazambil Creek,0,0,0,0,0,0,0,0
+4248,Warregah Island,0,0,0,0,0,0,0,0
+4249,Warrell Creek,0,0,0,0,0,0,0,0
+4250,Warren,1,1,1,2,2,2,0,0
+4251,Warri,0,0,0,0,0,0,0,0
+4252,Warriewood,35,19,3,11,10,21,0,22
+4253,Warriewood Dc,0,0,0,0,0,0,0,0
+4254,Warriewood Shopping Square,0,0,0,0,0,0,0,0
+4255,Warrimoo,17,0,0,1,1,1,0,0
+4256,Warringah Mall,0,0,0,0,0,0,0,0
+4257,Warriwillah,0,0,0,0,0,0,0,0
+4258,Warroo,0,0,0,0,0,0,0,0
+4259,Warrumbungle,0,0,0,0,0,0,0,0
+4260,Warwick Farm,20,4,1,1,19,18,12,18
+4261,Washpool,0,0,0,0,0,0,0,0
+4262,Watagan,0,0,0,0,0,0,0,0
+4263,Watanobbi,11,0,0,0,2,0,0,0
+4264,Waterfall,1,0,0,0,0,1,1,1
+4265,Waterloo,22,35,7,10,7,54,0,10
+4266,Waterloo Dc,0,0,0,0,0,0,0,0
+4267,Watersleigh,0,0,0,0,0,0,0,0
+4268,Waterview,0,0,0,0,0,0,0,0
+4269,Waterview Heights,7,0,0,1,0,0,0,0
+4270,Watsons Bay,7,4,0,0,0,8,2,1
+4271,Watsons Creek,0,0,0,0,0,0,0,0
+4272,Wattamolla,0,0,0,0,0,0,0,0
+4273,Wattamondara,0,0,0,0,0,0,1,0
+4274,Wattle Flat,0,1,0,0,0,0,0,0
+4275,Wattle Grove,40,1,1,2,0,4,1,0
+4276,Wattle Ponds,0,0,0,0,0,0,0,0
+4277,Wattle Ridge,0,0,0,0,0,0,3,0
+4278,Wattle Springs,0,0,0,0,0,0,0,0
+4279,Watton,0,0,0,0,0,0,0,0
+4280,Wauchope,32,10,4,10,2,17,0,9
+4281,Waugorah,0,0,0,0,0,0,0,0
+4282,Waukivory,0,0,0,0,0,0,0,0
+4283,Waverley,19,5,1,6,0,19,0,4
+4284,Waverly,0,0,0,0,0,0,0,0
+4285,Waverton,8,5,1,2,0,4,1,0
+4286,Way Way,0,0,0,0,0,0,0,0
+4287,Wayo,0,0,0,0,0,0,0,0
+4288,Weabonga,0,0,0,0,0,0,0,0
+4289,Wean,0,0,0,0,0,0,0,0
+4290,Webbers Creek,0,0,0,0,0,0,0,0
+4291,Webbs Creek,0,0,0,0,0,0,4,0
+4292,Wedderburn,2,0,0,0,0,0,0,0
+4293,Wee Jasper,0,1,0,0,0,1,8,0
+4294,Wee Waa,1,1,0,0,4,3,0,0
+4295,Weedallion,0,0,0,0,0,0,0,0
+4296,Weemelah,0,0,0,0,0,0,0,0
+4297,Weetaliba,0,0,0,0,0,0,0,0
+4298,Weethalle,0,0,0,0,0,1,0,0
+4299,Weilmoringle,0,0,0,0,0,0,0,0
+4300,Weismantels,0,0,0,0,0,0,0,0
+4301,Welaregang,0,0,0,0,0,0,0,0
+4302,Welby,6,1,0,0,0,0,0,0
+4303,Wellingrove,0,0,0,0,0,0,0,0
+4304,Wellington,1,0,0,0,0,0,0,0
+4305,Wellington Vale,0,0,0,0,0,0,0,0
+4306,Wells Crossing,1,0,0,0,0,0,0,0
+4307,Wendoree Park,0,0,0,0,0,0,0,0
+4308,Wentworth,0,0,0,0,0,0,0,0
+4309,Wentworth Falls,54,7,2,3,2,13,0,0
+4310,Wentworth Point,7,6,3,4,1,24,3,0
+4311,Wentworthville,46,7,11,15,4,36,0,7
+4312,Werai,0,0,0,0,0,0,0,0
+4313,Wereboldera,0,0,0,0,0,0,0,0
+4314,Wermatong,0,0,0,0,0,0,0,0
+4315,Werombi,5,0,0,0,0,0,1,1
+4316,Werri Beach,6,0,0,0,0,2,8,0
+4317,Werrikimbe,0,0,0,0,0,0,0,0
+4318,Werrington,22,4,0,0,2,8,0,0
+4319,Werrington County,32,0,0,2,0,6,0,0
+4320,Werrington Downs,21,0,0,0,0,1,1,0
+4321,Werris Creek,7,2,0,1,1,1,16,0
+4322,West Albury,25,1,1,1,1,3,8,1
+4323,West Armidale,0,0,0,0,0,0,0,0
+4324,West Ballina,9,2,0,1,7,6,0,0
+4325,West Bathurst,20,0,0,0,0,2,0,0
+4326,West Bungawalbin,0,0,0,0,0,0,0,0
+4327,West Coraki,0,0,0,0,0,0,0,0
+4328,West Gosford,26,9,2,2,46,16,25,23
+4329,West Haven,0,0,0,0,0,0,0,0
+4330,West Hoxton,33,0,0,5,1,1,2,3
+4331,West Kempsey,13,2,2,1,3,5,0,1
+4332,West Nowra,4,0,0,0,0,0,0,1
+4333,West Pennant Hills,50,6,3,6,2,11,17,0
+4334,West Pymble,45,3,2,3,2,8,0,0
+4335,West Ryde,42,15,25,18,26,43,0,5
+4336,West Tamworth,26,8,3,1,3,13,0,7
+4337,West Wallsend,23,0,0,3,2,5,19,1
+4338,West Wiangaree,0,0,0,0,0,0,0,0
+4339,West Wollongong,38,1,0,2,2,8,0,0
+4340,West Wyalong,2,6,2,0,11,16,32,5
+4341,Westbrook,0,1,0,0,0,0,0,0
+4342,Westdale,2,0,0,2,0,2,0,0
+4343,Westgate,0,0,0,0,0,0,0,0
+4344,Westleigh,12,1,2,1,1,4,0,1
+4345,Westmead,34,12,8,4,2,24,2,3
+4346,Weston,7,0,1,1,1,4,0,1
+4347,Westwood,0,0,0,0,0,0,0,0
+4348,Wetherill Park,43,24,11,17,17,54,0,43
+4349,Wetherill Park Bc,0,0,0,0,0,0,0,0
+4350,Wetuppa,0,0,0,0,0,0,0,0
+4351,Whalan,37,0,0,0,2,2,0,1
+4352,Whale Beach,0,1,0,0,0,0,5,0
+4353,Wheeler Heights,17,0,0,0,0,0,2,0
+4354,Wheeny Creek,0,0,0,0,0,0,1,0
+4355,Wheeo,0,0,0,0,0,0,0,0
+4356,Wherrol Flat,0,0,0,0,0,0,2,0
+4357,Whian Whian,0,0,0,0,0,0,7,0
+4358,Whiporie,0,0,0,0,0,0,0,0
+4359,White Cliffs,0,0,0,0,0,0,0,0
+4360,White Rock,0,0,0,0,0,0,0,0
+4361,Whitebridge,3,2,0,2,3,2,0,0
+4362,Whiteman Creek,1,0,0,0,0,0,0,0
+4363,Whittingham,1,0,0,0,0,0,0,0
+4364,Whitton,1,0,0,0,0,2,0,0
+4365,Whoota,0,0,0,0,0,0,0,0
+4366,Wiagdon,0,0,0,0,0,0,0,0
+4367,Wiangaree,1,0,0,0,0,0,0,0
+4368,Wiarborough,0,0,0,0,0,0,0,0
+4369,Wickham,1,8,1,12,16,10,0,2
+4370,Widden,0,0,0,0,0,0,1,0
+4371,Widgelli,0,0,0,0,0,0,0,0
+4372,Wilberforce,26,0,0,3,3,2,1,0
+4373,Wilbetree,0,0,0,0,0,0,0,0
+4374,Wilcannia,0,0,0,0,0,0,0,0
+4375,Wild Cattle Creek,0,0,0,0,0,0,0,0
+4376,Wildes Meadow,0,0,0,0,0,0,5,0
+4377,Wiley Park,18,1,0,0,3,5,7,0
+4378,Willala,0,0,0,0,0,0,0,0
+4379,Willawarrin,2,0,0,0,0,1,0,0
+4380,Willbriggie,2,3,0,1,0,2,0,0
+4381,Willi Willi,0,0,0,0,0,0,0,0
+4382,Williamsdale,0,0,0,0,0,0,0,0
+4383,Williamtown,21,6,0,0,1,4,0,0
+4384,Willigobung,0,0,0,0,0,0,0,0
+4385,Willina,0,0,0,0,0,0,0,0
+4386,Willmot,17,0,0,0,0,1,0,0
+4387,Willoughby,13,10,3,7,5,17,1,3
+4388,Willoughby East,13,0,1,0,0,0,0,0
+4389,Willoughby North,0,0,0,0,0,0,0,0
+4390,Willow Tree,2,3,0,0,0,2,0,0
+4391,Willow Vale,0,0,0,0,0,0,0,0
+4392,Willsons Downfall,0,0,0,0,0,0,0,0
+4393,Willurah,0,0,0,0,0,0,0,0
+4394,Wilpinjong,0,0,0,0,0,0,0,0
+4395,Wilsons Creek,0,0,0,0,0,0,1,0
+4396,Wilton,1,3,1,3,0,2,0,0
+4397,Wimbledon,0,0,0,0,0,0,0,0
+4398,Wimborne,0,0,0,0,0,0,0,0
+4399,Winburndale,0,0,0,0,0,0,0,0
+4400,Windale,23,0,0,1,0,2,1,0
+4401,Windang,10,1,0,4,0,8,0,2
+4402,Windella,1,0,0,0,0,1,0,0
+4403,Windellama,0,0,0,0,0,0,0,0
+4404,Windera,0,0,0,0,0,0,0,0
+4405,Windermere,0,0,0,0,0,0,0,0
+4406,Windermere Park,3,0,0,0,0,0,0,0
+4407,Windeyer,0,0,0,0,0,0,1,0
+4408,Windowie,0,0,0,0,0,0,0,0
+4409,Windradyne,0,1,0,0,0,1,0,0
+4410,Windsor,1,18,5,11,5,38,0,11
+4411,Windsor Downs,2,0,0,0,1,0,2,0
+4412,Windy,0,0,0,0,0,0,0,0
+4413,Winegrove,0,0,0,0,0,0,0,0
+4414,Wingadee,0,0,0,0,0,0,0,0
+4415,Wingello,4,1,0,0,0,1,1,0
+4416,Wingen,0,0,0,0,0,0,0,0
+4417,Wingham,16,7,1,8,8,14,0,2
+4418,Winifred,0,0,0,0,0,0,0,0
+4419,Winmalee,31,4,1,5,2,6,1,0
+4420,Winston Hills,41,4,6,2,0,15,0,8
+4421,Winton,0,0,0,0,0,0,0,0
+4422,Wirlinga,0,0,0,0,0,0,0,0
+4423,Wirraba,0,0,0,0,0,0,0,0
+4424,Wirragulla,1,0,0,0,0,0,0,0
+4425,Wirrimah,0,0,0,0,0,0,0,0
+4426,Wirrimbi,2,0,0,0,0,0,0,0
+4427,Wirrinya,0,0,0,0,0,0,0,0
+4428,Wisemans Creek,0,0,0,0,0,0,2,0
+4429,Wisemans Ferry,3,2,0,0,1,3,0,2
+4430,Wittitrin,0,0,0,0,0,0,0,0
+4431,Wog Wog,0,0,0,0,0,0,0,0
+4432,Woko,0,0,0,0,0,0,0,0
+4433,Wolgan Valley,0,0,0,0,0,2,6,0
+4434,Wollangambe,0,0,0,0,0,0,0,0
+4435,Wollar,0,0,0,0,0,1,0,0
+4436,Wollemi,0,0,0,0,0,0,0,0
+4437,Wolli Creek,3,10,6,7,8,28,1,1
+4438,Wollogorang,0,0,0,0,0,0,0,0
+4439,Wollombi,0,3,0,0,0,5,1,0
+4440,Wollomombi,0,0,0,0,0,0,0,0
+4441,Wollongbar,6,2,2,0,0,5,0,0
+4442,Wollongong,50,55,35,53,40,58,0,59
+4443,Wollongong Dc,0,0,0,0,0,0,0,0
+4444,Wollongong West,0,0,0,0,0,0,0,0
+4445,Wollstonecraft,9,2,1,0,0,0,1,0
+4446,Wollumboola,9,0,0,0,0,0,0,0
+4447,Wollun,0,0,0,0,0,0,0,0
+4448,Wolumla,7,0,0,1,0,0,0,0
+4449,Wombarra,12,0,0,0,0,0,0,0
+4450,Wombat,0,0,0,0,0,0,6,0
+4451,Wombat Creek,0,0,0,0,0,0,0,0
+4452,Wombeyan Caves,0,1,0,0,0,0,0,0
+4453,Womboota,0,0,0,0,0,0,0,0
+4454,Womerah,0,0,0,0,0,0,0,0
+4455,Wonboyn,0,0,0,0,0,0,0,0
+4456,Wonboyn North,0,0,0,0,0,0,0,0
+4457,Wondabyne,1,0,0,0,0,0,0,0
+4458,Wondalga,1,0,0,0,0,0,0,0
+4459,Wongarbon,4,0,0,0,0,0,0,1
+4460,Wongawilli,4,0,0,0,0,0,0,0
+4461,Wongo Creek,0,0,0,0,0,0,0,0
+4462,Wongwibinda,0,0,0,0,0,1,0,0
+4463,Woodberry,19,0,0,1,2,2,0,1
+4464,Woodbine,18,2,0,0,0,6,0,0
+4465,Woodburn,0,4,0,1,0,4,0,1
+4466,Woodcroft,8,1,1,1,0,6,0,0
+4467,Woodenbong,1,1,0,0,0,1,0,0
+4468,Woodford,2,0,0,1,0,1,0,1
+4469,Woodford Island,1,0,0,0,0,0,0,0
+4470,Woodhill,0,0,0,0,0,0,0,0
+4471,Woodhouselee,0,0,0,0,0,0,0,0
+4472,Woodlands,0,0,0,0,0,0,0,0
+4473,Woodlawn,0,0,0,0,0,0,0,1
+4474,Woodpark,5,1,0,1,2,4,0,0
+4475,Woodrising,3,0,0,1,0,1,0,0
+4476,Woodside,0,0,0,0,0,0,0,0
+4477,Woodsreef,0,0,0,0,0,0,0,0
+4478,Woodstock,1,1,0,0,0,2,0,0
+4479,Woodview,0,0,0,0,0,0,0,0
+4480,Woodville,0,0,0,0,0,0,0,0
+4481,Woody Head,0,0,0,0,0,0,0,0
+4482,Woolbrook,1,0,0,0,0,0,0,0
+4483,Woolgarlo,0,0,0,0,0,0,0,0
+4484,Woolgoolga,23,10,4,7,1,27,0,10
+4485,Wooli,0,0,0,0,0,3,0,0
+4486,Woollahra,18,13,14,18,4,10,1,20
+4487,Woollamia,2,0,0,0,1,0,0,0
+4488,Woolloomooloo,9,11,2,3,3,31,1,4
+4489,Woolners Arm,0,0,0,0,0,0,0,0
+4490,Woolomin,0,0,0,0,0,0,0,0
+4491,Woolooma,0,0,0,0,0,0,0,0
+4492,Woolooware,23,1,2,6,1,5,0,2
+4493,Wooloweyah,1,0,0,0,0,0,0,0
+4494,Woolwich,6,3,0,0,0,4,0,0
+4495,Woomargama,1,1,0,0,0,1,0,0
+4496,Woombah,8,0,0,0,0,0,0,0
+4497,Woongarrah,35,0,1,0,1,0,0,0
+4498,Woonona,31,11,4,13,7,22,0,6
+4499,Woonona East,0,0,0,0,0,0,0,0
+4500,Wootton,1,1,0,0,0,1,0,1
+4501,Wooyung,0,0,0,0,0,0,0,0
+4502,Worlds End,0,0,0,0,0,0,0,0
+4503,Woronora,21,2,0,1,0,3,1,1
+4504,Woronora Dam,0,0,0,0,0,0,1,0
+4505,Woronora Heights,18,0,0,0,0,0,6,0
+4506,Worrigee,16,0,0,2,0,3,0,0
+4507,Worrowing Heights,0,0,0,0,0,0,0,0
+4508,Woy Woy,47,13,6,0,27,39,20,13
+4509,Woy Woy Bay,1,0,0,0,0,0,0,0
+4510,Wrathall,0,0,0,0,0,0,0,0
+4511,Wreck Bay,0,0,0,0,0,0,0,0
+4512,Wrights Beach,0,0,0,0,0,0,0,0
+4513,Wrights Creek,0,0,0,0,0,0,0,0
+4514,Wuuluman,0,0,0,0,0,0,0,0
+4515,Wyalong,1,1,0,0,1,0,0,0
+4516,Wyan,0,0,0,0,0,0,0,0
+4517,Wyanbene,0,0,0,0,0,0,0,0
+4518,Wyangala,1,0,0,0,0,0,0,0
+4519,Wyangle,0,0,0,0,0,0,0,0
+4520,Wybong,0,0,0,0,0,0,0,0
+4521,Wybung,0,0,0,0,0,0,0,0
+4522,Wyee,29,2,0,0,0,3,0,0
+4523,Wyee Point,7,0,0,0,0,0,0,0
+4524,Wylie Creek,0,0,0,0,0,0,0,0
+4525,Wylies Flat,0,0,0,0,0,0,0,0
+4526,Wymah,1,0,0,0,0,0,1,0
+4527,Wyndham,0,0,0,0,0,0,0,0
+4528,Wyneden,0,0,0,0,0,0,0,0
+4529,Wyoming,15,6,5,0,18,21,0,1
+4530,Wyong,40,9,3,12,20,37,1,4
+4531,Wyong Creek,0,0,0,0,1,0,8,0
+4532,Wyongah,13,0,0,0,0,1,0,0
+4533,Wyrallah,0,0,0,0,0,0,0,0
+4534,Yabbra,0,0,0,0,0,0,0,0
+4535,Yadboro,0,0,0,0,0,0,0,0
+4536,Yagon,0,0,0,0,0,0,0,0
+4537,Yagoona,47,3,4,0,1,15,0,8
+4538,Yagoona West,0,0,0,0,0,0,0,0
+4539,Yalbraith,0,0,0,0,0,0,0,0
+4540,Yallah,2,2,0,0,4,2,0,1
+4541,Yallaroi,0,0,0,0,0,0,0,0
+4542,Yalwal,0,0,0,0,0,0,0,0
+4543,Yamba,8,17,3,0,10,36,0,16
+4544,Yambulla,0,0,0,0,0,0,0,0
+4545,Yanco,1,0,0,0,0,0,0,0
+4546,Yanderra,7,1,0,0,0,1,0,0
+4547,Yanga,0,0,0,0,0,3,0,0
+4548,Yankees Creek,0,0,0,0,0,0,0,0
+4549,Yannergee,0,0,0,0,0,0,0,0
+4550,Yantabulla,0,0,0,0,0,0,0,0
+4551,Yaouk,0,0,0,0,0,0,0,0
+4552,Yarara,0,0,0,0,0,0,0,0
+4553,Yarra,0,0,0,0,0,0,0,0
+4554,Yarrabandai,1,0,0,0,0,0,0,0
+4555,Yarrabin,0,0,0,0,0,0,0,0
+4556,Yarragal,0,0,0,0,0,0,0,0
+4557,Yarragrin,0,0,0,0,0,0,0,0
+4558,Yarragundry,0,0,0,0,0,0,1,0
+4559,Yarrahapinni,0,0,0,0,0,0,0,0
+4560,Yarramalong,0,2,0,0,0,2,0,0
+4561,Yarraman,0,0,0,0,0,0,0,0
+4562,Yarramundi,0,0,0,0,1,0,0,0
+4563,Yarranbella,0,0,0,0,0,0,0,0
+4564,Yarrangobilly,0,0,0,0,0,0,0,0
+4565,Yarras,0,0,0,0,0,0,0,0
+4566,Yarratt Forest,0,0,0,0,0,0,0,0
+4567,Yarravel,3,0,0,0,0,0,0,0
+4568,Yarrawa,0,0,0,0,0,0,0,0
+4569,Yarrawarrah,33,0,0,0,0,2,0,0
+4570,Yarrawonga,0,0,0,0,0,0,0,0
+4571,Yarrawonga Park,2,0,1,0,0,0,0,0
+4572,Yarrie Lake,0,0,0,0,0,0,0,0
+4573,Yarrow,0,0,0,0,0,0,0,0
+4574,Yarrowford,0,0,0,0,0,0,0,0
+4575,Yarrowitch,0,0,0,0,0,0,0,0
+4576,Yarrowyck,1,0,0,0,0,0,0,0
+4577,Yass,19,13,2,0,13,20,1,4
+4578,Yass River,0,0,0,0,0,0,2,0
+4579,Yathella,4,0,0,0,0,0,0,0
+4580,Yattalunga,4,0,1,0,0,0,0,0
+4581,Yatte Yattah,2,1,0,0,0,1,3,0
+4582,Yaven Creek,0,0,0,0,0,0,0,0
+4583,Yelgun,0,0,0,0,0,0,0,0
+4584,Yellow Dam,0,0,0,0,0,0,0,0
+4585,Yellow Pinch,0,0,0,0,0,0,0,0
+4586,Yellow Rock,14,0,0,0,0,1,6,0
+4587,Yenda,3,0,0,0,0,0,0,0
+4588,Yengo National Park,0,0,0,0,0,0,0,0
+4589,Yennora,9,4,0,0,30,6,0,3
+4590,Yeoval,2,2,0,0,1,1,0,0
+4591,Yerong Creek,1,0,0,0,0,0,0,0
+4592,Yerrinbool,10,0,0,0,1,0,1,0
+4593,Yerriyong,0,1,0,0,0,1,0,0
+4594,Yessabah,0,0,0,0,0,0,0,0
+4595,Yetholme,1,0,0,0,0,0,0,0
+4596,Yetman,1,0,0,0,0,0,0,0
+4597,Yippin Creek,0,0,0,0,0,0,0,0
+4598,Yoogali,1,1,1,0,0,1,0,0
+4599,Yorklea,0,0,0,0,0,0,0,0
+4600,Young,0,8,7,0,0,33,12,1
+4601,Yowie Bay,13,1,0,0,0,1,5,1
+4602,Yowrie,0,0,0,0,0,0,0,0
+4603,Yullundry,0,0,0,0,0,0,0,0
+4604,Yuraygir,0,0,0,0,0,0,0,0
+4605,Zara,0,0,0,0,0,0,0,0
+4606,Zetland,15,15,4,0,9,42,0,3

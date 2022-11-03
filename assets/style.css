@@ -1,0 +1,80 @@
+.card {
+    border-radius: 6px;
+    color: black;
+    text-align: center;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+.card.card-danger {
+    color: white;
+    background-color: rgb(220, 53, 69);
+}
+
+.card.card-info {
+    color: white;
+    background-color:rgb(23, 162, 184);
+}
+
+.card.card-lightgray {
+    color: black;
+    background-color:rgb(240, 240, 240);
+}
+
+.card.card-light {
+    color: black;
+    background-color:rgb(245, 245, 245);
+}
+
+.card .card-header {
+    padding: 6px;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom-color:rgba(0, 0, 0, 0.125);
+    border-bottom-left-radius:0px;
+    border-bottom-right-radius:0px;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+}
+
+.card .card-body {
+    padding: 1px;
+}
+.tooltip  {
+    font-size: 5px;
+    width: 250px;
+    display: block;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+  }
+
+.tooltip ::after {
+    content: " ";
+    position: absolute;
+    top:100%;/* at the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.3) transparent transparent transparent;
+}
+
+
+.select-hang {
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index: 9999;
+    width: 100%;
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+.select-normal {
+    position:inherit;
+}
+
+
